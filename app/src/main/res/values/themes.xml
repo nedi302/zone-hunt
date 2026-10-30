@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Zonenjagd" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/lime</item>
+        <item name="colorPrimaryVariant">@color/lime_dim</item>
+        <item name="colorOnPrimary">@color/ink</item>
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/ink</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="colorError">@color/red</item>
+        <item name="colorOnError">@color/ink</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:windowBackground">@drawable/bg_app</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColorPrimary">@color/text</item>
+        <item name="android:textColorSecondary">@color/muted</item>
+        <item name="android:textColorHint">@color/muted</item>
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.Zonenjagd.AlertDialog</item>
+        <item name="alertDialogTheme">@style/ThemeOverlay.Zonenjagd.AlertDialog</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Theme.Zonenjagd.Game" parent="Theme.Zonenjagd">
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+
+    <style name="ThemeOverlay.Zonenjagd.AlertDialog" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorSurface">@color/surface_2</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="colorPrimary">@color/lime</item>
+        <item name="colorOnPrimary">@color/ink</item>
+        <item name="android:textColorPrimary">@color/text</item>
+        <item name="buttonBarPositiveButtonStyle">@style/Widget.Zonenjagd.DialogButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Widget.Zonenjagd.DialogButton.Muted</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.DialogButton" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/lime</item>
+    </style>
+    <style name="Widget.Zonenjagd.DialogButton.Muted" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/muted</item>
+    </style>
+
+    <style name="TextAppearance.Zonenjagd.Display" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:lineSpacingMultiplier">0.88</item>
+    </style>
+
+    <style name="TextAppearance.Zonenjagd.Title" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="TextAppearance.Zonenjagd.Section" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:letterSpacing">0.16</item>
+        <item name="android:textColor">@color/muted</item>
+    </style>
+
+    <style name="TextAppearance.Zonenjagd.Label" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/text_soft</item>
+    </style>
+
+    <style name="TextAppearance.Zonenjagd.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_soft</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="TextAppearance.Zonenjagd.Small" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/muted</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/ink</item>
+        <item name="backgroundTint">@color/lime</item>
+        <item name="cornerRadius">18dp</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="elevation">0dp</item>
+        <item name="rippleColor">@color/ink</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.Button.Orange" parent="Widget.Zonenjagd.Button.Primary">
+        <item name="backgroundTint">@color/orange</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.Button.Secondary" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="strokeColor">@color/line</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cornerRadius">18dp</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="backgroundTint">@color/white_06</item>
+        <item name="rippleColor">@color/lime</item>
+        <item name="iconTint">@color/lime</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.Button.Ghost" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/text_soft</item>
+        <item name="android:textSize">14sp</item>
+        <item name="rippleColor">@color/lime</item>
+        <item name="iconTint">@color/text_soft</item>
+        <item name="android:minHeight">44dp</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.IconButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:minWidth">44dp</item>
+        <item name="android:minHeight">44dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="iconTint">@color/text</item>
+        <item name="android:padding">0dp</item>
+        <item name="rippleColor">@color/lime</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+        <item name="boxStrokeColor">@color/lime</item>
+        <item name="hintTextColor">@color/muted</item>
+        <item name="android:textColorHint">@color/muted</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="boxBackgroundColor">@color/white_06</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="boxBackgroundMode">outline</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.SeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:progressTint">@color/lime</item>
+        <item name="android:progressBackgroundTint">@color/line</item>
+        <item name="android:thumbTint">@color/lime</item>
+        <item name="android:splitTrack">false</item>
+        <item name="android:minHeight">40dp</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.PlayerChip" parent="">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Widget.Zonenjagd.Divider" parent="">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/line_soft</item>
+    </style>
+
+</resources>

@@ -1,0 +1,103 @@
+main_kicker|||OUTDOOR|||OUTDOOR|||AL AIRE LIBRE|||EN PLEIN AIR
+main_tagline|||The hunt is outside. Your friends, the map, a zone that shrinks.|||Die Jagd ist draußen. Deine Freunde, die Karte, eine Zone, die schrumpft.|||La cacería es al aire libre. Tus amigos, el mapa, una zona que se reduce.|||La chasse se passe dehors. Tes amis, la carte, une zone qui rétrécit.
+main_create|||Create hunt|||Jagd erstellen|||Crear cacería|||Créer une chasse
+main_join|||Join with code|||Mit Code beitreten|||Unirse con código|||Rejoindre avec un code
+main_footnote|||No account. No sign-up. Just outside.|||Kein Account. Keine Anmeldung. Nur draußen.|||Sin cuenta. Sin registro. Solo al aire libre.|||Pas de compte. Pas d’inscription. Juste dehors.
+section_stats|||YOUR STATS|||DEINE BILANZ|||TUS ESTADÍSTICAS|||TES STATS
+main_total_distance|||Total distance|||Gesamtstrecke|||Distancia total|||Distance totale
+main_calories_burned|||Calories burned|||Kalorien verbrannt|||Calorías quemadas|||Calories brûlées
+main_stats_note|||Only the routes you walk during rounds are counted.|||Gezählt werden die Wege, die du während der Runden zu Fuß zurücklegst.|||Solo se cuentan los recorridos que haces a pie durante las rondas.|||Seuls les trajets parcourus à pied pendant les manches sont comptés.
+main_replays|||Replays|||Wiederholungen|||Repeticiones|||Replays
+main_gps|||GPS|||GPS|||GPS|||GPS
+main_realtime_map|||Realtime map|||Echtzeit-Karte|||Mapa en tiempo real|||Carte en temps réel
+main_live|||LIVE|||LIVE|||EN VIVO|||EN DIRECT
+main_pings_zone|||Pings & zone|||Pings & Zone|||Pings y zona|||Pings et zone
+main_players|||Players|||Spieler|||Jugadores|||Joueurs
+section_how_it_works|||HOW IT WORKS|||SO LÄUFT’S|||CÓMO FUNCIONA|||COMMENT ÇA MARCHE
+main_footer|||OpenStreetMap maps · MQTT realtime · Built for outdoors|||OpenStreetMap-Karten · MQTT-Echtzeit · Für draußen gebaut|||Mapas de OpenStreetMap · MQTT en tiempo real · Hecho para el exterior|||Cartes OpenStreetMap · MQTT temps réel · Conçu pour l’extérieur
+main_name_too_short|||At least 2 characters.|||Mindestens 2 Zeichen.|||Al menos 2 caracteres.|||Au moins 2 caractères.
+main_name_too_long|||Maximum 20 characters.|||Maximal 20 Zeichen.|||Máximo 20 caracteres.|||20 caractères maximum.
+main_replays_count|||Replays (%1$d)|||Wiederholungen (%1$d)|||Repeticiones (%1$d)|||Replays (%1$d)
+main_step1_title|||Open a lobby|||Lobby aufmachen|||Abrir un lobby|||Ouvrir un salon
+main_step1_text|||The host sets zone, ping interval, round duration and hide time and shares the 4-digit code.|||Der Host stellt Zone, Ping-Takt, Rundendauer und Versteckzeit ein und teilt den 4-stelligen Code.|||El anfitrión configura la zona, el intervalo de ping, la duración y el tiempo para esconderse, y comparte el código de 4 dígitos.|||L’hôte règle la zone, l’intervalle des pings, la durée de la manche et le temps de cache, puis partage le code à 4 chiffres.
+main_step2_title|||Hide or seek|||Verstecken oder suchen|||Escóndete o busca|||Se cacher ou chercher
+main_step2_text|||In the lobby the host picks one or more seekers. Hiders get a head start. Everyone plays on their own phone.|||In der Lobby wählt der Host einen oder mehrere Sucher aus. Verstecker haben Vorsprung. Jeder spielt auf seinem Handy.|||En el lobby, el anfitrión elige uno o varios buscadores. Los escondidos tienen ventaja. Cada uno juega en su móvil.|||Dans le salon, l’hôte choisit un ou plusieurs chercheurs. Les cacheurs ont de l’avance. Chacun joue sur son téléphone.
+main_step3_title|||Pings, zone, catch code|||Pings, Zone, Fangcode|||Pings, zona, código de captura|||Pings, zone, code de capture
+main_step3_text|||The map regularly shows the latest positions. Anyone outside the zone for too long is eliminated. Chat and the player overview keep you up to date.|||Die Karte zeigt euch regelmäßig die letzten Positionen. Draußen scheidet aus, wer zu lange außerhalb der Zone ist. Chat und Spielerübersicht halten euch auf dem Laufenden.|||El mapa muestra periódicamente las últimas posiciones. Quien esté demasiado tiempo fuera de la zona queda eliminado. El chat y la vista de jugadores te mantienen al día.|||La carte affiche régulièrement les dernières positions. Celui qui reste trop longtemps hors de la zone est éliminé. Le chat et la vue des joueurs te tiennent au courant.
+replay_label|||REPLAY|||REPLAY|||REPETICIÓN|||REPLAY
+replay_fit_desc|||Fit all routes|||Alle Wege einpassen|||Ajustar todos los recorridos|||Ajuster tous les trajets
+replay_play|||Play|||Abspielen|||Reproducir|||Lire
+replay_pause|||Pause|||Pause|||Pausa|||Pause
+replay_hint|||Tap speed · drag slider to jump|||Tempo antippen · Regler ziehen zum Springen|||Toca la velocidad · arrastra el control para saltar|||Touche la vitesse · fais glisser pour sauter
+replay_attribution|||© OpenStreetMap|||© OpenStreetMap|||© OpenStreetMap|||© OpenStreetMap
+replay_not_found|||Replay not found.|||Replay wurde nicht gefunden.|||No se encontró la repetición.|||Replay introuvable.
+replay_hunt_from|||Hunt from %1$s|||Jagd vom %1$s|||Cacería del %1$s|||Chasse du %1$s
+replay_recorded|||Recorded hunt|||Aufgezeichnete Jagd|||Cacería grabada|||Chasse enregistrée
+replay_meta|||Code %1$s · %2$s · %3$s|||Code %1$s · %2$s · %3$s|||Código %1$s · %2$s · %3$s|||Code %1$s · %2$s · %3$s
+replay_zone_now_next|||Now %1$s · Next %2$s|||Jetzt %1$s · Nächste %2$s|||Ahora %1$s · Siguiente %2$s|||Maintenant %1$s · Suivante %2$s
+replay_zone_stays||| · stays||| · bleibt||| · se queda||| · reste
+replay_zone_endzone||| · End zone %1$s||| · Endzone %1$s||| · Zona final %1$s||| · Zone finale %1$s
+replay_zone_endzone_no_time||| · End zone||| · Endzone||| · Zona final||| · Zone finale
+replay_zone_in||| · in %1$s||| · in %1$s||| · en %1$s||| · dans %1$s
+replay_unknown|||Unknown|||Unbekannt|||Desconocido|||Inconnu
+replays_title|||REPLAYS|||WIEDERHOLUNGEN|||REPETICIONES|||REPLAYS
+replays_sub|||Your rounds.|||Deine Runden.|||Tus rondas.|||Tes manches.
+replays_empty_title|||NO REPLAYS YET|||NOCH KEIN REPLAY|||AÚN NO HAY REPETICIONES|||PAS ENCORE DE REPLAY
+replays_empty_text|||Finish a round. Afterwards you will find all players’ routes here – only on this device.|||Beende eine Runde. Danach findest du hier die Wege aller Spieler – nur auf diesem Gerät.|||Termina una ronda. Después encontrarás aquí los recorridos de todos los jugadores, solo en este dispositivo.|||Termine une manche. Tu trouveras ensuite ici les trajets de tous les joueurs, uniquement sur cet appareil.
+replays_note|||Replays stay stored locally and can be deleted at any time.|||Replays bleiben lokal gespeichert und können jederzeit gelöscht werden.|||Las repeticiones se guardan localmente y se pueden borrar en cualquier momento.|||Les replays restent stockés localement et peuvent être supprimés à tout moment.
+replay_delete_title|||Delete replay?|||Replay löschen?|||¿Eliminar repetición?|||Supprimer le replay ?
+replay_delete_message|||The recording from %1$s will be permanently removed from this device.|||Die Aufzeichnung vom %1$s wird endgültig von diesem Gerät entfernt.|||La grabación del %1$s se eliminará definitivamente de este dispositivo.|||L’enregistrement du %1$s sera définitivement supprimé de cet appareil.
+replay_deleted|||Replay deleted.|||Replay gelöscht.|||Repetición eliminada.|||Replay supprimé.
+replay_delete_failed|||Replay could not be deleted.|||Replay konnte nicht gelöscht werden.|||No se pudo eliminar la repetición.|||Le replay n’a pas pu être supprimé.
+replay_winner_seeker|||Seeker wins|||Sucher gewinnt|||Gana el buscador|||Le chercheur gagne
+replay_winner_hiders|||Hiders win|||Verstecker gewinnen|||Ganan los escondidos|||Les cacheurs gagnent
+replay_round_over|||Round over|||Runde beendet|||Ronda terminada|||Manche terminée
+replay_aborted|||Aborted|||Abgebrochen|||Cancelada|||Annulée
+replay_result_seeker|||Seeker: %1$s · Hiders win|||Sucher: %1$s · Verstecker gewinnen|||Buscador: %1$s · Ganan los escondidos|||Chercheur : %1$s · Les cacheurs gagnent
+replay_result_hiders|||Hiders win|||Verstecker gewinnen|||Ganan los escondidos|||Les cacheurs gagnent
+replay_details|||Code %1$s · %2$s · %3$s|||Code %1$s · %2$s · %3$s|||Código %1$s · %2$s · %3$s|||Code %1$s · %2$s · %3$s
+replay_delete_desc|||Delete replay|||Replay löschen|||Eliminar repetición|||Supprimer le replay
+replay_date_unknown|||Unknown date|||Unbekanntes Datum|||Fecha desconocida|||Date inconnue
+chat_title|||CHAT|||CHAT|||CHAT|||CHAT
+chat_all|||Everyone|||Alle|||Todos|||Tous
+chat_team|||Team|||Team|||Equipo|||Équipe
+chat_team_hint_hiders|||Team = all hiders|||Team = alle Verstecker|||Equipo = todos los escondidos|||Équipe = tous les cacheurs
+chat_team_hint_seekers|||Team = all seekers|||Team = alle Sucher|||Equipo = todos los buscadores|||Équipe = tous les chercheurs
+chat_empty|||No messages yet.\nWrite the first one.|||Noch keine Nachrichten.\nSchreib die erste.|||Aún no hay mensajes.\nEscribe el primero.|||Pas encore de messages.\nÉcris le premier.
+chat_hint|||Write a message …|||Nachricht schreiben …|||Escribe un mensaje…|||Écris un message…
+chat_send_desc|||Send|||Senden|||Enviar|||Envoyer
+chat_team_note|||Team messages are only visible to players with the same role.|||Team-Nachrichten sehen nur Spieler mit derselben Rolle.|||Los mensajes de equipo solo los ven jugadores con el mismo rol.|||Les messages d’équipe ne sont visibles que par les joueurs du même rôle.
+chat_no_connection|||No connection – message not sent.|||Keine Verbindung – Nachricht nicht gesendet.|||Sin conexión: mensaje no enviado.|||Pas de connexion : message non envoyé.
+chat_send_failed|||Message could not be sent.|||Nachricht konnte nicht gesendet werden.|||No se pudo enviar el mensaje.|||Le message n’a pas pu être envoyé.
+overview_found_title|||FOUND & ELIMINATED|||GEFUNDEN & AUSGESCHIEDEN|||ENCONTRADOS Y ELIMINADOS|||TROUVÉS ET ÉLIMINÉS
+overview_empty|||Nobody eliminated yet.|||Noch niemand ausgeschieden.|||Nadie eliminado todavía.|||Personne d’éliminé pour l’instant.
+overview_alive_title|||STILL IN THE GAME|||NOCH IM SPIEL|||SIGUEN EN JUEGO|||ENCORE EN JEU
+overview_note|||Catch codes are never shown here.|||Fangcodes werden hier nie angezeigt.|||Los códigos de captura nunca se muestran aquí.|||Les codes de capture ne sont jamais affichés ici.
+overview_found_count|||FOUND & ELIMINATED · %1$d|||GEFUNDEN & AUSGESCHIEDEN · %1$d|||ENCONTRADOS Y ELIMINADOS · %1$d|||TROUVÉS ET ÉLIMINÉS · %1$d
+overview_alive_count|||STILL IN THE GAME · %1$d|||NOCH IM SPIEL · %1$d|||SIGUEN EN JUEGO · %1$d|||ENCORE EN JEU · %1$d
+overview_out_badge|||OUT|||RAUS|||FUERA|||ÉLIMINÉ
+overview_host_suffix||| · Host||| · Host||| · Anfitrión||| · Hôte
+overview_status_no_ping||| · no ping||| · kein Ping||| · sin ping||| · pas de ping
+overview_status_live||| · Live||| · Live||| · En vivo||| · En direct
+overview_status_ping||| · Ping %1$s||| · Ping %1$s||| · Ping %1$s||| · Ping %1$s
+overview_status_found|||Found|||Gefangen|||Encontrado|||Trouvé
+overview_status_zone|||Left zone|||Zone verlassen|||Salió de la zona|||Hors zone
+overview_status_left|||Left|||Verlassen|||Salió|||Parti
+overview_status_eliminated|||Eliminated|||Ausgeschieden|||Eliminado|||Éliminé
+shop_title|||SHOP|||SHOP|||TIENDA|||BOUTIQUE
+shop_coins_per|||1 coin per 5 s of survival|||1 Münze pro 5 s Überleben|||1 moneda por 5 s de supervivencia|||1 pièce par 5 s de survie
+shop_coins|||%1$d coins|||%1$d Münzen|||%1$d monedas|||%1$d pièces
+shop_info|||Prices adjust automatically to the round duration. Purchases are shared with all players.|||Preise passen sich automatisch der Rundenzeit an. Käufe werden an alle Spieler übertragen.|||Los precios se ajustan automáticamente a la duración de la ronda. Las compras se comparten con todos los jugadores.|||Les prix s’adaptent automatiquement à la durée de la manche. Les achats sont partagés avec tous les joueurs.
+shop_coins_note|||Coins are only earned while you are in the game.|||Münzen gibt es nur, solange du im Spiel bist.|||Solo ganas monedas mientras sigues en juego.|||Tu ne gagnes des pièces que tant que tu es en jeu.
+shop_buy|||Buy|||Kaufen|||Comprar|||Acheter
+shop_later|||Later|||Später|||Más tarde|||Plus tard
+shop_too_little|||Too little|||Zu wenig|||Insuficiente|||Trop peu
+shop_price|||%1$d coins|||%1$d Münzen|||%1$d monedas|||%1$d pièces
+shop_role_hider_only|||Hiders only|||Nur für Verstecker|||Solo para escondidos|||Cacheurs uniquement
+shop_role_seeker_only|||Seekers only|||Nur für Sucher|||Solo para buscadores|||Chercheurs uniquement
+shop_item_decoy_name|||Fake marker|||Falsche Markierung|||Marcador falso|||Faux marqueur
+shop_item_decoy_description|||Place a decoy with your name. All seekers see it on the map for 45 s – nobody is there.|||Platziere einen Köder mit deinem Namen. Alle Sucher sehen ihn 45 s lang auf der Karte – dort ist niemand.|||Coloca un señuelo con tu nombre. Todos los buscadores lo ven en el mapa durante 45 s, pero no hay nadie allí.|||Place un leurre avec ton nom. Tous les chercheurs le voient sur la carte pendant 45 s, mais personne n’est là.
+shop_item_ghost_name|||Ping camouflage|||Ping-Tarnung|||Camuflaje de ping|||Camouflage de ping
+shop_item_ghost_description|||You are missing from the next ping. Seekers only see you again on the ping after that.|||Du fehlst beim nächsten Ping. Die Sucher sehen dich erst beim übernächsten Ping wieder.|||No apareces en el próximo ping. Los buscadores solo te vuelven a ver en el siguiente.|||Tu es absent du prochain ping. Les chercheurs ne te revoient qu’au ping suivant.
+shop_item_radar_name|||Seeker radar|||Sucher-Radar|||Radar de buscador|||Radar de chercheur
+shop_item_radar_description|||You see all hiders’ live positions for 10 s – even between pings.|||Du siehst 10 s lang die Live-Positionen aller Verstecker – auch zwischen den Pings.|||Ves las posiciones en vivo de todos los escondidos durante 10 s, incluso entre pings.|||Tu vois les positions en direct de tous les cacheurs pendant 10 s, même entre les pings.

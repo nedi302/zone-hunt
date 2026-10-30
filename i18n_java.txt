@@ -1,0 +1,789 @@
+App.java:20: osmdroid
+App.java:21: tiles
+App.java:25: osmdroid
+CreateGameActivity.java:32: edit_lobby
+CreateGameActivity.java:62: player_name
+CreateGameActivity.java:131:  m
+CreateGameActivity.java:132: Statisch
+CreateGameActivity.java:132:  m/min
+CreateGameActivity.java:133:  min
+CreateGameActivity.java:134:  s
+CreateGameActivity.java:135:  s
+CreateGameActivity.java:136:  s
+CreateGameActivity.java:143: LOBBY EINSTELLUNGEN
+CreateGameActivity.java:144: REGELN\nANPASSEN.
+CreateGameActivity.java:145: Änderungen gelten sofort für alle Spieler in der Lobby. Der Beitrittscode bleibt gleich.
+CreateGameActivity.java:146: Einstellungen speichern
+CreateGameActivity.java:149: Die Änderungen gelten sofort für alle Spieler. Der Beitrittscode bleibt gleich.
+CreateGameActivity.java:178: Die Lobby ist nicht mehr aktiv.
+CreateGameActivity.java:183: Einstellungen aktualisiert.
+CreateGameActivity.java:251: Verbindung wird aufgebaut …
+CreateGameActivity.java:259: Der Spielserver antwortet nicht. Prüfe deine Internetverbindung und versuche es erneut.
+CreateGameActivity.java:273: Lobby ist bereit!
+CreateGameActivity.java:293: Lobby wird vorbereitet …
+CreateGameActivity.java:293: Verbindung wird wiederhergestellt …
+CreateGameActivity.java:299: Verbindung fehlgeschlagen
+CreateGameActivity.java:301: Erneut versuchen
+CreateGameActivity.java:313: Verbindung abbrechen?
+CreateGameActivity.java:314: Die Lobby wurde noch nicht erstellt.
+CreateGameActivity.java:338: package:
+GameActivity.java:424: https://www.openstreetmap.org/copyright
+GameActivity.java:452: DU
+GameActivity.java:458: Das bist du
+GameActivity.java:484: Sucher
+GameActivity.java:484: Verstecker
+GameActivity.java:488:  · Live-Position
+GameActivity.java:488:  · Position vom letzten Ping
+GameActivity.java:537: SUCHER
+GameActivity.java:537: VERSTECKER
+GameActivity.java:546: Nur zeigen, wenn du gefunden wurdest.
+GameActivity.java:575: BEREIT?
+GameActivity.java:575: Gleich geht es los
+GameActivity.java:578: BEREIT?
+GameActivity.java:578: Augen auf, Ohren auf
+GameActivity.java:581: BEREIT?
+GameActivity.java:581: Die Jagd beginnt
+GameActivity.java:584: LOS!
+GameActivity.java:584: JAGD FREI
+GameActivity.java:584: Viel Erfolg!
+GameActivity.java:623: DEINE ROLLE · SUCHER
+GameActivity.java:623: DEINE ROLLE · VERSTECKER
+GameActivity.java:625: FINDEN.\nFANGEN.
+GameActivity.java:625: WEG.\nVERSTECKT.
+GameActivity.java:627: Die Verstecker haben 
+GameActivity.java:627:  Sekunden Vorsprung. Bei jedem Ping siehst du alle Positionen – sie bleiben bis zum nächsten Ping eingefroren auf der Karte. Tippe auf „Fangen“, wenn du einen Verstecker gefunden hast.
+GameActivity.java:629: Du hast 
+GameActivity.java:629:  Sekunden Zeit, dich zu verstecken. Danach beginnt die Jagd. Bei jedem Ping werden alle Positionen gezeigt und bleiben bis zum nächsten Ping eingefroren. Bleib in der Zone – sie wird kleiner und wandert!
+GameActivity.java:649: \n\nShop: Fürs Überleben sammelst du Münzen (1 pro 5 s) und kaufst damit Köder, Tarnung oder Radar.
+GameActivity.java:717: ZEIT
+GameActivity.java:733: statisch
+GameActivity.java:734: Endzone erreicht
+GameActivity.java:734:  m/min
+GameActivity.java:738: ENDZONE
+GameActivity.java:738: NÄCHSTE
+GameActivity.java:739:  · bleibt
+GameActivity.java:746: ENDZONE · 
+GameActivity.java:749: NÄCHSTE · 
+GameActivity.java:754: JETZT · 
+GameActivity.java:779: Warte noch 
+GameActivity.java:779:  s, dann startet die Jagd.
+GameActivity.java:780: Du hast noch 
+GameActivity.java:780:  s zum Verstecken.
+GameActivity.java:784: Gesperrt
+GameActivity.java:789: Fangen
+GameActivity.java:810:  von 
+GameActivity.java:810:  Versteckern
+GameActivity.java:815: RUNDE VORBEI
+GameActivity.java:817: Karte bleibt sichtbar
+GameActivity.java:821: VERSTECKPHASE
+GameActivity.java:823: Pings erst danach
+GameActivity.java:831: PING!
+GameActivity.java:831: NÄCHSTER PING
+GameActivity.java:833: Positionen eingefroren
+GameActivity.java:840: NÄCHSTER PING
+GameActivity.java:843: dann bis zum nächsten Ping sichtbar
+GameActivity.java:905: Zurück in die Zone! Noch 
+GameActivity.java:905:  s
+GameActivity.java:906: Du bist zu lange außerhalb – ausscheiden …
+GameActivity.java:920: ZONE
+GameActivity.java:932: LIVE
+GameActivity.java:932: OFFLINE
+GameActivity.java:937: Verbindung wird wiederhergestellt …
+GameActivity.java:940: Kein Standortzugriff · Einstellungen öffnen
+GameActivity.java:943: GPS-Signal wird gesucht · geh nach draußen
+GameActivity.java:971: raus
+GameActivity.java:974: Du
+GameActivity.java:977: kein Ping
+GameActivity.java:981: kein Ping
+GameActivity.java:1000: Du
+GameActivity.java:1243:  · Verstecker · Position vom letzten Ping
+GameActivity.java:1280: PING! Positionen eingefroren bis zum nächsten Ping.
+GameActivity.java:1310: Dein Fangcode wird noch vorbereitet.
+GameActivity.java:1316: 30 s sichtbar · danach automatisch verborgen.
+GameActivity.java:1317: Verbergen
+GameActivity.java:1325: Nur zeigen, wenn du gefunden wurdest.
+GameActivity.java:1326: Zeigen
+GameActivity.java:1350: Später
+GameActivity.java:1350: Shop
+GameActivity.java:1353: Köder platzieren: Tippe auf die Karte · hier antippen zum Abbrechen
+GameActivity.java:1355: Der Shop öffnet, sobald die Jagd beginnt.
+GameActivity.java:1360: Radar 
+GameActivity.java:1364: Tarnung 
+GameActivity.java:1368: Köder 
+GameActivity.java:1371: 1 Münze pro 5 s Überleben · Preise passen zur Rundenzeit
+GameActivity.java:1373:  aktiv
+GameActivity.java:1387: Ausgeschiedene Spieler können nichts mehr kaufen.
+GameActivity.java:1392: Der Shop öffnet, sobald die Jagd beginnt.
+GameActivity.java:1406: Schließen
+GameActivity.java:1440:  Münze
+GameActivity.java:1440:  Münzen
+GameActivity.java:1457:  Münzen
+GameActivity.java:1471: Aktiv
+GameActivity.java:1474: Später
+GameActivity.java:1477: Zu wenig
+GameActivity.java:1480: Kaufen
+GameActivity.java:1540: Der Shop öffnet, sobald die Jagd beginnt.
+GameActivity.java:1549: Die falsche Markierung gibt es nur für Verstecker.
+GameActivity.java:1556: Zu wenig Münzen. Du brauchst 
+GameActivity.java:1556: , hast 
+GameActivity.java:1562: GPS-Signal fehlt. Warte kurz und versuche es erneut.
+GameActivity.java:1573: Tippe auf die Karte, um die falsche Markierung zu platzieren.
+GameActivity.java:1603: Platzierung abgebrochen.
+GameActivity.java:1629: ZONE
+GameActivity.java:1630: Du warst zu lange außerhalb der Zone.
+GameActivity.java:1631: GEFANGEN
+GameActivity.java:1632: Der Sucher hat deinen Fangcode eingegeben.
+GameActivity.java:1633: VERLASSEN
+GameActivity.java:1634: Du hast das Spiel verlassen.
+GameActivity.java:1636: Du bist ausgeschieden.
+GameActivity.java:1638:  Du kannst die Karte weiter beobachten.
+GameActivity.java:1648: Die Versteckzeit läuft noch. Die Jagd beginnt in 
+GameActivity.java:1649:  s.
+GameActivity.java:1660: Keine Verstecker mehr im Spiel.
+GameActivity.java:1667: noch kein Ping
+GameActivity.java:1670: Wen hast du gefunden?
+GameActivity.java:1682:  zeigt dir den Code auf dem Handy.
+GameActivity.java:1695: \\D
+GameActivity.java:1704: Fangcode eingeben
+GameActivity.java:1706: Fangen
+GameActivity.java:1711: \\D
+GameActivity.java:1748: Spielerübersicht
+GameActivity.java:1749: Hilfe & Regeln
+GameActivity.java:1751: Runde beenden
+GameActivity.java:1753: Spiel verlassen
+GameActivity.java:1778: • Die Karte zeigt jederzeit deinen Standort.\n
+GameActivity.java:1779: • Verstecker haben am Anfang 
+GameActivity.java:1779:  Sekunden Zeit, sich zu verstecken. Erst danach beginnt die Jagd.\n
+GameActivity.java:1780: • Bei jedem Ping werden die Positionen aller Spieler auf der Karte eingefroren. Sie bleiben bis zum nächsten Ping an genau dieser Stelle sichtbar. Die Marker zeigen die ersten beiden Buchstaben des Namens.\n
+GameActivity.java:1781: • Ist in der Lobby „Team live“ aktiv, siehst du die Positionen deines eigenen Teams in Echtzeit. Gefundene Spieler verschwinden sofort.\n
+GameActivity.java:1782: • Die Zone schrumpft mit der Zeit. Die aktuelle Zone ist grün (rot, wenn du draußen bist), die nächste orange gestrichelt.\n
+GameActivity.java:1783: • Wer zu lange außerhalb der aktuellen Zone ist, scheidet aus.\n
+GameActivity.java:1784: • Jeder Sucher fängt einen Verstecker, indem er dessen 4-stelligen Fangcode eingibt.\n
+GameActivity.java:1785: • Es kann mehrere Sucher geben. Sind alle Sucher oder alle Verstecker raus, endet die Runde.\n
+GameActivity.java:1786: • Chat: Nachrichten an alle oder nur an das eigene Team (alle Verstecker bzw. alle Sucher).\n
+GameActivity.java:1787: • Unter „Spielerübersicht“ siehst du Gefundene und verbleibende Spieler.
+GameActivity.java:1792: \n• Shop: Du sammelst 1 Münze pro 5 s Überleben. Preise passen sich der Rundenzeit an.
+GameActivity.java:1793: \n   Falsche Markierung 
+GameActivity.java:1793:  · Ping-Tarnung 
+GameActivity.java:1794:  · Sucher-Radar 
+GameActivity.java:1794:  Münzen.
+GameActivity.java:1797: So funktioniert die Jagd
+GameActivity.java:1799: Alles klar
+GameActivity.java:1808: Runde beenden?
+GameActivity.java:1809: Die Runde wird für alle beendet. Das Ergebnis wird angezeigt.
+GameActivity.java:1810: Beenden
+GameActivity.java:1818: Spiel beenden und verlassen?
+GameActivity.java:1818: Spiel verlassen?
+GameActivity.java:1820: Die Runde endet für alle Spieler.
+GameActivity.java:1821: Du scheidest aus und kannst die Runde nicht mehr gewinnen.
+GameActivity.java:1835: Für diese Runde ist kein Replay verfügbar.
+GameActivity.java:1870: SEEKER
+GameActivity.java:1871: HIDERS
+GameActivity.java:1876: SUCHER GEWINNEN
+GameActivity.java:1876: SUCHER GEWINNT
+GameActivity.java:1878: VERSTECKER GEWINNEN
+GameActivity.java:1880: RUNDE BEENDET
+GameActivity.java:1883: DEIN TEAM GEWINNT
+GameActivity.java:1883: RUNDE BEENDET
+GameActivity.java:1888: ABGEBROCHEN
+GameActivity.java:1894: HOST_BEENDET
+GameActivity.java:1894: SUCHER_VERLASSEN
+GameActivity.java:1907: GEFANGEN
+GameActivity.java:1914: Verstecker übrig
+GameActivity.java:1916: Fänge
+GameActivity.java:1919:  kcal
+GameActivity.java:1930: Die Runde ist vorbei.
+GameActivity.java:1933: ALLE_RAUS
+GameActivity.java:1934: Alle Verstecker sind ausgeschieden. Die Sucher gewinnen.
+GameActivity.java:1935: ZEIT
+GameActivity.java:1936: Die Zeit ist abgelaufen. 
+GameActivity.java:1936: HIDERS
+GameActivity.java:1937: Die verbliebenen Verstecker gewinnen.
+GameActivity.java:1937: Die Sucher gewinnen.
+GameActivity.java:1938: SUCHER_RAUS
+GameActivity.java:1939: Alle Sucher sind ausgeschieden. Die Verstecker gewinnen.
+GameActivity.java:1940: SUCHER_VERLASSEN
+GameActivity.java:1941: Die Sucher haben das Spiel verlassen. Die Verstecker gewinnen.
+GameActivity.java:1942: HOST_BEENDET
+GameActivity.java:1943: Der Host hat die Runde beendet.
+GameActivity.java:1945: Die Runde ist vorbei.
+GameActivity.java:1964: HIDERS
+GameActivity.java:1967: SEEKER
+GameActivity.java:1969: HIDERS
+GameActivity.java:2002: SUCHER
+GameActivity.java:2002: VERSTECKER
+GameActivity.java:2006: Team = alle Sucher
+GameActivity.java:2006: Team = alle Verstecker
+GameActivity.java:2027: Schließen
+GameActivity.java:2062: Keine Verbindung – Nachricht nicht gesendet.
+GameActivity.java:2066: Nachricht konnte nicht gesendet werden.
+GameActivity.java:2090: Du
+GameActivity.java:2091: Spieler
+GameActivity.java:2093: TEAM
+GameActivity.java:2093: ALLE
+GameActivity.java:2141: Schließen
+GameActivity.java:2168: GEFUNDEN & AUSGESCHIEDEN · 
+GameActivity.java:2169: NOCH IM SPIEL · 
+GameActivity.java:2192:  (Du)
+GameActivity.java:2196: Host · 
+GameActivity.java:2197: RAUS
+GameActivity.java:2204: Sucher
+GameActivity.java:2204: Verstecker
+GameActivity.java:2206:  · Host
+GameActivity.java:2210:  · kein Ping
+GameActivity.java:2212:  · Live
+GameActivity.java:2214:  · Ping 
+GameActivity.java:2218: SUCHER
+GameActivity.java:2225: VERSTECKER
+GameActivity.java:2237: GEFANGEN
+GameActivity.java:2238: Gefangen
+GameActivity.java:2240: ZONE
+GameActivity.java:2241: Zone verlassen
+GameActivity.java:2243: VERLASSEN
+GameActivity.java:2244: Verlassen
+GameActivity.java:2246: Ausgeschieden
+GameActivity.java:2261: Die Jagd beginnt – du kannst jetzt fangen.
+GameActivity.java:2262: Die Jagd beginnt – bleib in der Zone!
+GameActivity.java:2361: package:
+JoinGameActivity.java:49: player_name
+JoinGameActivity.java:76: \\D
+JoinGameActivity.java:125: \\D
+JoinGameActivity.java:129: Bitte den 4-stelligen Beitrittscode eingeben.
+JoinGameActivity.java:133: Mindestens 2 Zeichen.
+JoinGameActivity.java:163: \\D
+JoinGameActivity.java:167: Suche Lobby 
+JoinGameActivity.java:169: Verbinde mit dem Spielserver …
+JoinGameActivity.java:179: Keine Lobby mit diesem Code gefunden. Prüfe den Code und versuche es erneut.
+JoinGameActivity.java:194: Du bist drin!
+JoinGameActivity.java:214: Lobby wird gesucht …
+JoinGameActivity.java:214: Verbindung wird wiederhergestellt …
+JoinGameActivity.java:215: Verbunden. Suche Lobby …
+JoinGameActivity.java:215: Verbindung wird wiederhergestellt …
+JoinGameActivity.java:221: Beitritt nicht möglich
+JoinGameActivity.java:223: Erneut versuchen
+JoinGameActivity.java:249: package:
+LobbyActivity.java:158: Verbindung wird wiederhergestellt …
+LobbyActivity.java:170: Jagd starten
+LobbyActivity.java:181: HOST
+LobbyActivity.java:181: GAST
+LobbyActivity.java:200: Bleib in der Lobby. Sobald es losgeht, öffnet sich die Karte. Danach hast du 
+LobbyActivity.java:201:  Sekunden zum Verstecken.
+LobbyActivity.java:204: Der Sucher bekommt keinen Ping-Vorteil: Alle Positionen werden gleichzeitig sichtbar. Verstecker haben 
+LobbyActivity.java:205:  s Vorsprung. Chat: Alle oder nur das eigene Team. Fangcodes bleiben auf dem Handy der Verstecker.
+LobbyActivity.java:215: Lobby
+LobbyActivity.java:218: Verbindung wird wiederhergestellt …
+LobbyActivity.java:221: Warte auf Mitspieler …
+LobbyActivity.java:221: Warte auf den Host …
+LobbyActivity.java:223: Alle bereit. Du kannst starten.
+LobbyActivity.java:223: Warte auf den Start durch den Host …
+LobbyActivity.java:241: Host · Du
+LobbyActivity.java:241: Host
+LobbyActivity.java:243: Du · bereit
+LobbyActivity.java:243: Bereit
+LobbyActivity.java:250: SUCHER
+LobbyActivity.java:257: HOST
+LobbyActivity.java:265: DU
+LobbyActivity.java:284:  (Du)
+LobbyActivity.java:288: RANDOM
+LobbyActivity.java:288: Zufall: 
+LobbyActivity.java:291:  Sucher: 
+LobbyActivity.java:295: Neu würfeln
+LobbyActivity.java:297: Noch nicht gewürfelt
+LobbyActivity.java:298: Zufällig würfeln
+LobbyActivity.java:310:  (Du)
+LobbyActivity.java:343: Noch niemand ausgewählt.
+LobbyActivity.java:343: Ausgewählt: 
+LobbyActivity.java:344:  Mehrere Sucher möglich, mindestens ein Verstecker bleibt übrig.
+LobbyActivity.java:364: Wähle mindestens einen Sucher.
+LobbyActivity.java:369: Mindestens ein Verstecker muss übrig bleiben.
+LobbyActivity.java:373: PLAYER
+LobbyActivity.java:381: Du
+LobbyActivity.java:392: Zone 
+LobbyActivity.java:394: Zone statisch
+LobbyActivity.java:395:  m/min
+LobbyActivity.java:396:  min Runde
+LobbyActivity.java:397: Ping alle 
+LobbyActivity.java:397:  s
+LobbyActivity.java:398:  s Kulanz
+LobbyActivity.java:399:  s Verstecken
+LobbyActivity.java:401: Team live
+LobbyActivity.java:404: Shop aktiv
+LobbyActivity.java:435: Mindestens 2 Spieler nötig · Beitrittscode teilen
+LobbyActivity.java:437: GPS-Signal wird gesucht · geh kurz nach draußen
+LobbyActivity.java:439: Verbindung wird wiederhergestellt …
+LobbyActivity.java:443: Bereit · 
+LobbyActivity.java:443:  s Versteckzeit, dann beginnt die Jagd.
+LobbyActivity.java:452: player_name
+LobbyActivity.java:460: Zonenjagd-Code
+LobbyActivity.java:461: Code 
+LobbyActivity.java:461:  kopiert
+LobbyActivity.java:478:  (Du)
+LobbyActivity.java:482: Wer sucht?
+LobbyActivity.java:483: Mehrfachauswahl möglich. Mindestens ein Verstecker muss übrig bleiben.
+LobbyActivity.java:485: Übernehmen
+LobbyActivity.java:493: Wähle mindestens einen Sucher oder würfle zufällig.
+LobbyActivity.java:501: PLAYER
+LobbyActivity.java:503: Zufällig
+LobbyActivity.java:532: Warte kurz auf das GPS-Signal.
+LobbyActivity.java:536: Jagd startet …
+LobbyActivity.java:538: Jagd starten
+LobbyActivity.java:549: Lobby schließen?
+LobbyActivity.java:549: Lobby verlassen?
+LobbyActivity.java:551: Alle Mitspieler werden aus der Lobby geworfen.
+LobbyActivity.java:552: Du kannst später mit dem Code wieder beitreten, solange die Lobby offen ist.
+LobbyActivity.java:563: Lobby geschlossen
+LobbyActivity.java:564: Der Host hat das Spiel beendet oder die Lobby verlassen.
+LobbyActivity.java:586: package:
+MainActivity.java:35: zonenjagd
+MainActivity.java:36: player_name
+MainActivity.java:99: Lobby aufmachen
+MainActivity.java:100: Der Host stellt Zone, Ping-Takt, Rundendauer und Versteckzeit ein und teilt den 4-stelligen Code.
+MainActivity.java:101: Verstecken oder suchen
+MainActivity.java:102: In der Lobby wählt der Host einen oder mehrere Sucher aus. Verstecker haben Vorsprung. Jeder spielt auf seinem Handy.
+MainActivity.java:103: Pings, Zone, Fangcode
+MainActivity.java:104: Die Karte zeigt euch regelmäßig die letzten Positionen. Draußen scheidet aus, wer zu lange außerhalb der Zone ist. Chat und Spielerübersicht halten euch auf dem Laufenden.
+MainActivity.java:172: player_name
+MainActivity.java:178: player_name
+MainActivity.java:185: Mindestens 2 Zeichen.
+MainActivity.java:190: Maximal 20 Zeichen.
+MainActivity.java:213: package:
+MainActivity.java:225: Wiederholungen
+MainActivity.java:225: Wiederholungen (
+MainActivity.java:229:  km
+MainActivity.java:232:  kcal
+ReplayActivity.java:47: replay_id
+ReplayActivity.java:111: Replay wurde nicht gefunden.
+ReplayActivity.java:132: Jagd vom 
+ReplayActivity.java:132: Aufgezeichnete Jagd
+ReplayActivity.java:133: Code 
+ReplayActivity.java:133:  Spieler · 
+ReplayActivity.java:174: https://www.openstreetmap.org/copyright
+ReplayActivity.java:210: SEEKER
+ReplayActivity.java:252:  · Sucher
+ReplayActivity.java:252:  · Verstecker
+ReplayActivity.java:381: SEEKER
+ReplayActivity.java:381:  · S
+ReplayActivity.java:412: Jetzt 
+ReplayActivity.java:413:  · Nächste 
+ReplayActivity.java:421:  · bleibt
+ReplayActivity.java:423:  · Endzone 
+ReplayActivity.java:423:  · Endzone
+ReplayActivity.java:425:  · in 
+ReplayActivity.java:461: Pause
+ReplayActivity.java:461: Abspielen
+ReplayActivity.java:521: Unbekannt
+ReplayActivity.java:523: dd.MM.yyyy
+ReplayListActivity.java:62: replay-list
+ReplayListActivity.java:79: Code 
+ReplayListActivity.java:80:  Spieler
+ReplayListActivity.java:97: SEEKER
+ReplayListActivity.java:98: Sucher gewinnt
+ReplayListActivity.java:99: HIDERS
+ReplayListActivity.java:100: Verstecker gewinnen
+ReplayListActivity.java:102: Abgebrochen
+ReplayListActivity.java:104: Sucher: 
+ReplayListActivity.java:109: Replay löschen?
+ReplayListActivity.java:110: Die Aufzeichnung vom 
+ReplayListActivity.java:111:  wird endgültig von diesem Gerät entfernt.
+ReplayListActivity.java:112: Löschen
+ReplayListActivity.java:114: Replay gelöscht.
+ReplayListActivity.java:117: Replay konnte nicht gelöscht werden.
+ReplayListActivity.java:126: Unbekanntes Datum
+ReplayListActivity.java:128: dd.MM.yyyy · HH:mm
+model\ChatMessage.java:12: ALL
+model\ChatMessage.java:13: TEAM
+model\ChatMessage.java:32: msgId
+model\ChatMessage.java:33: senderId
+model\ChatMessage.java:34: name
+model\ChatMessage.java:35: role
+model\ChatMessage.java:36: scope
+model\ChatMessage.java:37: text
+model\ChatMessage.java:38: ts
+model\ChatMessage.java:47: msgId
+model\ChatMessage.java:48: senderId
+model\ChatMessage.java:48: pid
+model\ChatMessage.java:49: name
+model\ChatMessage.java:49: Spieler
+model\ChatMessage.java:50: role
+model\ChatMessage.java:51: scope
+model\ChatMessage.java:52: text
+model\ChatMessage.java:53: ts
+model\DecoyMarker.java:33: ?
+model\DecoyMarker.java:35: \\s+
+model\GameReplay.java:168: SEEKER
+model\GameReplay.java:177: v
+model\GameReplay.java:178: id
+model\GameReplay.java:179: gameId
+model\GameReplay.java:180: code
+model\GameReplay.java:181: startedAt
+model\GameReplay.java:182: endedAt
+model\GameReplay.java:183: durationMs
+model\GameReplay.java:184: hidePhaseMs
+model\GameReplay.java:185: roundDurationMs
+model\GameReplay.java:187: zoneSeed
+model\GameReplay.java:189: endReason
+model\GameReplay.java:190: winner
+model\GameReplay.java:191: centerLat
+model\GameReplay.java:192: centerLng
+model\GameReplay.java:193: initialRadius
+model\GameReplay.java:194: shrink
+model\GameReplay.java:199: id
+model\GameReplay.java:200: name
+model\GameReplay.java:201: role
+model\GameReplay.java:210: samples
+model\GameReplay.java:214: players
+model\GameReplay.java:220: id
+model\GameReplay.java:221: gameId
+model\GameReplay.java:222: code
+model\GameReplay.java:223: startedAt
+model\GameReplay.java:224: endedAt
+model\GameReplay.java:225: durationMs
+model\GameReplay.java:226: hidePhaseMs
+model\GameReplay.java:227: roundDurationMs
+model\GameReplay.java:228: zoneSeed
+model\GameReplay.java:229: endReason
+model\GameReplay.java:230: winner
+model\GameReplay.java:231: centerLat
+model\GameReplay.java:232: centerLng
+model\GameReplay.java:233: initialRadius
+model\GameReplay.java:234: shrink
+model\GameReplay.java:235: players
+model\GameReplay.java:243: id
+model\GameReplay.java:244: name
+model\GameReplay.java:244: Spieler
+model\GameReplay.java:245: role
+model\GameReplay.java:246: samples
+model\GameSettings.java:54: radius
+model\GameSettings.java:55: shrink
+model\GameSettings.java:56: round
+model\GameSettings.java:57: ping
+model\GameSettings.java:58: grace
+model\GameSettings.java:59: hide
+model\GameSettings.java:60: teamLive
+model\GameSettings.java:61: shop
+model\GameSettings.java:72: radius
+model\GameSettings.java:73: shrink
+model\GameSettings.java:74: round
+model\GameSettings.java:75: ping
+model\GameSettings.java:76: grace
+model\GameSettings.java:77: hide
+model\GameSettings.java:78: teamLive
+model\GameSettings.java:79: shop
+model\LobbySnapshot.java:12: LOBBY
+model\LobbySnapshot.java:13: RUNNING
+model\LobbySnapshot.java:14: ENDED
+model\LobbySnapshot.java:21: RANDOM
+model\LobbySnapshot.java:128: v
+model\LobbySnapshot.java:129: code
+model\LobbySnapshot.java:130: gameId
+model\LobbySnapshot.java:131: hostId
+model\LobbySnapshot.java:132: hostName
+model\LobbySnapshot.java:133: state
+model\LobbySnapshot.java:134: seekerMode
+model\LobbySnapshot.java:135: seekerId
+model\LobbySnapshot.java:136: createdAt
+model\LobbySnapshot.java:137: updatedAt
+model\LobbySnapshot.java:138: settings
+model\LobbySnapshot.java:143: players
+model\LobbySnapshot.java:149: code
+model\LobbySnapshot.java:150: gameId
+model\LobbySnapshot.java:151: hostId
+model\LobbySnapshot.java:152: hostName
+model\LobbySnapshot.java:153: state
+model\LobbySnapshot.java:154: seekerMode
+model\LobbySnapshot.java:154: RANDOM
+model\LobbySnapshot.java:155: seekerId
+model\LobbySnapshot.java:156: createdAt
+model\LobbySnapshot.java:157: updatedAt
+model\LobbySnapshot.java:158: settings
+model\LobbySnapshot.java:159: players
+model\Player.java:46: SEEKER
+model\Player.java:50: HIDER
+model\Player.java:56: ?
+model\Player.java:58: \\s+
+model\Player.java:69: id
+model\Player.java:70: name
+model\Player.java:72: role
+model\Player.java:79: id
+model\Player.java:80: name
+model\Player.java:80: Spieler
+model\Player.java:81: role
+model\ShopCatalog.java:21: FAKE_MARKER
+model\ShopCatalog.java:22: GHOST
+model\ShopCatalog.java:23: RADAR
+model\ShopCatalog.java:42: HIDER
+model\ShopCatalog.java:46: SEEKER
+model\ShopCatalog.java:54: HIDER
+model\ShopCatalog.java:62: HIDER
+model\ShopCatalog.java:70: SEEKER
+model\ShopCatalog.java:96: HIDER
+model\ShopCatalog.java:99: SEEKER
+model\ShopCatalog.java:106: HIDER
+model\ShopCatalog.java:109: SEEKER
+net\GameClient.java:70: GameClient
+net\GameClient.java:71: ssl://broker.emqx.io:8883
+net\GameClient.java:72: zonenjagd/v1/
+net\GameClient.java:482: Die Runde ist bereits beendet.
+net\GameClient.java:485: Der Shop ist in dieser Runde nicht aktiviert.
+net\GameClient.java:488: Der Shop öffnet, sobald die Jagd beginnt.
+net\GameClient.java:491: Unbekannter Shop-Artikel.
+net\GameClient.java:494: Keine Verbindung. Der Kauf wurde nicht gesendet.
+net\GameClient.java:498: Ausgeschiedene Spieler können nichts mehr kaufen.
+net\GameClient.java:505: Tippe auf die Karte, um die falsche Markierung zu platzieren.
+net\GameClient.java:520: Zu wenig Münzen. Du brauchst 
+net\GameClient.java:520: , hast 
+net\GameClient.java:526: Deine Ping-Tarnung ist bereits aktiv.
+net\GameClient.java:533: Das Radar läuft bereits.
+net\GameClient.java:550: SHOP
+net\GameClient.java:551: item
+net\GameClient.java:552: effectId
+net\GameClient.java:553: untilHuntMs
+net\GameClient.java:555: lat
+net\GameClient.java:556: lng
+net\GameClient.java:565: Köder platziert. Die Sucher sehen dort 45 s lang deinen Namen.
+net\GameClient.java:567: Ping-Tarnung aktiv: Beim nächsten Ping bist du unsichtbar.
+net\GameClient.java:569: Radar aktiv: Du siehst 10 s lang alle Verstecker live.
+net\GameClient.java:600: item
+net\GameClient.java:613: untilHuntMs
+net\GameClient.java:617: effectId
+net\GameClient.java:617: ts
+net\GameClient.java:620: lat
+net\GameClient.java:621: lng
+net\GameClient.java:770: CHAT
+net\GameClient.java:771: msgId
+net\GameClient.java:772: name
+net\GameClient.java:773: role
+net\GameClient.java:774: scope
+net\GameClient.java:775: text
+net\GameClient.java:874: createGame failed
+net\GameClient.java:877: Verbindung zum Spielserver fehlgeschlagen. Bitte Internet prüfen und erneut versuchen.
+net\GameClient.java:903: joinGame failed
+net\GameClient.java:906: Verbindung zum Spielserver fehlgeschlagen. Bitte Internet prüfen.
+net\GameClient.java:952: %04d
+net\GameClient.java:956: zj-
+net\GameClient.java:1011: messageArrived failed
+net\GameClient.java:1076: Diese Lobby ist nicht mehr aktiv. Prüfe den Code.
+net\GameClient.java:1080: Dieses Spiel ist bereits gestartet oder beendet.
+net\GameClient.java:1097: Beitritt fehlgeschlagen. Bitte erneut versuchen.
+net\GameClient.java:1115: Das Spiel wurde gestartet, bevor du beitreten konntest.
+net\GameClient.java:1117: Die Lobby wurde geschlossen.
+net\GameClient.java:1129: Die Lobby wurde geschlossen.
+net\GameClient.java:1174: RANDOM
+net\GameClient.java:1174: PLAYER
+net\GameClient.java:1182: VERLASSEN
+net\GameClient.java:1206: PLAYER
+net\GameClient.java:1218: RANDOM
+net\GameClient.java:1221: PLAYER
+net\GameClient.java:1266: RANDOM
+net\GameClient.java:1311: Keine Verbindung. Bitte kurz warten.
+net\GameClient.java:1315: GPS-Signal fehlt. Geh nach draußen und warte auf deinen Standort.
+net\GameClient.java:1326: Für eine Jagd brauchst du mindestens eine zweite Person.
+net\GameClient.java:1344: SEEKER
+net\GameClient.java:1344: HIDER
+net\GameClient.java:1349: PLAYER
+net\GameClient.java:1391: START
+net\GameClient.java:1392: snapshot
+net\GameClient.java:1393: centerLat
+net\GameClient.java:1394: centerLng
+net\GameClient.java:1398: Starten fehlgeschlagen. Prüfe die Verbindung.
+net\GameClient.java:1419: PING
+net\GameClient.java:1420: radius
+net\GameClient.java:1438: ZEIT
+net\GameClient.java:1438: HIDERS
+net\GameClient.java:1438: SEEKER
+net\GameClient.java:1496: type
+net\GameClient.java:1497: pid
+net\GameClient.java:1500: JOIN
+net\GameClient.java:1501: name
+net\GameClient.java:1501: Spieler
+net\GameClient.java:1503: LEAVE
+net\GameClient.java:1504: inGame
+net\GameClient.java:1506: START
+net\GameClient.java:1511: HB
+net\GameClient.java:1514: PING
+net\GameClient.java:1517: CHAT
+net\GameClient.java:1520: SHOP
+net\GameClient.java:1523: CATCH
+net\GameClient.java:1524: victimId
+net\GameClient.java:1524: GEFANGEN
+net\GameClient.java:1526: OUT
+net\GameClient.java:1527: victimId
+net\GameClient.java:1527: reason
+net\GameClient.java:1527: ZONE
+net\GameClient.java:1529: END
+net\GameClient.java:1532: LOBBY_CLOSED
+net\GameClient.java:1534: Der Host hat die Lobby geschlossen.
+net\GameClient.java:1546: snapshot
+net\GameClient.java:1556: centerLat
+net\GameClient.java:1557: centerLng
+net\GameClient.java:1603: lat
+net\GameClient.java:1603: lng
+net\GameClient.java:1604: lat
+net\GameClient.java:1605: lng
+net\GameClient.java:1606: acc
+net\GameClient.java:1612: hash
+net\GameClient.java:1616: alive
+net\GameClient.java:1618: AUSGESCHIEDEN
+net\GameClient.java:1623: AUSGESCHIEDEN
+net\GameClient.java:1639: text
+net\GameClient.java:1640: msgId
+net\GameClient.java:1641: senderId
+net\GameClient.java:1648: scope
+net\GameClient.java:1650: role
+net\GameClient.java:1651: name
+net\GameClient.java:1651: Spieler
+net\GameClient.java:1676: ts
+net\GameClient.java:1713: reason
+net\GameClient.java:1713: ENDE
+net\GameClient.java:1714: winner
+net\GameClient.java:1743: replay-
+net\GameClient.java:1806: Replay konnte nicht gespeichert werden
+net\GameClient.java:1832: Die Runde ist bereits beendet.
+net\GameClient.java:1835: Die Versteckzeit läuft noch. Der Sucher beginnt erst danach.
+net\GameClient.java:1839: Nur der Sucher kann jemanden fangen.
+net\GameClient.java:1842: Du bist selbst ausgeschieden.
+net\GameClient.java:1845: Wähle einen Verstecker aus.
+net\GameClient.java:1847: \\D
+net\GameClient.java:1849: Bitte den 4-stelligen Fangcode eingeben.
+net\GameClient.java:1855: Spieler nicht gefunden.
+net\GameClient.java:1860: Dieser Spieler ist kein Verstecker.
+net\GameClient.java:1863:  ist bereits ausgeschieden.
+net\GameClient.java:1866: Noch kein Fangcode empfangen. Warte kurz und versuche es erneut.
+net\GameClient.java:1869: Falscher Fangcode. Frage 
+net\GameClient.java:1869:  nach dem Code auf dem Handy.
+net\GameClient.java:1872: Keine Verbindung. Der Fang konnte nicht gemeldet werden.
+net\GameClient.java:1879: GEFANGEN
+net\GameClient.java:1885: CATCH
+net\GameClient.java:1886: victimId
+net\GameClient.java:1894:  wurde gefangen!
+net\GameClient.java:1909: ZONE
+net\GameClient.java:1912: OUT
+net\GameClient.java:1913: victimId
+net\GameClient.java:1914: reason
+net\GameClient.java:1914: ZONE
+net\GameClient.java:1919: ZONE
+net\GameClient.java:1930: HOST_BEENDET
+net\GameClient.java:1968: END
+net\GameClient.java:1969: reason
+net\GameClient.java:1970: winner
+net\GameClient.java:1989: SUCHER_RAUS
+net\GameClient.java:1989: HIDERS
+net\GameClient.java:1991: ALLE_RAUS
+net\GameClient.java:1991: SEEKER
+net\GameClient.java:2162: HB
+net\GameClient.java:2165: lat
+net\GameClient.java:2166: lng
+net\GameClient.java:2167: acc
+net\GameClient.java:2169: alive
+net\GameClient.java:2171: hash
+net\GameClient.java:2187: %04d
+net\GameClient.java:2197: type
+net\GameClient.java:2198: pid
+net\GameClient.java:2199: ts
+net\GameClient.java:2216: Lobby konnte nicht aktualisiert werden.
+net\GameClient.java:2226: JOIN
+net\GameClient.java:2227: name
+net\GameClient.java:2244: publish failed
+net\GameClient.java:2262: lobby/
+net\GameClient.java:2266: game/
+net\GameClient.java:2266: /events
+net\GameClient.java:2326: location setup failed
+net\GameClient.java:2386: HOST_BEENDET
+net\GameClient.java:2386: LOBBY_CLOSED
+net\GameClient.java:2400: HOST_BEENDET
+net\GameClient.java:2400: VERLASSEN
+net\GameClient.java:2424: type
+net\GameClient.java:2424: END
+net\GameClient.java:2425: pid
+net\GameClient.java:2426: ts
+net\GameClient.java:2427: reason
+net\GameClient.java:2428: winner
+net\GameClient.java:2432: type
+net\GameClient.java:2432: LOBBY_CLOSED
+net\GameClient.java:2433: pid
+net\GameClient.java:2434: ts
+net\GameClient.java:2439: type
+net\GameClient.java:2439: LEAVE
+net\GameClient.java:2440: pid
+net\GameClient.java:2441: ts
+net\GameClient.java:2442: inGame
+net\GameClient.java:2507: SEEKER
+net\GameClient.java:2507: Sucher gewinnt
+net\GameClient.java:2508: HIDERS
+net\GameClient.java:2508: Verstecker gewinnen
+net\GameClient.java:2508: Runde beendet
+net\GameClient.java:2520: Die Runde ist vorbei.
+net\GameClient.java:2523: ALLE_RAUS
+net\GameClient.java:2524: Alle Verstecker sind ausgeschieden.
+net\GameClient.java:2525: ZEIT
+net\GameClient.java:2526: Die Zeit ist abgelaufen.
+net\GameClient.java:2527: SUCHER_RAUS
+net\GameClient.java:2528: Alle Sucher sind ausgeschieden.
+net\GameClient.java:2529: HOST_BEENDET
+net\GameClient.java:2530: Der Host hat die Runde beendet.
+net\GameClient.java:2531: HOST_VERLASSEN
+net\GameClient.java:2532: Der Host hat das Spiel verlassen.
+net\GameClient.java:2534: Die Runde ist vorbei.
+net\GameClient.java:2637: Spieler
+net\GameClient.java:2637: \\s+
+net\GameClient.java:2639: Spieler
+util\Geo.java:24:  m
+util\Geo.java:26: %.1f km
+util\Geo.java:33: %02d:%02d
+util\Geo.java:39:  min
+util\Geo.java:43:  h
+util\Geo.java:43:  h 
+util\Geo.java:43:  min
+util\Geo.java:48: noch kein Ping
+util\Geo.java:52: gerade eben
+util\Geo.java:55: vor 
+util\Geo.java:55:  s
+util\Geo.java:57: vor 
+util\Geo.java:57:  min
+util\Hash.java:13: SHA-256
+util\Hash.java:17: %02x
+util\NotificationHelper.java:25: spiel_ereignisse
+util\NotificationHelper.java:44: Spielereignisse
+util\NotificationHelper.java:46: Rundenstart, Rundenende und die schrumpfende Zone
+util\NotificationHelper.java:54: Runde gestartet
+util\NotificationHelper.java:55: Die Verstecker haben 
+util\NotificationHelper.java:55:  Sekunden Vorsprung. Warte auf das Startsignal.
+util\NotificationHelper.java:58: Runde gestartet
+util\NotificationHelper.java:59: Du hast 
+util\NotificationHelper.java:59:  Sekunden Zeit, dich zu verstecken. Danach beginnt die Jagd.
+util\NotificationHelper.java:67: Die Jagd beginnt
+util\NotificationHelper.java:68: Die Versteckzeit ist vorbei. Du kannst jetzt suchen und fangen.
+util\NotificationHelper.java:72: Die Jagd beginnt
+util\NotificationHelper.java:73: Der Sucher ist jetzt unterwegs. Bleib in der Zone!
+util\NotificationHelper.java:80: Die Zone ist stark geschrumpft: nur noch 
+util\NotificationHelper.java:80:  m.
+util\NotificationHelper.java:81: Die Spielzone ist jetzt 
+util\NotificationHelper.java:81:  m groß.
+util\NotificationHelper.java:82: Zone schrumpft
+util\PlayerStats.java:17: zonenjagd_stats
+util\PlayerStats.java:18: total_distance_m
+util\PlayerStats.java:19: intro_seen_
+util\PlayerStats.java:47: %.1f
+util\PlayerStats.java:60: [^a-z0-9äöüß_-]
+util\PlayerStats.java:62: spieler
+util\ReplayStore.java:29: replays
+util\ReplayStore.java:46: Replay fehlt
+util\ReplayStore.java:50: replay-
+util\ReplayStore.java:53: .json
+util\ReplayStore.java:54: .tmp
+util\ReplayStore.java:62: Replay konnte nicht gespeichert werden
+util\ReplayStore.java:70: .json
+util\ReplayStore.java:89: .json
+util\ReplayStore.java:102: .json
+util\ReplayStore.java:104: .tmp
+util\ReplayStore.java:109: .json
+util\ReplayStore.java:124: .json
+util\ReplayStore.java:133: .json
+util\ReplayStore.java:149: [^A-Za-z0-9_-]
+view\PingMarkerDrawable.java:61: sans-serif-black
+view\PingMarkerDrawable.java:67: ?
+view\PingMarkerDrawable.java:71: ?
+view\PlayerPinDrawable.java:27: ?
+view\PlayerPinDrawable.java:37: sans-serif
+view\ReplayDotDrawable.java:26: ?
+view\ReplayDotDrawable.java:34: sans-serif

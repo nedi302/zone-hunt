@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="card_radius">24dp</dimen>
+    <dimen name="small_radius">16dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="gap_xs">6dp</dimen>
+    <dimen name="gap_s">10dp</dimen>
+    <dimen name="gap_m">16dp</dimen>
+    <dimen name="gap_l">24dp</dimen>
+    <dimen name="gap_xl">32dp</dimen>
+</resources>

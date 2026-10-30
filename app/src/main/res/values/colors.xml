@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#07120C</color>
+    <color name="bg">#0B1610</color>
+    <color name="surface">#122019</color>
+    <color name="surface_2">#182A20</color>
+    <color name="surface_3">#20372A</color>
+    <color name="line">#2A4436</color>
+    <color name="line_soft">#1D3327</color>
+
+    <color name="lime">#D7FF5F</color>
+    <color name="lime_dim">#A9CE45</color>
+    <color name="lime_soft">#2B3B16</color>
+    <color name="mint">#5DE8B6</color>
+    <color name="mint_soft">#123A2B</color>
+    <color name="orange">#FF8B4C</color>
+    <color name="orange_soft">#3A2416</color>
+    <color name="red">#FF5E6C</color>
+    <color name="red_soft">#3A1820</color>
+    <color name="blue">#63B9FF</color>
+    <color name="blue_soft">#163248</color>
+
+    <color name="text">#F5F9F4</color>
+    <color name="text_soft">#C5D2C8</color>
+    <color name="muted">#8FA398</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_35">#59FFFFFF</color>
+    <color name="white_12">#1FFFFFFF</color>
+    <color name="white_06">#0FFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="scrim">#CC06100B</color>
+    <color name="map_scrim">#E606100B</color>
+    <color name="black">#000000</color>
+</resources>

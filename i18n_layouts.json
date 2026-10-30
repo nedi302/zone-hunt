@@ -1,0 +1,1514 @@
+[
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCreateKicker",
+  "attr": "text",
+  "value": "NEUE JAGD"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCreateTitle",
+  "attr": "text",
+  "value": "DU BESTIMMST\\nDIE REGELN."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCreateSub",
+  "attr": "text",
+  "value": "Zone, Tempo und Pings stellst du vor dem Start ein. Die Rolle des Suchers legst du in der Lobby fest."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "SPIELZONE"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Startgröße"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/valueRadius",
+  "attr": "text",
+  "value": "350 m"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Radius der Spielzone beim Start. Der Host-Standort wird zum Mittelpunkt."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Schrumpf-Tempo"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/valueShrink",
+  "attr": "text",
+  "value": "5 m/min"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "So viele Meter verliert die Zone pro Minute. Bei 0 bleibt sie stehen."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "TEMPO & SIGNALE"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Rundendauer"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/valueRound",
+  "attr": "text",
+  "value": "30 min"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Nach Ablauf gewinnen die Verstecker, die noch in der Zone sind."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Ping-Takt"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/valuePing",
+  "attr": "text",
+  "value": "45 s"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Bei jedem Ping werden alle Spieler-Positionen auf der Karte eingefroren und bleiben bis zum nächsten Ping sichtbar."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "VERSTECKEN, TEAM & SHOP"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Versteckdauer"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/valueHide",
+  "attr": "text",
+  "value": "25 s"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "So viel Vorsprung haben die Verstecker, bevor die Sucher losziehen."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Team live sehen"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Verstecker sehen Verstecker live, Sucher sehen Sucher live – nur solange sie im Spiel sind."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "com.google.android.material.switchmaterial.SwitchMaterial",
+  "id": "@+id/switchTeamLive",
+  "attr": "contentDescription",
+  "value": "Team-Positionen live sehen"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Shop aktivieren"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Fürs Überleben gibt es Münzen. Im Spiel kaufst du damit Köder, Ping-Tarnung oder Radar. Die Preise passen sich der Rundendauer an."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "com.google.android.material.switchmaterial.SwitchMaterial",
+  "id": "@+id/switchShop",
+  "attr": "contentDescription",
+  "value": "Shop aktivieren"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "ZONEN-REGEL"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Kulanz außerhalb"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/valueGrace",
+  "attr": "text",
+  "value": "30 s"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "So lange darfst du dich außerhalb der Zone aufhalten, bevor du automatisch ausscheidest."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Der Startpunkt wird beim Loslassen der Runde aus deinem GPS-Standort gesetzt. Die Zone kann sich nicht verschieben – nur schrumpfen."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnCreateLobby",
+  "attr": "text",
+  "value": "Lobby erstellen"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCreateFootnote",
+  "attr": "text",
+  "value": "Du erhältst danach einen 4-stelligen Beitrittscode."
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "LOBBY WIRD GEÖFFNET"
+ },
+ {
+  "file": "activity_create_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtOverlayStatus",
+  "attr": "text",
+  "value": "Verbindung wird aufgebaut …"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtRole",
+  "attr": "text",
+  "value": "SUCHER"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtConnection",
+  "attr": "text",
+  "value": "LIVE"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtTimer",
+  "attr": "text",
+  "value": "30:00"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnChat",
+  "attr": "contentDescription",
+  "value": "Chat"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/chatBadge",
+  "attr": "text",
+  "value": "1"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnMenu",
+  "attr": "contentDescription",
+  "value": "Menü"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "ZONE"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtZone",
+  "attr": "text",
+  "value": "350 m"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtZoneSub",
+  "attr": "text",
+  "value": "−5 m/min"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtPingLabel",
+  "attr": "text",
+  "value": "NÄCHSTER PING"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtPingTimer",
+  "attr": "text",
+  "value": "0:45"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtPingSub",
+  "attr": "text",
+  "value": "bis zum nächsten Ping"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "IM SPIEL"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtAlive",
+  "attr": "text",
+  "value": "4"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtAliveSub",
+  "attr": "text",
+  "value": "3 Verstecker"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "●"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtZoneNow",
+  "attr": "text",
+  "value": "JETZT · 350 m"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "●"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtZoneNext",
+  "attr": "text",
+  "value": "NÄCHSTE · 325 m · 04:35"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/pingBanner",
+  "attr": "text",
+  "value": "PING! Positionen sind eingefroren."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "VERSTECKPHASE"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtHidePhaseSub",
+  "attr": "text",
+  "value": "Die Sucher warten, bis alle versteckt sind."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtHidePhaseTimer",
+  "attr": "text",
+  "value": "0:25"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/warningBanner",
+  "attr": "text",
+  "value": "Du bist außerhalb der Zone!"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/connectionBanner",
+  "attr": "text",
+  "value": "Verbindung wird wiederhergestellt …"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "DU HAST JEMANDEN GEFUNDEN?"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Gib den Fangcode vom Handy des Versteckers ein."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnCatch",
+  "attr": "text",
+  "value": "Fangen"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "DEIN FANGCODE"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnRevealCode",
+  "attr": "text",
+  "value": "Zeigen"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCatchCode",
+  "attr": "text",
+  "value": "••••"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCodeHint",
+  "attr": "text",
+  "value": "Nur zeigen, wenn du gefunden wurdest."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "DU BIST RAUS"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtOutReason",
+  "attr": "text",
+  "value": "Außerhalb der Zone ausgeschieden."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtOutWatch",
+  "attr": "text",
+  "value": "Zuschauen"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCoins",
+  "attr": "text",
+  "value": "0"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "MÜNZEN"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnShop",
+  "attr": "text",
+  "value": "Shop"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtShopStatus",
+  "attr": "text",
+  "value": "1 Münze pro 5 s Überleben · Preise passen zur Rundenzeit"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "SPIELER"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnOverview",
+  "attr": "text",
+  "value": "Übersicht"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnRecenter",
+  "attr": "text",
+  "value": "Karte"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtAttribution",
+  "attr": "text",
+  "value": "© OpenStreetMap"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCountdownLabel",
+  "attr": "text",
+  "value": "BEREIT?"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCountdown",
+  "attr": "text",
+  "value": "3"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCountdownSub",
+  "attr": "text",
+  "value": "Die Jagd beginnt"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/introRole",
+  "attr": "text",
+  "value": "DEINE ROLLE"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/introTitle",
+  "attr": "text",
+  "value": "DU BIST SUCHER"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/introText",
+  "attr": "text",
+  "value": "Warte auf den ersten Ping. Danach bleiben die Positionen aller Spieler bis zum nächsten Ping eingefroren sichtbar."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnIntroDismiss",
+  "attr": "text",
+  "value": "Verstanden, los!"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endBadge",
+  "attr": "text",
+  "value": "RUNDE BEENDET"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endTitle",
+  "attr": "text",
+  "value": "SUCHER GEWINNT"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endReason",
+  "attr": "text",
+  "value": "Alle Verstecker sind ausgeschieden."
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatOneValue",
+  "attr": "text",
+  "value": "28:14"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Dauer"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatTwoValue",
+  "attr": "text",
+  "value": "2 / 4"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatTwoLabel",
+  "attr": "text",
+  "value": "übrig"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatThreeValue",
+  "attr": "text",
+  "value": "12"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatThreeLabel",
+  "attr": "text",
+  "value": "Pings"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatFourValue",
+  "attr": "text",
+  "value": "0 m"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Strecke"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "@+id/endStatFiveValue",
+  "attr": "text",
+  "value": "0 kcal"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Kalorien"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnEndReplay",
+  "attr": "text",
+  "value": "Replay ansehen"
+ },
+ {
+  "file": "activity_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnEndBack",
+  "attr": "text",
+  "value": "Zurück zum Start"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "EINER VON VIELEN"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "JAGD BEITRETEN"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Gib den 4-stelligen Code der Lobby ein."
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "BEITRITTSCODE"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "EditText",
+  "id": "@+id/inputCode",
+  "attr": "hint",
+  "value": "0000"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "com.google.android.material.textfield.TextInputLayout",
+  "id": "@+id/nameLayout",
+  "attr": "hint",
+  "value": "Dein Spielername"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnJoinLobby",
+  "attr": "text",
+  "value": "Beitreten"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtProgress",
+  "attr": "text",
+  "value": "Verbinde mit der Lobby …"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Jedes Handy spielt mit. Standort, Karte und Ping laufen direkt auf deinem Gerät."
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "LOBBY WIRD GEÖFFNET"
+ },
+ {
+  "file": "activity_join_game.xml",
+  "tag": "TextView",
+  "id": "@+id/txtOverlayStatus",
+  "attr": "text",
+  "value": "Verbindung wird aufgebaut …"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "LOBBY"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Warte auf die Jagd."
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtRole",
+  "attr": "text",
+  "value": "HOST"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "BEITRITTSCODE"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnCopyCode",
+  "attr": "text",
+  "value": "Kopieren"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCode",
+  "attr": "text",
+  "value": "0000"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Diesen Code an deine Gruppe teilen."
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtLobbyStatus",
+  "attr": "text",
+  "value": "Warte auf Mitspieler …"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtPlayerCount",
+  "attr": "text",
+  "value": "1 / 20"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "SPIELER"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "DEINE REGIE"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Wer sucht? · Mehrfachauswahl"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtSeekerValue",
+  "attr": "text",
+  "value": "Noch nicht gewürfelt"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "SUCHER AUSWÄHLEN · tippe auf Namen"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnRandomSeeker",
+  "attr": "text",
+  "value": "Neu würfeln"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtSeekerTip",
+  "attr": "text",
+  "value": "Tipp: Mehrere Sucher möglich – mindestens ein Verstecker bleibt übrig. Die Versteckdauer legt der Host fest."
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "ECHTZEIT-EINSTELLUNGEN"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnEditSettings",
+  "attr": "text",
+  "value": "Einstellungen ändern"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnStart",
+  "attr": "text",
+  "value": "Jagd starten"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtStartHint",
+  "attr": "text",
+  "value": "Mindestens 2 Spieler · GPS wird beim Start benötigt"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "DER HOST STARTET BALD"
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtGuestHint",
+  "attr": "text",
+  "value": "Bleib in der Lobby. Sobald es losgeht, öffnet sich die Karte. Danach hast du Vorsprung zum Verstecken."
+ },
+ {
+  "file": "activity_lobby.xml",
+  "tag": "TextView",
+  "id": "@+id/txtLobbyInfo",
+  "attr": "text",
+  "value": "Der Sucher bekommt keinen Ping-Vorteil: Alle Positionen werden gleichzeitig sichtbar. Verstecker haben Vorsprung. Chat: Alle oder nur das eigene Team. Fangcodes bleiben auf dem Handy der Verstecker."
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "OUTDOOR"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Die Jagd ist draußen. Deine Freunde, die Karte, eine Zone, die schrumpft."
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "com.google.android.material.textfield.TextInputLayout",
+  "id": "@+id/nameLayout",
+  "attr": "hint",
+  "value": "Dein Spielername"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnCreate",
+  "attr": "text",
+  "value": "Jagd erstellen"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnJoin",
+  "attr": "text",
+  "value": "Mit Code beitreten"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Kein Account. Keine Anmeldung. Nur draußen."
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "DEINE BILANZ"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "@+id/txtTotalKm",
+  "attr": "text",
+  "value": "0,0 km"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Gesamtstrecke"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "@+id/txtTotalKcal",
+  "attr": "text",
+  "value": "0 kcal"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Kalorien verbrannt"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Gezählt werden die Wege, die du während der Runden zu Fuß zurücklegst."
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnReplays",
+  "attr": "text",
+  "value": "Wiederholungen"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "GPS"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Echtzeit-Karte"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "LIVE"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Pings & Zone"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "2–20"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Spieler"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "SO LÄUFT'S"
+ },
+ {
+  "file": "activity_main.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "OpenStreetMap-Karten · MQTT-Echtzeit · Für draußen gebaut"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "REPLAY"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayTitle",
+  "attr": "text",
+  "value": "Jagd vom 01.01.2026"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayMeta",
+  "attr": "text",
+  "value": "Code 0000 · 4 Spieler · 12:34"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayZone",
+  "attr": "text",
+  "value": "Jetzt 350 m · Nächste 325 m · in 05:00"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnReplayFit",
+  "attr": "contentDescription",
+  "value": "Alle Wege einpassen"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnReplayPlay",
+  "attr": "text",
+  "value": "Abspielen"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayElapsed",
+  "attr": "text",
+  "value": "00:00"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayTotal",
+  "attr": "text",
+  "value": "00:00"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnReplaySpeed",
+  "attr": "text",
+  "value": "1×"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayHint",
+  "attr": "text",
+  "value": "Tempo antippen · Regler ziehen zum Springen"
+ },
+ {
+  "file": "activity_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayAttribution",
+  "attr": "text",
+  "value": "© OpenStreetMap"
+ },
+ {
+  "file": "activity_replays.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "WIEDERHOLUNGEN"
+ },
+ {
+  "file": "activity_replays.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Deine Runden."
+ },
+ {
+  "file": "activity_replays.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayCount",
+  "attr": "text",
+  "value": "0"
+ },
+ {
+  "file": "activity_replays.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "NOCH KEIN REPLAY"
+ },
+ {
+  "file": "activity_replays.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Beende eine Runde. Danach findest du hier die Wege aller Spieler – nur auf diesem Gerät."
+ },
+ {
+  "file": "activity_replays.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Replays bleiben lokal gespeichert und können jederzeit gelöscht werden."
+ },
+ {
+  "file": "dialog_catch_code.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCatchPrompt",
+  "attr": "text",
+  "value": "Der Verstecker zeigt dir seinen 4-stelligen Code."
+ },
+ {
+  "file": "dialog_catch_code.xml",
+  "tag": "EditText",
+  "id": "@+id/inputCatchCode",
+  "attr": "hint",
+  "value": "0000"
+ },
+ {
+  "file": "dialog_catch_code.xml",
+  "tag": "TextView",
+  "id": "@+id/txtCatchError",
+  "attr": "text",
+  "value": ""
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "CHAT"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "@+id/txtChatRole",
+  "attr": "text",
+  "value": "VERSTECKER"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "@+id/btnChatAll",
+  "attr": "text",
+  "value": "Alle"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "@+id/btnChatTeam",
+  "attr": "text",
+  "value": "Team"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "@+id/txtChatTeamHint",
+  "attr": "text",
+  "value": "Team = alle Verstecker"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "@+id/txtChatEmpty",
+  "attr": "text",
+  "value": "Noch keine Nachrichten.\\nSchreib die erste."
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "EditText",
+  "id": "@+id/inputChat",
+  "attr": "hint",
+  "value": "Nachricht schreiben …"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnChatSend",
+  "attr": "contentDescription",
+  "value": "Senden"
+ },
+ {
+  "file": "dialog_chat.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Team-Nachrichten sehen nur Spieler mit derselben Rolle."
+ },
+ {
+  "file": "dialog_player_overview.xml",
+  "tag": "TextView",
+  "id": "@+id/overviewOutTitle",
+  "attr": "text",
+  "value": "GEFUNDEN & AUSGESCHIEDEN"
+ },
+ {
+  "file": "dialog_player_overview.xml",
+  "tag": "TextView",
+  "id": "@+id/overviewOutEmpty",
+  "attr": "text",
+  "value": "Noch niemand ausgeschieden."
+ },
+ {
+  "file": "dialog_player_overview.xml",
+  "tag": "TextView",
+  "id": "@+id/overviewAliveTitle",
+  "attr": "text",
+  "value": "NOCH IM SPIEL"
+ },
+ {
+  "file": "dialog_player_overview.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Fangcodes werden hier nie angezeigt."
+ },
+ {
+  "file": "dialog_shop.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "SHOP"
+ },
+ {
+  "file": "dialog_shop.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "1 Münze pro 5 s Überleben"
+ },
+ {
+  "file": "dialog_shop.xml",
+  "tag": "TextView",
+  "id": "@+id/shopCoins",
+  "attr": "text",
+  "value": "0 Münzen"
+ },
+ {
+  "file": "dialog_shop.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Preise passen sich automatisch der Rundenzeit an. Käufe werden an alle Spieler übertragen."
+ },
+ {
+  "file": "dialog_shop.xml",
+  "tag": "TextView",
+  "id": "",
+  "attr": "text",
+  "value": "Münzen gibt es nur, solange du im Spiel bist."
+ },
+ {
+  "file": "item_chat_message.xml",
+  "tag": "TextView",
+  "id": "@+id/chatSender",
+  "attr": "text",
+  "value": "Spieler"
+ },
+ {
+  "file": "item_chat_message.xml",
+  "tag": "TextView",
+  "id": "@+id/chatScope",
+  "attr": "text",
+  "value": "ALLE"
+ },
+ {
+  "file": "item_chat_message.xml",
+  "tag": "TextView",
+  "id": "@+id/chatTime",
+  "attr": "text",
+  "value": "20:15"
+ },
+ {
+  "file": "item_chat_message.xml",
+  "tag": "TextView",
+  "id": "@+id/chatText",
+  "attr": "text",
+  "value": "Nachricht"
+ },
+ {
+  "file": "item_game_player.xml",
+  "tag": "TextView",
+  "id": "@+id/avatar",
+  "attr": "text",
+  "value": "AB"
+ },
+ {
+  "file": "item_game_player.xml",
+  "tag": "TextView",
+  "id": "@+id/name",
+  "attr": "text",
+  "value": "Name"
+ },
+ {
+  "file": "item_game_player.xml",
+  "tag": "TextView",
+  "id": "@+id/status",
+  "attr": "text",
+  "value": "Ping vor 5 s"
+ },
+ {
+  "file": "item_lobby_player.xml",
+  "tag": "TextView",
+  "id": "@+id/avatar",
+  "attr": "text",
+  "value": "AB"
+ },
+ {
+  "file": "item_lobby_player.xml",
+  "tag": "TextView",
+  "id": "@+id/txtName",
+  "attr": "text",
+  "value": "Spieler"
+ },
+ {
+  "file": "item_lobby_player.xml",
+  "tag": "TextView",
+  "id": "@+id/txtMeta",
+  "attr": "text",
+  "value": "Bereit"
+ },
+ {
+  "file": "item_lobby_player.xml",
+  "tag": "TextView",
+  "id": "@+id/txtBadge",
+  "attr": "text",
+  "value": "HOST"
+ },
+ {
+  "file": "item_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayDate",
+  "attr": "text",
+  "value": "28.10.2026 · 14:05"
+ },
+ {
+  "file": "item_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayDetails",
+  "attr": "text",
+  "value": "Code 4821 · 8:42 · 5 Spieler"
+ },
+ {
+  "file": "item_replay.xml",
+  "tag": "TextView",
+  "id": "@+id/txtReplayResult",
+  "attr": "text",
+  "value": "Sucher: Anna · Verstecker gewinnen"
+ },
+ {
+  "file": "item_replay.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnDeleteReplay",
+  "attr": "contentDescription",
+  "value": "Replay löschen"
+ },
+ {
+  "file": "item_shop_offer.xml",
+  "tag": "TextView",
+  "id": "@+id/shopName",
+  "attr": "text",
+  "value": "Falsche Markierung"
+ },
+ {
+  "file": "item_shop_offer.xml",
+  "tag": "TextView",
+  "id": "@+id/shopDescription",
+  "attr": "text",
+  "value": "Platziere einen Köder mit deinem Namen."
+ },
+ {
+  "file": "item_shop_offer.xml",
+  "tag": "TextView",
+  "id": "@+id/shopPrice",
+  "attr": "text",
+  "value": "60 Münzen"
+ },
+ {
+  "file": "item_shop_offer.xml",
+  "tag": "com.google.android.material.button.MaterialButton",
+  "id": "@+id/btnShopBuy",
+  "attr": "text",
+  "value": "Kaufen"
+ },
+ {
+  "file": "step_row.xml",
+  "tag": "TextView",
+  "id": "@+id/stepNumber",
+  "attr": "text",
+  "value": "1"
+ },
+ {
+  "file": "step_row.xml",
+  "tag": "TextView",
+  "id": "@+id/stepTitle",
+  "attr": "text",
+  "value": "Lobby aufmachen"
+ },
+ {
+  "file": "step_row.xml",
+  "tag": "TextView",
+  "id": "@+id/stepText",
+  "attr": "text",
+  "value": "Der Host stellt Zone, Ping-Takt und Rundendauer ein und teilt den 4-stelligen Code."
+ }
+]

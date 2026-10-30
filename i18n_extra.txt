@@ -1,0 +1,224 @@
+game_menu_desc|||Menu|||Menü|||Menú|||Menu
+copy|||Copy|||Kopieren|||Copiar|||Copier
+game_hiders_placeholder|||3 hiders|||3 Verstecker|||3 escondidos|||3 cacheurs
+catch_prompt|||The hider shows you their 4-digit code.|||Der Verstecker zeigt dir seinen 4-stelligen Code.|||El escondido te muestra su código de 4 dígitos.|||Le cacheur te montre son code à 4 chiffres.
+shop_coins_zero|||0 coins|||0 Münzen|||0 monedas|||0 pièces
+shop_price_placeholder|||90 coins|||90 Münzen|||90 monedas|||90 pièces
+replay_title_placeholder|||Hunt from 01/01/2026|||Jagd vom 01.01.2026|||Cacería del 01/01/2026|||Chasse du 01/01/2026
+replay_result_prefix|||Seeker: %1$s|||Sucher: %1$s|||Buscador: %1$s|||Chercheur : %1$s
+replay_legend_seeker_suffix||| · S||| · S||| · B||| · C
+lobby_guest_hint_seconds|||Stay in the lobby. As soon as it starts, the map opens. You then have %1$d seconds to hide.|||Bleib in der Lobby. Sobald es losgeht, öffnet sich die Karte. Danach hast du %1$d Sekunden zum Verstecken.|||Quédate en el lobby. En cuanto empiece, se abre el mapa. Luego tendrás %1$d segundos para esconderte.|||Reste dans le salon. Dès que ça commence, la carte s’ouvre. Tu as ensuite %1$d secondes pour te cacher.
+lobby_info_seconds|||The seeker gets no ping advantage: all positions become visible at the same time. Hiders have a %1$d s head start. Chat: everyone or just your team. Catch codes stay on the hiders’ phones.|||Der Sucher bekommt keinen Ping-Vorteil: Alle Positionen werden gleichzeitig sichtbar. Verstecker haben %1$d s Vorsprung. Chat: Alle oder nur das eigene Team. Fangcodes bleiben auf dem Handy der Verstecker.|||El buscador no tiene ventaja en el ping: todas las posiciones se ven a la vez. Los escondidos tienen %1$d s de ventaja. Chat: todos o solo tu equipo. Los códigos de captura se quedan en el móvil de los escondidos.|||Le chercheur n’a aucun avantage au ping : toutes les positions deviennent visibles en même temps. Les cacheurs ont %1$d s d’avance. Chat : tout le monde ou seulement ton équipe. Les codes de capture restent sur le téléphone des cacheurs.
+lobby_random_seekers|||Random: %1$d seekers: %2$s|||Zufall: %1$d Sucher: %2$s|||Aleatorio: %1$d buscadores: %2$s|||Aléatoire : %1$d chercheurs : %2$s
+lobby_seekers_count|||%1$d seekers: %2$s|||%1$d Sucher: %2$s|||%1$d buscadores: %2$s|||%1$d chercheurs : %2$s
+lobby_host_you|||Host · You|||Host · Du|||Anfitrión · Tú|||Hôte · Toi
+lobby_roll_random|||Roll randomly|||Zufällig würfeln|||Sortear al azar|||Tirer au sort
+error_lobby_update|||The lobby could not be updated.|||Die Lobby konnte nicht aktualisiert werden.|||No se pudo actualizar el lobby.|||Le salon n’a pas pu être mis à jour.
+game_hiders_progress|||%1$d of %2$d hiders|||%1$d von %2$d Versteckern|||%1$d de %2$d escondidos|||%1$d sur %2$d cacheurs
+game_decoy_own|||Your decoy|||Dein Köder|||Tu señuelo|||Ton leurre
+settings_title|||Settings|||Einstellungen|||Ajustes|||Réglages
+settings_kicker|||SETTINGS|||EINSTELLUNGEN|||AJUSTES|||RÉGLAGES
+settings_subtitle|||Set up Zone Hunt just the way you like.|||Passe Zone Hunt an deine Vorlieben an.|||Personaliza Zone Hunt a tu gusto.|||Personnalise Zone Hunt comme tu le souhaites.
+settings_language|||Language|||Sprache|||Idioma|||Langue
+settings_language_desc|||Choose the language for the app. “System default” follows your device.|||Wähle die Sprache der App. „Systemsprache“ folgt deinem Gerät.|||Elige el idioma de la app. «Idioma del sistema» sigue tu dispositivo.|||Choisis la langue de l'application. « Langue du système » suit ton appareil.
+settings_language_note|||The change applies immediately.|||Die Änderung wird sofort übernommen.|||El cambio se aplica de inmediato.|||Le changement s'applique immédiatement.
+settings_language_system|||System default|||Systemsprache|||Idioma del sistema|||Langue du système
+settings_open|||Settings|||Einstellungen|||Ajustes|||Réglages
+language_english|||English|||English|||English|||English
+language_german|||Deutsch|||Deutsch|||Deutsch|||Deutsch
+language_spanish|||Español|||Español|||Español|||Español
+language_french|||Français|||Français|||Français|||Français
+
+mode_classic|||Classic|||Klassisch|||Clásico|||Classique
+mode_zombie|||Zombie Apocalypse|||Zombie-Apokalypse|||Apocalipsis zombi|||Apocalypse zombie
+mode_assassin|||Assassin|||Attentäter|||Asesino|||Assassin
+mode_ice|||Ice Tag|||Eisfangen|||Pillar|||Gel
+mode_classic_desc|||One or more seekers hunt the hiders. The hiders win if at least one of them survives until time runs out.|||Ein oder mehrere Sucher jagen die Verstecker. Die Verstecker gewinnen, wenn mindestens einer bis zum Ende der Zeit überlebt.|||Uno o varios buscadores cazan a los escondidos. Los escondidos ganan si al menos uno sobrevive hasta que acabe el tiempo.|||Un ou plusieurs chercheurs chassent les cacheurs. Les cacheurs gagnent si au moins l’un d’eux survit jusqu’à la fin du temps.
+mode_zombie_desc|||The seekers start as zombies. Every caught survivor joins the horde. Survivors win if at least one remains when time runs out.|||Die Sucher starten als Zombies. Jeder gefangene Überlebende wird Teil der Horde. Überlebende gewinnen, wenn am Ende noch mindestens einer übrig ist.|||Los buscadores empiezan como zombis. Cada superviviente capturado se une a la horda. Los supervivientes ganan si queda al menos uno al final.|||Les chercheurs commencent en zombies. Chaque survivant capturé rejoint la horde. Les survivants gagnent s’il en reste au moins un à la fin.
+mode_assassin_desc|||Everyone hunts a secret target. Eliminate it, inherit its target and be the last one standing.|||Alle jagen ein geheimes Ziel. Eliminiere es, erbe sein Ziel und überlebe als Letzter.|||Todos cazan un objetivo secreto. Elimínalo, hereda su objetivo y sé el último en pie.|||Chacun chasse une cible secrète. Élimine-la, hérite de sa cible et sois le dernier en vie.
+mode_ice_desc|||The ice hunter freezes hiders with the catch code. Active teammates thaw frozen players before the ice takes them.|||Der Eisjäger friert Verstecker mit dem Fangcode ein. Aktive Teammitglieder tauen Eingefrorene auf, bevor das Eis sie holt.|||El cazador de hielo congela a los escondidos con el código de captura. Los compañeros activos descongelan a los congelados antes de que el hielo los atrape.|||Le chasseur de glace gèle les cacheurs avec le code de capture. Les coéquipiers actifs réchauffent les joueurs gelés avant que la glace ne les emporte.
+create_mode_section|||GAME MODE|||SPIELMODUS|||MODO DE JUEGO|||MODE DE JEU
+create_zombie_conversion|||Infection protection|||Infektionsschutz|||Protección tras infección|||Protection après infection
+create_zombie_conversion_hint|||Newly turned zombies cannot catch anyone for this long.|||Frisch verwandelte Zombies können so lange niemanden fangen.|||Los zombis recién convertidos no pueden capturar a nadie durante este tiempo.|||Les zombies fraîchement convertis ne peuvent capturer personne pendant ce temps.
+create_zombie_sense|||Horde sense interval|||Horde-Sinn-Intervall|||Intervalo del sentido de la horda|||Intervalle du sens de la horde
+create_zombie_sense_hint|||Every few seconds zombies briefly sense all survivors.|||Alle paar Sekunden spüren Zombies kurz alle Überlebenden.|||Cada pocos segundos los zombis perciben brevemente a todos los supervivientes.|||Toutes les quelques secondes, les zombies perçoivent brièvement tous les survivants.
+create_assassin_radius|||Kill radius|||Ausschaltradius|||Radio de eliminación|||Rayon d’élimination
+create_assassin_radius_hint|||You can only eliminate your target within this distance.|||Du kannst dein Ziel nur innerhalb dieser Entfernung ausschalten.|||Solo puedes eliminar a tu objetivo dentro de esta distancia.|||Tu ne peux éliminer ta cible que dans cette distance.
+create_assassin_ping_only|||Target-only pings|||Nur Ziel-Pings|||Pings solo del objetivo|||Pings de la cible uniquement
+create_assassin_ping_only_hint|||Pings only reveal your current target. Disable to reveal everyone.|||Pings zeigen nur dein aktuelles Ziel. Deaktiviert werden alle sichtbar.|||Los pings solo revelan a tu objetivo actual. Desactívalo para ver a todos.|||Les pings ne révèlent que ta cible actuelle. Désactive pour voir tout le monde.
+create_assassin_ping_only_desc|||Only show the secret target on pings.|||Bei Pings nur das geheime Ziel anzeigen.|||Mostrar solo el objetivo secreto en los pings.|||N’afficher que la cible secrète lors des pings.
+create_ice_thaw_radius|||Thaw radius|||Tauradius|||Radio de descongelación|||Rayon de dégel
+create_ice_thaw_hint|||Frozen players are thawed by an active teammate inside this radius.|||Eingefrorene werden von einem aktiven Teammitglied innerhalb dieses Radius aufgetaut.|||Un compañero activo dentro de este radio descongela a los jugadores congelados.|||Un coéquipier actif dans ce rayon réchauffe les joueurs gelés.
+create_ice_thaw_hold|||Thaw time|||Tauzeit|||Tiempo de descongelación|||Temps de dégel
+create_ice_thaw_hold_hint|||The teammate must stay this close for the whole time.|||Das Teammitglied muss so lange in der Nähe bleiben.|||El compañero debe permanecer así de cerca todo el tiempo.|||Le coéquipier doit rester aussi proche pendant tout ce temps.
+create_ice_melt|||Melt time|||Schmelzzeit|||Tiempo de derretimiento|||Temps de fonte
+create_ice_melt_hint|||A frozen player is eliminated after this long without help.|||Ein Eingefrorener scheidet nach dieser Zeit ohne Hilfe aus.|||Un jugador congelado queda eliminado tras este tiempo sin ayuda.|||Un joueur gelé est éliminé après ce temps sans aide.
+lobby_mode_prefix|||Mode · %1$s|||Modus · %1$s|||Modo · %1$s|||Mode · %1$s
+lobby_mode_info_classic|||Pick the seekers yourself or roll them randomly.|||Wähle die Sucher selbst oder würfle sie zufällig aus.|||Elige tú a los buscadores o sortéalos al azar.|||Choisis les chercheurs toi-même ou tire-les au sort.
+lobby_mode_info_zombie|||Zombies are chosen at random when the round starts. Caught survivors join the horde.|||Zombies werden beim Start zufällig bestimmt. Gefangene Überlebende verstärken die Horde.|||Los zombis se eligen al azar al empezar. Los supervivientes capturados se unen a la horda.|||Les zombies sont choisis au hasard au début. Les survivants capturés rejoignent la horde.
+lobby_mode_info_assassin|||All players are assassins. Everyone receives a secret target at the start.|||Alle Spieler sind Attentäter. Jeder erhält beim Start ein geheimes Ziel.|||Todos son asesinos. Cada uno recibe un objetivo secreto al empezar.|||Tous les joueurs sont des assassins. Chacun reçoit une cible secrète au départ.
+lobby_mode_info_ice|||The ice hunter is chosen at random. Frozen hiders must be thawed by their team.|||Der Eisjäger wird zufällig bestimmt. Eingefrorene Verstecker müssen vom Team aufgetaut werden.|||El cazador de hielo se elige al azar. Los escondidos congelados deben ser descongelados por su equipo.|||Le chasseur de glace est choisi au hasard. Les cacheurs gelés doivent être réchauffés par leur équipe.
+lobby_zombie_conversion_chip|||Infection protection %1$d s|||Infektionsschutz %1$d s|||Protección tras infección %1$d s|||Protection après infection %1$d s
+lobby_zombie_sense_chip|||Horde sense every %1$d s|||Horde-Sinn alle %1$d s|||Sentido de la horda cada %1$d s|||Sens de la horde toutes les %1$d s
+lobby_assassin_radius_chip|||Kill radius %1$d m|||Ausschaltradius %1$d m|||Radio de eliminación %1$d m|||Rayon d’élimination %1$d m
+lobby_assassin_ping_only|||Only target pings|||Nur Ziel-Pings|||Pings solo del objetivo|||Pings de la cible uniquement
+lobby_assassin_ping_all|||All pings visible|||Alle Pings sichtbar|||Todos los pings visibles|||Tous les pings visibles
+lobby_ice_thaw_chip|||Thaw radius %1$d m|||Tauradius %1$d m|||Radio de descongelación %1$d m|||Rayon de dégel %1$d m
+lobby_ice_melt_chip|||Melt after %1$d s|||Schmelze nach %1$d s|||Derretimiento tras %1$d s|||Fonte après %1$d s
+game_role_zombie|||ZOMBIE|||ZOMBIE|||ZOMBI|||ZOMBIE
+game_role_survivor|||SURVIVOR|||ÜBERLEBENDER|||SUPERVIVIENTE|||SURVIVANT
+game_role_assassin|||ASSASSIN|||ATTENTÄTER|||ASESINO|||ASSASSIN
+game_role_ice_hunter|||ICE HUNTER|||EISJÄGER|||CAZADOR DE HIELO|||CHASSEUR DE GLACE
+game_role_frozen|||FROZEN|||EINGEFROREN|||CONGELADO|||GELÉ
+game_role_infected|||INFECTED|||INFIZIERT|||INFECTADO|||INFECTÉ
+game_role_zombie_lower|||Zombie|||Zombie|||Zombi|||Zombie
+game_role_survivor_lower|||Survivor|||Überlebender|||Superviviente|||Survivant
+game_role_assassin_lower|||Assassin|||Attentäter|||Asesino|||Assassin
+game_role_ice_hunter_lower|||Ice hunter|||Eisjäger|||Cazador de hielo|||Chasseur de glace
+game_role_frozen_lower|||Frozen|||Eingefroren|||Congelado|||Gelé
+game_your_target|||YOUR TARGET|||DEIN ZIEL|||TU OBJETIVO|||TA CIBLE
+game_target_none|||NO TARGET|||KEIN ZIEL|||SIN OBJETIVO|||AUCUNE CIBLE
+game_target_distance|||%1$s · %2$s away|||%1$s · %2$s entfernt|||%1$s · a %2$s|||%1$s · à %2$s
+game_target_waiting|||Keep moving until your target appears.|||Beweg dich weiter, bis dein Ziel auftaucht.|||Sigue moviéndote hasta que aparezca tu objetivo.|||Continue à bouger jusqu’à ce que ta cible apparaisse.
+game_kill|||Eliminate|||Ausschalten|||Eliminar|||Éliminer
+game_kill_title|||Eliminate target?|||Ziel ausschalten?|||¿Eliminar al objetivo?|||Éliminer la cible ?
+game_kill_message|||%1$s is within reach. Eliminate them now?|||%1$s ist in Reichweite. Jetzt ausschalten?|||%1$s está a tu alcance. ¿Eliminarlo ahora?|||%1$s est à portée. L’éliminer maintenant ?
+game_kill_too_far|||Target is %1$s away. Get within %2$s.|||Das Ziel ist %1$s entfernt. Komm auf %2$s heran.|||El objetivo está a %1$s. Acércate a %2$s.|||La cible est à %1$s. Approche-toi à %2$s.
+game_kill_no_position|||No current position for your target.|||Keine aktuelle Position für dein Ziel.|||No hay posición actual de tu objetivo.|||Aucune position actuelle pour ta cible.
+game_kill_success|||%1$s eliminated. New target: %2$s|||%1$s ausgeschaltet. Neues Ziel: %2$s|||%1$s eliminado. Nuevo objetivo: %2$s|||%1$s éliminé. Nouvelle cible : %2$s
+game_kill_last|||%1$s eliminated. You are the last assassin!|||%1$s ausgeschaltet. Du bist der letzte Attentäter!|||%1$s eliminado. ¡Eres el último asesino!|||%1$s éliminé. Tu es le dernier assassin !
+game_new_target|||New target: %1$s|||Neues Ziel: %1$s|||Nuevo objetivo: %1$s|||Nouvelle cible : %1$s
+game_zombie_objective|||Catch survivors and grow the horde.|||Fange Überlebende und vergrößere die Horde.|||Captura supervivientes y haz crecer la horda.|||Capture des survivants et agrandis la horde.
+game_survivor_objective|||Stay hidden. Zombies can turn you.|||Bleib versteckt. Zombies können dich verwandeln.|||Mantente escondido. Los zombis pueden convertirte.|||Reste caché. Les zombies peuvent te convertir.
+game_ice_hunter_objective|||Freeze every hider before time runs out.|||Friere alle Verstecker ein, bevor die Zeit abläuft.|||Congela a todos los escondidos antes de que acabe el tiempo.|||Gèle tous les cacheurs avant la fin du temps.
+game_ice_objective|||Stay active and thaw frozen teammates.|||Bleib aktiv und tau deine eingefrorenen Teammitglieder auf.|||Mantente activo y descongela a tus compañeros congelados.|||Reste actif et réchauffe tes coéquipiers gelés.
+game_assassin_objective|||Get close to your target and eliminate them.|||Komm deinem Ziel nah und schalte es aus.|||Acércate a tu objetivo y elimínalo.|||Approche-toi de ta cible et élimine-la.
+game_zombie_banner|||You are a zombie. Catch survivors with their code.|||Du bist ein Zombie. Fange Überlebende mit ihrem Code.|||Eres un zombi. Captura supervivientes con su código.|||Tu es un zombie. Capture les survivants avec leur code.
+game_infected_banner|||You were turned. You can hunt again in %1$d s.|||Du wurdest verwandelt. In %1$d s kannst du wieder jagen.|||Te han convertido. Podrás cazar de nuevo en %1$d s.|||Tu as été converti. Tu pourras chasser dans %1$d s.
+game_zombie_sense_banner|||Horde sense: all survivors revealed!|||Horde-Sinn: Alle Überlebenden sichtbar!|||Sentido de la horda: ¡todos los supervivientes revelados!|||Sens de la horde : tous les survivants révélés !
+game_protection|||Attack in %1$d s|||Angriff in %1$d s|||Ataque en %1$d s|||Attaque dans %1$d s
+game_kills_progress|||%1$d kills|||%1$d Kills|||%1$d eliminaciones|||%1$d éliminations
+game_frozen_progress|||%1$d frozen|||%1$d eingefroren|||%1$d congelados|||%1$d gelés
+game_frozen_title|||FROZEN|||EINGEFROREN|||CONGELADO|||GELÉ
+game_frozen_text|||A teammate must stay within %1$d m for %2$d s. You melt in %3$s.|||Ein Teammitglied muss %2$d s innerhalb von %1$d m bleiben. Du schmilzt in %3$s.|||Un compañero debe quedarse a menos de %1$d m durante %2$d s. Te derretirás en %3$s.|||Un coéquipier doit rester à moins de %1$d m pendant %2$d s. Tu fondras dans %3$s.
+game_frozen_alone|||A teammate must reach you within %1$s.|||Ein Teammitglied muss dich innerhalb von %1$s erreichen.|||Un compañero debe alcanzarte en %1$s.|||Un coéquipier doit te rejoindre dans %1$s.
+game_thawed_toast|||Thawed! Get moving.|||Aufgetaut! Beweg dich.|||¡Descongelado! Muévete.|||Dégelé ! Bouge.
+game_your_team_thawed|||%1$s thawed you.|||%1$s hat dich aufgetaut.|||%1$s te ha descongelado.|||%1$s t’a réchauffé.
+game_you_thawed|||You thawed %1$s.|||Du hast %1$s aufgetaut.|||Has descongelado a %1$s.|||Tu as réchauffé %1$s.
+game_melted_toast|||You froze solid.|||Du bist erfroren.|||Te has congelado por completo.|||Tu as gelé sur place.
+out_reason_frozen|||You froze solid before help arrived.|||Du bist erfroren, bevor Hilfe kam.|||Te has congelado antes de que llegara ayuda.|||Tu as gelé avant l’arrivée des secours.
+out_reason_assassin|||Your target got you first.|||Dein Ziel war schneller.|||Tu objetivo fue más rápido.|||Ta cible a été plus rapide.
+game_frozen_shop_hint|||Hot tea in the shop can thaw you instantly.|||Heißer Tee im Shop taut dich sofort auf.|||El té caliente de la tienda puede descongelarte al instante.|||Le thé chaud de la boutique peut te réchauffer instantanément.
+game_frozen_cannot_act|||Frozen players cannot catch, attack or move.|||Eingefrorene können nicht fangen, angreifen oder sich bewegen.|||Los jugadores congelados no pueden capturar, atacar ni moverse.|||Les joueurs gelés ne peuvent ni capturer, ni attaquer, ni bouger.
+game_survivors_progress|||%1$d of %2$d survivors|||%1$d von %2$d Überlebenden|||%1$d de %2$d supervivientes|||%1$d sur %2$d survivants
+game_active_progress|||%1$d of %2$d active|||%1$d von %2$d aktiv|||%1$d de %2$d activos|||%1$d sur %2$d actifs
+game_alive_progress|||%1$d of %2$d alive|||%1$d von %2$d am Leben|||%1$d de %2$d con vida|||%1$d sur %2$d en vie
+game_survivors_left|||Survivors left|||Überlebende übrig|||Supervivientes restantes|||Survivants restants
+game_active_hiders_left|||Active hiders|||Aktive Verstecker|||Escondidos activos|||Cacheurs actifs
+game_kills|||Eliminations|||Ausschaltungen|||Eliminaciones|||Éliminations
+game_infected_stat|||Infected|||Infiziert|||Infectados|||Infectés
+game_frozen_stat|||Frozen|||Eingefroren|||Congelados|||Gelés
+end_all_infected|||All survivors joined the horde.|||Alle Überlebenden sind Teil der Horde.|||Todos los supervivientes se han unido a la horda.|||Tous les survivants ont rejoint la horde.
+end_all_frozen|||Every hider is frozen.|||Alle Verstecker sind eingefroren.|||Todos los escondidos están congelados.|||Tous les cacheurs sont gelés.
+end_last_assassin|||Only one assassin is left.|||Nur ein Attentäter ist übrig.|||Solo queda un asesino.|||Il ne reste qu’un assassin.
+end_zombie_out|||All zombies are out of the zone.|||Alle Zombies sind außerhalb der Zone ausgeschieden.|||Todos los zombis han quedado fuera de la zona.|||Tous les zombies sont hors de la zone.
+end_time_zombies|||Time is up – the horde wins.|||Die Zeit ist um – die Horde gewinnt.|||Se acabó el tiempo: gana la horda.|||Temps écoulé : la horde gagne.
+end_time_survivors|||Time is up – the survivors win.|||Die Zeit ist um – die Überlebenden gewinnen.|||Se acabó el tiempo: ganan los supervivientes.|||Temps écoulé : les survivants gagnent.
+end_time_ice|||Time is up – the ice hunter wins.|||Die Zeit ist um – der Eisjäger gewinnt.|||Se acabó el tiempo: gana el cazador de hielo.|||Temps écoulé : le chasseur de glace gagne.
+end_time_hiders_ice|||Time is up – the hiders escape the ice.|||Die Zeit ist um – die Verstecker entkommen dem Eis.|||Se acabó el tiempo: los escondidos escapan del hielo.|||Temps écoulé : les cacheurs échappent à la glace.
+end_time_assassin|||Time is up – most eliminations win.|||Die Zeit ist um – die meisten Ausschaltungen gewinnen.|||Se acabó el tiempo: gana quien más eliminó.|||Temps écoulé : le plus d’éliminations gagne.
+game_winner_zombies|||THE HORDE WINS|||DIE HORDE GEWINNT|||GANA LA HORDA|||LA HORDE GAGNE
+game_winners_zombies|||ZOMBIES WIN|||ZOMBIES GEWINNEN|||GANAN LOS ZOMBIS|||LES ZOMBIES GAGNENT
+game_winner_survivors|||SURVIVORS WIN|||ÜBERLEBENDE GEWINNEN|||GANAN LOS SUPERVIVIENTES|||LES SURVIVANTS GAGNENT
+game_winner_ice_hunter|||ICE HUNTER WINS|||EISJÄGER GEWINNT|||GANA EL CAZADOR DE HIELO|||LE CHASSEUR DE GLACE GAGNE
+game_winner_assassin|||%1$s WINS|||%1$s GEWINNT|||GANA %1$s|||%1$s GAGNE
+game_you_are_last|||YOU ARE THE LAST ASSASSIN|||DU BIST DER LETZTE ATTENTÄTER|||ERES EL ÚLTIMO ASESINO|||TU ES LE DERNIER ASSASSIN
+replay_winner_zombies|||Zombies|||Zombies|||Zombis|||Zombies
+replay_winner_survivors|||Survivors|||Überlebende|||Supervivientes|||Survivants
+replay_winner_ice|||Ice hunter|||Eisjäger|||Cazador de hielo|||Chasseur de glace
+replay_winner_hiders_ice|||Hiders|||Verstecker|||Escondidos|||Cacheurs
+replay_winner_assassin|||Last assassin|||Letzter Attentäter|||Último asesino|||Dernier assassin
+shop_role_zombie_only|||Zombies only|||Nur Zombies|||Solo zombis|||Zombies uniquement
+shop_role_assassin_only|||Assassins only|||Nur Attentäter|||Solo asesinos|||Assassins uniquement
+shop_error_tea_not_frozen|||Hot tea only works while frozen.|||Heißer Tee wirkt nur, wenn du eingefroren bist.|||El té caliente solo funciona si estás congelado.|||Le thé chaud n’agit que lorsque tu es gelé.
+shop_error_frozen|||You are frozen and can only drink hot tea.|||Du bist eingefroren und kannst nur heißen Tee trinken.|||Estás congelado y solo puedes beber té caliente.|||Tu es gelé et tu ne peux que boire du thé chaud.
+shop_tea_thawed|||The hot tea thaws you instantly.|||Der heiße Tee taut dich sofort auf.|||El té caliente te descongela al instante.|||Le thé chaud te réchauffe instantanément.
+shop_item_zombie_decoy_name|||Survivor decoy|||Überlebenden-Köder|||Señuelo de superviviente|||Leurre de survivant
+shop_item_zombie_decoy_description|||Places your name somewhere else to lure the horde away.|||Platziert deinen Namen woanders, um die Horde wegzulocken.|||Coloca tu nombre en otro lugar para alejar a la horda.|||Place ton nom ailleurs pour attirer la horde au mauvais endroit.
+shop_item_zombie_camo_name|||Horde camouflage|||Horden-Tarnung|||Camuflaje de horda|||Camouflage de horde
+shop_item_zombie_camo_description|||You disappear from the next zombie ping.|||Du verschwindest beim nächsten Zombie-Ping.|||Desapareces del próximo ping de los zombis.|||Tu disparais du prochain ping des zombies.
+shop_item_zombie_sense_name|||Horde sense|||Horde-Sinn|||Sentido de la horda|||Sens de la horde
+shop_item_zombie_sense_description|||Reveals all survivors live for 10 seconds.|||Zeigt alle Überlebenden 10 Sekunden live.|||Revela a todos los supervivientes en vivo durante 10 s.|||Révèle tous les survivants en direct pendant 10 s.
+shop_item_assassin_track_name|||False trail|||Falsche Spur|||Rastro falso|||Fausse piste
+shop_item_assassin_track_description|||Places a fake name on the map to mislead hunters.|||Platziert einen falschen Namen auf der Karte, um Jäger zu täuschen.|||Coloca un nombre falso en el mapa para engañar a los cazadores.|||Place un faux nom sur la carte pour tromper les chasseurs.
+shop_item_assassin_shadow_name|||Shadow|||Schatten|||Sombra|||Ombre
+shop_item_assassin_shadow_description|||You vanish from the next ping.|||Du verschwindest beim nächsten Ping.|||Desapareces del próximo ping.|||Tu disparais du prochain ping.
+shop_item_assassin_radar_name|||Target radar|||Zielradar|||Radar de objetivo|||Radar de cible
+shop_item_assassin_radar_description|||Shows your target live for 10 seconds.|||Zeigt dein Ziel 10 Sekunden live.|||Muestra a tu objetivo en vivo durante 10 s.|||Affiche ta cible en direct pendant 10 s.
+shop_item_ice_decoy_name|||Warm decoy|||Warmer Köder|||Señuelo caliente|||Leurre chaud
+shop_item_ice_decoy_description|||Places your name somewhere else to distract the ice hunter.|||Platziert deinen Namen woanders, um den Eisjäger abzulenken.|||Coloca tu nombre en otro lugar para distraer al cazador de hielo.|||Place ton nom ailleurs pour distraire le chasseur de glace.
+shop_item_ice_tea_name|||Hot tea|||Heißer Tee|||Té caliente|||Thé chaud
+shop_item_ice_tea_description|||Thaws you instantly while frozen.|||Taut dich sofort auf, wenn du eingefroren bist.|||Te descongela al instante si estás congelado.|||Te réchauffe instantanément lorsque tu es gelé.
+shop_item_ice_thermal_name|||Thermal vision|||Wärmesicht|||Visión térmica|||Vision thermique
+shop_item_ice_thermal_description|||See all hiders live for 10 seconds.|||Sieh alle Verstecker 10 Sekunden live.|||Ve a todos los escondidos en vivo durante 10 s.|||Vois tous les cacheurs en direct pendant 10 s.
+shop_zombie_decoy_placed|||Decoy placed. The horde will search there.|||Köder platziert. Die Horde sucht dort.|||Señuelo colocado. La horda buscará allí.|||Leurre placé. La horde cherchera là-bas.
+shop_zombie_camo_active|||Horde camouflage active: the next ping hides you.|||Horden-Tarnung aktiv: Der nächste Ping verbirgt dich.|||Camuflaje de horda activo: el próximo ping te oculta.|||Camouflage de horde actif : le prochain ping te cache.
+shop_zombie_sense_active|||Horde sense active: all survivors visible for 10 s.|||Horde-Sinn aktiv: Alle Überlebenden 10 s sichtbar.|||Sentido de la horda activo: todos los supervivientes visibles 10 s.|||Sens de la horde actif : tous les survivants visibles 10 s.
+shop_assassin_track_placed|||False trail placed.|||Falsche Spur platziert.|||Rastro falso colocado.|||Fausse piste placée.
+shop_assassin_shadow_active|||Shadow active: you vanish from the next ping.|||Schatten aktiv: Du verschwindest beim nächsten Ping.|||Sombra activa: desapareces del próximo ping.|||Ombre active : tu disparais du prochain ping.
+shop_assassin_target_radar_active|||Target radar active for 10 s.|||Zielradar 10 s aktiv.|||Radar de objetivo activo 10 s.|||Radar de cible actif pendant 10 s.
+shop_ice_decoy_placed|||Warm decoy placed. The ice hunter will check there.|||Warmer Köder platziert. Der Eisjäger schaut dort nach.|||Señuelo caliente colocado. El cazador de hielo mirará allí.|||Leurre chaud placé. Le chasseur de glace vérifiera là-bas.
+shop_ice_thermal_active|||Thermal vision active: all hiders visible for 10 s.|||Wärmesicht aktiv: Alle Verstecker 10 s sichtbar.|||Visión térmica activa: todos los escondidos visibles 10 s.|||Vision thermique active : tous les cacheurs visibles 10 s.
+game_shop_tea_only|||Only hot tea is available while frozen.|||Eingefroren ist nur heißer Tee verfügbar.|||Congelado solo tienes té caliente disponible.|||Gelé, seul le thé chaud est disponible.
+game_help_mode_zombie|||\n Zombie mode: the seekers start as zombies. A caught survivor joins the horde immediately, but cannot catch anyone during the infection protection time. Zombies occasionally sense all survivors. Survivors win if one is still active when time runs out.|||\n Zombie-Modus: Die Sucher starten als Zombies. Ein gefangener Überlebender verstärkt sofort die Horde, kann während des Infektionsschutzes aber niemanden fangen. Zombies spüren regelmäßig alle Überlebenden. Überlebende gewinnen, wenn am Ende noch einer aktiv ist.|||\n Modo zombi: los buscadores empiezan como zombis. Un superviviente capturado se une a la horda al instante, pero no puede capturar durante la protección tras la infección. Los zombis perciben a todos los supervivientes de vez en cuando. Los supervivientes ganan si uno sigue activo al final.|||\n Mode zombie : les chercheurs commencent en zombies. Un survivant capturé rejoint immédiatement la horde, mais ne peut capturer personne pendant la protection après infection. Les zombies perçoivent régulièrement tous les survivants. Les survivants gagnent s’il en reste un actif à la fin.
+game_help_mode_assassin|||\n Assassin mode: everyone has a secret target. Get within the kill radius and eliminate your target. You inherit its target. The last assassin standing wins; if time runs out, the most eliminations win.|||\n Attentäter-Modus: Jeder hat ein geheimes Ziel. Komm in den Ausschaltradius und eliminiere dein Ziel. Du erbst sein Ziel. Der letzte Attentäter gewinnt; bei Zeitablauf gewinnen die meisten Ausschaltungen.|||\n Modo asesino: cada uno tiene un objetivo secreto. Acércate al radio de eliminación y elimina a tu objetivo. Heredas su objetivo. Gana el último asesino; si se acaba el tiempo, gana quien más eliminó.|||\n Mode assassin : chacun a une cible secrète. Approche-toi dans le rayon d’élimination et élimine ta cible. Tu hérites de sa cible. Le dernier assassin gagne ; si le temps s’écoule, le plus d’éliminations gagne.
+game_help_mode_ice|||\n Ice mode: the ice hunter freezes hiders with their catch code. A frozen player is eliminated after the melt time unless an active teammate stays within the thaw radius long enough. All hiders frozen means the ice hunter wins.|||\n Eis-Modus: Der Eisjäger friert Verstecker mit ihrem Fangcode ein. Ein Eingefrorener scheidet nach der Schmelzzeit aus, wenn kein aktives Teammitglied lange genug im Tauradius bleibt. Sind alle Verstecker eingefroren, gewinnt der Eisjäger.|||\n Modo hielo: el cazador de hielo congela a los escondidos con su código de captura. Un jugador congelado queda eliminado tras el tiempo de derretimiento si ningún compañero activo permanece suficiente tiempo en el radio de descongelación. Si todos los escondidos están congelados, gana el cazador de hielo.|||\n Mode glace : le chasseur de glace gèle les cacheurs avec leur code de capture. Un joueur gelé est éliminé après le temps de fonte si aucun coéquipier actif ne reste assez longtemps dans le rayon de dégel. Si tous les cacheurs sont gelés, le chasseur de glace gagne.
+error_only_zombie|||Only zombies can catch survivors.|||Nur Zombies können Überlebende fangen.|||Solo los zombis pueden capturar supervivientes.|||Seuls les zombies peuvent capturer des survivants.
+error_zombie_protected|||You were just turned. You can catch again in %1$d s.|||Du wurdest gerade verwandelt. In %1$d s kannst du wieder fangen.|||Acabas de ser convertido. Podrás capturar de nuevo en %1$d s.|||Tu viens d’être converti. Tu pourras capturer dans %1$d s.
+error_frozen|||You are frozen and cannot act.|||Du bist eingefroren und kannst nicht handeln.|||Estás congelado y no puedes actuar.|||Tu es gelé et tu ne peux pas agir.
+error_only_assassin|||Only assassins can eliminate a target.|||Nur Attentäter können ein Ziel ausschalten.|||Solo los asesinos pueden eliminar a un objetivo.|||Seuls les assassins peuvent éliminer une cible.
+error_no_target|||You have no target right now.|||Du hast gerade kein Ziel.|||No tienes objetivo ahora mismo.|||Tu n’as aucune cible pour le moment.
+notify_infected|||%1$s joined the horde.|||%1$s verstärkt jetzt die Horde.|||%1$s se ha unido a la horda.|||%1$s a rejoint la horde.
+notify_frozen|||%1$s is frozen.|||%1$s ist eingefroren.|||%1$s está congelado.|||%1$s est gelé.
+notify_thawed_by|||%1$s thawed %2$s.|||%1$s hat %2$s aufgetaut.|||%1$s ha descongelado a %2$s.|||%1$s a réchauffé %2$s.
+game_zombie_found|||SURVIVOR FOUND?|||ÜBERLEBENDEN GEFUNDEN?|||¿SUPERVIVIENTE ENCONTRADO?|||SURVIVANT TROUVÉ ?
+game_zombie_enter|||Enter their code to turn them into a zombie.|||Gib den Code ein, um ihn in einen Zombie zu verwandeln.|||Introduce su código para convertirlo en zombi.|||Saisis son code pour le transformer en zombie.
+game_infect|||Turn|||Verwandeln|||Convertir|||Convertir
+game_ice_found|||HIDER FOUND?|||VERSTECKER GEFUNDEN?|||¿ESCONDIDO ENCONTRADO?|||CACHEUR TROUVÉ ?
+game_ice_enter|||Enter their code to freeze them.|||Gib den Code ein, um ihn einzufrieren.|||Introduce su código para congelarlo.|||Saisis son code pour le geler.
+game_freeze|||Freeze|||Einfrieren|||Congelar|||Geler
+game_who_turn|||Who do you want to turn?|||Wen willst du verwandeln?|||¿A quién quieres convertir?|||Qui veux-tu transformer ?
+game_who_freeze|||Who do you want to freeze?|||Wen willst du einfrieren?|||¿A quién quieres congelar?|||Qui veux-tu geler ?
+game_no_survivors_left|||No survivors left in the game.|||Keine Überlebenden mehr im Spiel.|||No quedan supervivientes en la partida.|||Plus aucun survivant dans la partie.
+game_no_active_hiders_left|||No active hiders left.|||Keine aktiven Verstecker mehr.|||No quedan escondidos activos.|||Plus aucun cacheur actif.
+game_target_away|||%1$s away|||%1$s entfernt|||a %1$s|||à %1$s
+game_alive_label|||Alive|||Am Leben|||Con vida|||En vie
+chat_team_hint_zombies|||Team = the whole horde|||Team = die ganze Horde|||Equipo = toda la horda|||Équipe = toute la horde
+chat_team_hint_survivors|||Team = all survivors|||Team = alle Überlebenden|||Equipo = todos los supervivientes|||Équipe = tous les survivants
+chat_team_hint_assassins|||Team = all assassins|||Team = alle Attentäter|||Equipo = todos los asesinos|||Équipe = tous les assassins
+chat_team_hint_ice|||Team = all hiders|||Team = alle Verstecker|||Equipo = todos los escondidos|||Équipe = tous les cacheurs
+game_notif_hunt_zombie|||The hunt begins – you can turn survivors now.|||Die Jagd beginnt – du kannst jetzt Überlebende verwandeln.|||La caza empieza: ya puedes convertir supervivientes.|||La chasse commence : tu peux transformer des survivants.
+game_notif_hunt_survivor|||The hunt begins – stay hidden from the horde!|||Die Jagd beginnt – bleib vor der Horde versteckt!|||La caza empieza: ¡mantente escondido de la horda!|||La chasse commence : reste caché de la horde !
+game_notif_hunt_ice_hunter|||The hunt begins – you can freeze hiders now.|||Die Jagd beginnt – du kannst jetzt Verstecker einfrieren.|||La caza empieza: ya puedes congelar escondidos.|||La chasse commence : tu peux geler des cacheurs.
+game_notif_hunt_ice_hider|||The hunt begins – stay active and thaw your team!|||Die Jagd beginnt – bleib aktiv und tau dein Team auf!|||La caza empieza: ¡mantente activo y descongela a tu equipo!|||La chasse commence : reste actif et réchauffe ton équipe !
+game_notif_hunt_assassin|||The hunt begins – find your target!|||Die Jagd beginnt – finde dein Ziel!|||La caza empieza: ¡encuentra tu objetivo!|||La chasse commence : trouve ta cible !
+game_intro_head_start|||%1$d s head start. Then the hunt begins.|||%1$d s Vorsprung. Dann beginnt die Jagd.|||%1$d s de ventaja. Después empieza la caza.|||%1$d s d’avance. Puis la chasse commence.
+overview_status_frozen|||Froze|||Erfroren|||Congelado|||Gelé
+overview_status_assassin|||Eliminated|||Ausgeschaltet|||Eliminado|||Éliminé
+game_you_win|||YOU WIN|||DU GEWINNST|||GANAS|||TU GAGNES
+out_reason_zombie|||A zombie entered your catch code.|||Ein Zombie hat deinen Fangcode eingegeben.|||Un zombi introdujo tu código de captura.|||Un zombie a saisi ton code de capture.
+out_reason_ice|||The ice hunter entered your catch code.|||Der Eisjäger hat deinen Fangcode eingegeben.|||El cazador de hielo introdujo tu código de captura.|||Le chasseur de glace a saisi ton code de capture.
+end_ice_hunter_out|||The ice hunter is out. The hiders win.|||Der Eisjäger ist draußen. Die Verstecker gewinnen.|||El cazador de hielo queda eliminado. Los escondidos ganan.|||Le chasseur de glace est éliminé. Les cacheurs gagnent.
+end_ice_hunter_left|||The ice hunter left the game. The hiders win.|||Der Eisjäger hat das Spiel verlassen. Die Verstecker gewinnen.|||El cazador de hielo abandonó la partida. Los escondidos ganan.|||Le chasseur de glace a quitté la partie. Les cacheurs gagnent.
+replay_winner_zombies_full|||Zombies win|||Zombies gewinnen|||Ganan los zombis|||Les zombies gagnent
+replay_winner_survivors_full|||Survivors win|||Überlebende gewinnen|||Ganan los supervivientes|||Les survivants gagnent
+replay_winner_ice_hunter|||Ice hunter wins|||Eisjäger gewinnt|||Gana el cazador de hielo|||Le chasseur de glace gagne
+replay_result_assassin|||Assassin: %1$s|||Attentäter: %1$s|||Asesino: %1$s|||Assassin : %1$s
+replay_legend_zombie_suffix||| · Z||| · Z||| · Z||| · Z
+replay_legend_ice_suffix||| · I||| · E||| · H||| · G
+game_intro_shop_zombie|||\n\nShop: survivors can place bait and camouflage, zombies can use the horde sense.|||\n\nShop: Überlebende können Köder und Tarnung kaufen, Zombies den Horde-Sinn.|||\n\nTienda: los supervivientes pueden comprar señuelos y camuflaje, los zombis el sentido de la horda.|||\n\nBoutique : les survivants peuvent acheter leurres et camouflage, les zombies le sens de la horde.
+game_intro_shop_assassin|||\n\nShop: lay a false trail, vanish in the shadows or reveal your target with the radar.|||\n\nShop: leg eine falsche Spur, verschwinde im Schatten oder finde dein Ziel mit dem Radar.|||\n\nTienda: deja un rastro falso, desaparece en las sombras o revela tu objetivo con el radar.|||\n\nBoutique : pose une fausse piste, disparais dans l’ombre ou révèle ta cible avec le radar.
+game_intro_shop_ice|||\n\nShop: hiders can place bait or thaw with hot tea, the ice hunter can use thermal vision.|||\n\nShop: Verstecker können Köder legen oder sich mit heißem Tee auftauen, der Eisjäger nutzt Wärmesicht.|||\n\nTienda: los escondidos pueden poner señuelos o descongelarse con té caliente, el cazador de hielo usa visión térmica.|||\n\nBoutique : les cacheurs peuvent poser un leurre ou se réchauffer avec du thé, le chasseur de glace utilise la vision thermique.
+game_sense_prefix|||Horde sense |||Horde-Sinn |||Sentido de la horda |||Sens de la horde 
+game_thermal_prefix|||Thermal vision |||Wärmesicht |||Visión térmica |||Vision thermique 
+game_shadow_prefix|||Shadow |||Schatten |||Sombra |||Ombre 

@@ -1,0 +1,156 @@
+app_name|||Zone Hunt|||Zone Hunt|||Zone Hunt|||Zone Hunt
+your_name|||Your name|||Dein Name|||Tu nombre|||Votre nom
+brand|||ZONE HUNT|||ZONE HUNT|||ZONE HUNT|||ZONE HUNT
+brand_kicker|||GPS HIDE & SEEK|||GPS HIDE & SEEK|||GPS HIDE & SEEK|||GPS HIDE & SEEK
+permission_title|||GPS is required|||GPS wird gebraucht|||Se necesita GPS|||GPS requis
+permission_message|||Zone Hunt shows your position on the map and calculates the game zone. Allow location access to play.|||Zone Hunt zeigt deine Position auf der Karte und berechnet die Spielzone. Erlaube dafür den Standortzugriff.|||Zone Hunt muestra tu posición en el mapa y calcula la zona de juego. Permite el acceso a la ubicación.|||Zone Hunt affiche ta position sur la carte et calcule la zone de jeu. Autorise l’accès à la localisation.
+permission_settings|||Open settings|||Einstellungen öffnen|||Abrir ajustes|||Ouvrir les réglages
+location_off_title|||Location is off|||Standort ist aus|||La ubicación está desactivada|||La localisation est désactivée
+location_off_message|||Enable GPS so the hunt can start.|||Aktiviere GPS, damit die Jagd starten kann.|||Activa el GPS para que la cacería pueda empezar.|||Active le GPS pour que la chasse puisse commencer.
+cancel|||Cancel|||Abbrechen|||Cancelar|||Annuler
+ok|||OK|||OK|||OK|||OK
+back|||Back|||Zurück|||Atrás|||Retour
+copy_code|||Copy code|||Code kopieren|||Copiar código|||Copier le code
+code_copied|||Code copied|||Code kopiert|||Código copiado|||Code copié
+leave|||Leave|||Verlassen|||Salir|||Quitter
+host|||Host|||Host|||Anfitrión|||Hôte
+you|||You|||Du|||Tú|||Toi
+random|||Random|||Zufällig|||Aleatorio|||Aléatoire
+seeker|||Seeker|||Sucher|||Buscador|||Chercheur
+hider|||Hider|||Verstecker|||Escondido|||Cacheur
+alive|||In game|||Im Spiel|||En juego|||En jeu
+out|||Out|||Raus|||Fuera|||Éliminé
+next_ping|||Next ping|||Nächster Ping|||Próximo ping|||Prochain ping
+ping_now|||PING!|||PING!|||¡PING!|||PING !
+catches|||Catches|||Fänge|||Capturas|||Captures
+remaining|||Left|||Übrig|||Restantes|||Restants
+zone|||Zone|||Zone|||Zona|||Zone
+round|||Round|||Runde|||Ronda|||Manche
+retry|||Try again|||Erneut versuchen|||Reintentar|||Réessayer
+close|||Close|||Schließen|||Cerrar|||Fermer
+later|||Later|||Später|||Más tarde|||Plus tard
+show|||Show|||Zeigen|||Mostrar|||Afficher
+hide|||Hide|||Verbergen|||Ocultar|||Masquer
+delete|||Delete|||Löschen|||Eliminar|||Supprimer
+buy|||Buy|||Kaufen|||Comprar|||Acheter
+active|||Active|||Aktiv|||Activo|||Actif
+locked|||Locked|||Gesperrt|||Bloqueado|||Verrouillé
+player|||Player|||Spieler|||Jugador|||Joueur
+unknown|||Unknown|||Unbekannt|||Desconocido|||Inconnu
+create_kicker|||NEW HUNT|||NEUE JAGD|||NUEVA CACERÍA|||NOUVELLE CHASSE
+create_title|||YOU SET\nTHE RULES.|||DU BESTIMMST\nDIE REGELN.|||TÚ PONES\nLAS REGLAS.|||C’EST TOI QUI\nFIXES LES RÈGLES.
+create_sub|||Set zone, pace and pings before the start. You choose the seeker role in the lobby.|||Zone, Tempo und Pings stellst du vor dem Start ein. Die Rolle des Suchers legst du in der Lobby fest.|||Configura la zona, el ritmo y los pings antes de empezar. El rol de buscador se elige en el lobby.|||Règle la zone, le rythme et les pings avant le départ. Le rôle de chercheur se choisit dans le salon.
+section_game_zone|||GAME ZONE|||SPIELZONE|||ZONA DE JUEGO|||ZONE DE JEU
+create_start_size|||Starting size|||Startgröße|||Tamaño inicial|||Taille initiale
+create_radius_hint|||Radius of the game zone at the start. The host location becomes the center.|||Radius der Spielzone beim Start. Der Host-Standort wird zum Mittelpunkt.|||Radio de la zona de juego al inicio. La ubicación del anfitrión es el centro.|||Rayon de la zone de jeu au départ. La position de l’hôte devient le centre.
+create_shrink_speed|||Shrink speed|||Schrumpf-Tempo|||Velocidad de reducción|||Vitesse de réduction
+create_shrink_hint|||How many meters the zone loses per minute. At 0 it stays put.|||So viele Meter verliert die Zone pro Minute. Bei 0 bleibt sie stehen.|||Cuántos metros pierde la zona por minuto. Con 0 se queda igual.|||Combien de mètres la zone perd par minute. À 0, elle reste fixe.
+section_pace_signals|||PACE & SIGNALS|||TEMPO & SIGNALE|||RITMO Y SEÑALES|||RYTHME ET SIGNAUX
+create_round_duration|||Round duration|||Rundendauer|||Duración de la ronda|||Durée de la manche
+create_round_hint|||When time is up, the hiders still inside the zone win.|||Nach Ablauf gewinnen die Verstecker, die noch in der Zone sind.|||Al terminar el tiempo, ganan los escondidos que sigan dentro de la zona.|||À la fin du temps, les cacheurs encore dans la zone gagnent.
+create_ping_interval|||Ping interval|||Ping-Takt|||Intervalo de ping|||Intervalle des pings
+create_ping_hint|||On every ping, all player positions are frozen on the map and stay visible until the next ping.|||Bei jedem Ping werden alle Spieler-Positionen auf der Karte eingefroren und bleiben bis zum nächsten Ping sichtbar.|||En cada ping, las posiciones de todos los jugadores se congelan en el mapa y siguen visibles hasta el próximo ping.|||À chaque ping, les positions de tous les joueurs sont figées sur la carte et restent visibles jusqu’au ping suivant.
+section_hide_team_shop|||HIDING, TEAM & SHOP|||VERSTECKEN, TEAM & SHOP|||ESCONDERSE, EQUIPO Y TIENDA|||CACHE, ÉQUIPE ET BOUTIQUE
+create_hide_duration|||Hide duration|||Versteckdauer|||Duración para esconderse|||Durée de cache
+create_hide_hint|||How much head start the hiders get before the seekers set off.|||So viel Vorsprung haben die Verstecker, bevor die Sucher losziehen.|||Cuánta ventaja tienen los escondidos antes de que salgan los buscadores.|||L’avance dont disposent les cacheurs avant que les chercheurs partent.
+create_team_live|||See team live|||Team live sehen|||Ver equipo en vivo|||Voir l’équipe en direct
+create_team_live_hint|||Hiders see hiders live, seekers see seekers live – only while they are in the game.|||Verstecker sehen Verstecker live, Sucher sehen Sucher live – nur solange sie im Spiel sind.|||Los escondidos ven a los escondidos en vivo, los buscadores a los buscadores, solo mientras siguen en juego.|||Les cacheurs voient les cacheurs en direct, les chercheurs voient les chercheurs, uniquement pendant la partie.
+create_team_live_desc|||See team positions live|||Team-Positionen live sehen|||Ver posiciones del equipo en vivo|||Voir les positions de l’équipe en direct
+create_shop_enable|||Enable shop|||Shop aktivieren|||Activar tienda|||Activer la boutique
+create_shop_hint|||You earn coins for surviving. During the game you can buy the three items for the selected mode. Prices scale with the round duration.|||Fürs Überleben gibt es Münzen. Im Spiel kaufst du die drei Artikel des gewählten Modus. Die Preise passen sich der Rundendauer an.|||Ganas monedas por sobrevivir. Durante la partida puedes comprar los tres artículos del modo elegido. Los precios se ajustan a la duración de la ronda.|||Tu gagnes des pièces en survivant. Pendant la partie, tu peux acheter les trois articles du mode choisi. Les prix s'adaptent à la durée de la manche.
+create_shop_desc|||Enable shop|||Shop aktivieren|||Activar tienda|||Activer la boutique
+section_zone_rule|||ZONE RULE|||ZONEN-REGEL|||REGLA DE ZONA|||RÈGLE DE ZONE
+create_grace|||Grace outside|||Kulanz außerhalb|||Margen fuera|||Tolérance hors zone
+create_grace_hint|||How long you may stay outside the zone before you are automatically eliminated.|||So lange darfst du dich außerhalb der Zone aufhalten, bevor du automatisch ausscheidest.|||Cuánto tiempo puedes estar fuera de la zona antes de quedar eliminado automáticamente.|||Combien de temps tu peux rester hors de la zone avant d’être éliminé automatiquement.
+create_start_note|||The starting point is set from your GPS location when the round is released. The zone cannot move – it only shrinks.|||Der Startpunkt wird beim Loslassen der Runde aus deinem GPS-Standort gesetzt. Die Zone kann sich nicht verschieben – nur schrumpfen.|||El punto de inicio se toma de tu ubicación GPS al lanzar la ronda. La zona no se mueve: solo se reduce.|||Le point de départ est défini à partir de ta position GPS au lancement de la manche. La zone ne bouge pas : elle rétrécit seulement.
+create_lobby_button|||Create lobby|||Lobby erstellen|||Crear lobby|||Créer le salon
+create_footnote|||You will then receive a 4-digit join code.|||Du erhältst danach einen 4-stelligen Beitrittscode.|||Después recibirás un código de acceso de 4 dígitos.|||Tu recevras ensuite un code d’accès à 4 chiffres.
+overlay_opening_lobby|||OPENING LOBBY|||LOBBY WIRD GEÖFFNET|||ABRIENDO LOBBY|||OUVERTURE DU SALON
+connecting|||Connecting …|||Verbindung wird aufgebaut …|||Conectando…|||Connexion…
+create_edit_title|||LOBBY SETTINGS|||LOBBY EINSTELLUNGEN|||AJUSTES DEL LOBBY|||RÉGLAGES DU SALON
+create_edit_headline|||ADJUST\nTHE RULES.|||REGELN\nANPASSEN.|||AJUSTA\nLAS REGLAS.|||MODIFIER\nLES RÈGLES.
+create_edit_sub|||Changes apply immediately to all players in the lobby. The join code stays the same.|||Änderungen gelten sofort für alle Spieler in der Lobby. Der Beitrittscode bleibt gleich.|||Los cambios se aplican de inmediato a todos los jugadores del lobby. El código de acceso no cambia.|||Les changements s’appliquent immédiatement à tous les joueurs du salon. Le code d’accès reste le même.
+create_save_settings|||Save settings|||Einstellungen speichern|||Guardar ajustes|||Enregistrer les réglages
+create_edit_footnote|||Changes apply immediately to all players. The join code stays the same.|||Die Änderungen gelten sofort für alle Spieler. Der Beitrittscode bleibt gleich.|||Los cambios se aplican de inmediato a todos los jugadores. El código de acceso no cambia.|||Les changements s’appliquent immédiatement à tous les joueurs. Le code d’accès reste le même.
+create_lobby_inactive|||The lobby is no longer active.|||Die Lobby ist nicht mehr aktiv.|||El lobby ya no está activo.|||Le salon n’est plus actif.
+create_settings_updated|||Settings updated.|||Einstellungen aktualisiert.|||Ajustes actualizados.|||Réglages mis à jour.
+create_connect_timeout|||The game server is not responding. Check your internet connection and try again.|||Der Spielserver antwortet nicht. Prüfe deine Internetverbindung und versuche es erneut.|||El servidor de juego no responde. Comprueba tu conexión a internet e inténtalo de nuevo.|||Le serveur de jeu ne répond pas. Vérifie ta connexion internet et réessaie.
+create_lobby_ready|||Lobby is ready!|||Lobby ist bereit!|||¡El lobby está listo!|||Le salon est prêt !
+create_preparing|||Preparing lobby …|||Lobby wird vorbereitet …|||Preparando lobby…|||Préparation du salon…
+create_connection_failed_title|||Connection failed|||Verbindung fehlgeschlagen|||Error de conexión|||Connexion échouée
+create_cancel_connection_title|||Cancel connection?|||Verbindung abbrechen?|||¿Cancelar conexión?|||Annuler la connexion ?
+create_cancel_connection_message|||The lobby has not been created yet.|||Die Lobby wurde noch nicht erstellt.|||El lobby aún no se ha creado.|||Le salon n’a pas encore été créé.
+join_kicker|||ONE OF MANY|||EINER VON VIELEN|||UNO DE MUCHOS|||UN PARMI TANT D’AUTRES
+join_title|||JOIN THE HUNT|||JAGD BEITRETEN|||ÚNETE A LA CACERÍA|||REJOINDRE LA CHASSE
+join_sub|||Enter the 4-digit lobby code.|||Gib den 4-stelligen Code der Lobby ein.|||Introduce el código de 4 dígitos del lobby.|||Saisis le code à 4 chiffres du salon.
+join_code_label|||JOIN CODE|||BEITRITTSCODE|||CÓDIGO DE ACCESO|||CODE D’ACCÈS
+player_name_hint|||Your player name|||Dein Spielername|||Tu nombre de jugador|||Ton nom de joueur
+join_button|||Join|||Beitreten|||Unirse|||Rejoindre
+join_progress|||Connecting to lobby …|||Verbinde mit der Lobby …|||Conectando al lobby…|||Connexion au salon…
+join_footnote|||Every phone plays. Location, map and ping run directly on your device.|||Jedes Handy spielt mit. Standort, Karte und Ping laufen direkt auf deinem Gerät.|||Cada móvil juega. La ubicación, el mapa y el ping funcionan directamente en tu dispositivo.|||Chaque téléphone joue. La position, la carte et le ping fonctionnent directement sur ton appareil.
+join_need_code|||Please enter the 4-digit join code.|||Bitte den 4-stelligen Beitrittscode eingeben.|||Introduce el código de acceso de 4 dígitos.|||Saisis le code d’accès à 4 chiffres.
+join_name_too_short|||At least 2 characters.|||Mindestens 2 Zeichen.|||Al menos 2 caracteres.|||Au moins 2 caractères.
+join_searching|||Searching lobby %1$s|||Suche Lobby %1$s|||Buscando lobby %1$s|||Recherche du salon %1$s
+join_connecting_server|||Connecting to game server …|||Verbinde mit dem Spielserver …|||Conectando al servidor de juego…|||Connexion au serveur de jeu…
+join_code_not_found|||No lobby found with this code. Check the code and try again.|||Keine Lobby mit diesem Code gefunden. Prüfe den Code und versuche es erneut.|||No se encontró ningún lobby con este código. Compruébalo e inténtalo de nuevo.|||Aucun salon trouvé avec ce code. Vérifie-le et réessaie.
+join_joined|||You are in!|||Du bist drin!|||¡Estás dentro!|||Tu es dedans !
+join_searching_lobby|||Searching lobby …|||Lobby wird gesucht …|||Buscando lobby…|||Recherche du salon…
+join_connected_searching|||Connected. Searching lobby …|||Verbunden. Suche Lobby …|||Conectado. Buscando lobby…|||Connecté. Recherche du salon…
+join_not_possible_title|||Cannot join|||Beitritt nicht möglich|||No se puede unir|||Impossible de rejoindre
+lobby_title|||LOBBY|||LOBBY|||LOBBY|||SALON
+lobby_sub|||Wait for the hunt.|||Warte auf die Jagd.|||Espera la cacería.|||Attends la chasse.
+lobby_share_code|||Share this code with your group.|||Diesen Code an deine Gruppe teilen.|||Comparte este código con tu grupo.|||Partage ce code avec ton groupe.
+lobby_waiting_players|||Waiting for players …|||Warte auf Mitspieler …|||Esperando jugadores…|||En attente de joueurs…
+section_players|||PLAYERS|||SPIELER|||JUGADORES|||JOUEURS
+section_your_call|||YOUR CALL|||DEINE REGIE|||TU DECISIÓN|||TON CHOIX
+lobby_who_seeks|||Who seeks? · Multiple choice|||Wer sucht? · Mehrfachauswahl|||¿Quién busca? · Selección múltiple|||Qui cherche ? · Choix multiple
+lobby_not_rolled|||Not drawn yet|||Noch nicht gewürfelt|||Aún sin sortear|||Pas encore tiré au sort
+lobby_select_seeker|||SELECT SEEKER · tap a name|||SUCHER AUSWÄHLEN · tippe auf Namen|||ELEGIR BUSCADOR · toca un nombre|||CHOISIR UN CHERCHEUR · touche un nom
+lobby_reroll|||Reroll|||Neu würfeln|||Volver a sortear|||Relancer
+lobby_seeker_tip|||Tip: Multiple seekers are possible – at least one hider stays. The host sets the hide duration.|||Tipp: Mehrere Sucher möglich – mindestens ein Verstecker bleibt übrig. Die Versteckdauer legt der Host fest.|||Consejo: puede haber varios buscadores, pero al menos un escondido se queda. El anfitrión fija la duración para esconderse.|||Astuce : plusieurs chercheurs possibles, mais au moins un cacheur reste. L’hôte fixe la durée de cache.
+section_realtime_settings|||REALTIME SETTINGS|||ECHTZEIT-EINSTELLUNGEN|||AJUSTES EN TIEMPO REAL|||RÉGLAGES EN TEMPS RÉEL
+lobby_edit_settings|||Change settings|||Einstellungen ändern|||Cambiar ajustes|||Modifier les réglages
+lobby_start|||Start hunt|||Jagd starten|||Iniciar cacería|||Lancer la chasse
+lobby_start_hint|||At least 2 players · GPS required at start|||Mindestens 2 Spieler · GPS wird beim Start benötigt|||Mínimo 2 jugadores · GPS necesario al iniciar|||Au moins 2 joueurs · GPS requis au départ
+lobby_host_starts_soon|||THE HOST WILL START SOON|||DER HOST STARTET BALD|||EL ANFITRIÓN EMPEZARÁ PRONTO|||L’HÔTE VA BIENTÔT LANCER
+lobby_guest_hint|||Stay in the lobby. As soon as it starts, the map opens. You then get a head start to hide.|||Bleib in der Lobby. Sobald es losgeht, öffnet sich die Karte. Danach hast du Vorsprung zum Verstecken.|||Quédate en el lobby. En cuanto empiece, se abre el mapa. Luego tendrás ventaja para esconderte.|||Reste dans le salon. Dès que ça commence, la carte s’ouvre. Tu as ensuite de l’avance pour te cacher.
+lobby_info|||The seeker gets no ping advantage: all positions become visible at the same time. Hiders have a head start. Chat: everyone or just your team. Catch codes stay on the hiders’ phones.|||Der Sucher bekommt keinen Ping-Vorteil: Alle Positionen werden gleichzeitig sichtbar. Verstecker haben Vorsprung. Chat: Alle oder nur das eigene Team. Fangcodes bleiben auf dem Handy der Verstecker.|||El buscador no tiene ventaja en el ping: todas las posiciones se ven a la vez. Los escondidos tienen ventaja. Chat: todos o solo tu equipo. Los códigos de captura se quedan en el móvil de los escondidos.|||Le chercheur n’a aucun avantage au ping : toutes les positions deviennent visibles en même temps. Les cacheurs ont de l’avance. Chat : tout le monde ou seulement ton équipe. Les codes de capture restent sur le téléphone des cacheurs.
+lobby_status_wait_host|||Waiting for the host …|||Warte auf den Host …|||Esperando al anfitrión…|||En attente de l’hôte…
+lobby_status_ready_start|||Everyone ready. You can start.|||Alle bereit. Du kannst starten.|||Todos listos. Puedes empezar.|||Tout le monde est prêt. Tu peux lancer.
+lobby_status_wait_start|||Waiting for the host to start …|||Warte auf den Start durch den Host …|||Esperando a que el anfitrión inicie…|||En attente du lancement par l’hôte…
+lobby_guest_badge|||GUEST|||GAST|||INVITADO|||INVITÉ
+lobby_you_ready|||You · ready|||Du · bereit|||Tú · listo|||Toi · prêt
+lobby_ready|||Ready|||Bereit|||Listo|||Prêt
+lobby_you_suffix||| (You)||| (Du)||| (Tú)||| (Toi)
+lobby_selected_prefix|||Selected: |||Ausgewählt: |||Seleccionados: |||Sélection : 
+lobby_no_selection|||Nobody selected yet.|||Noch niemand ausgewählt.|||Nadie seleccionado todavía.|||Personne de sélectionné pour l’instant.
+lobby_multi_hint|||Multiple seekers possible, at least one hider stays.|||Mehrere Sucher möglich, mindestens ein Verstecker bleibt übrig.|||Puede haber varios buscadores; al menos un escondido se queda.|||Plusieurs chercheurs possibles, au moins un cacheur reste.
+lobby_pick_seeker|||Select at least one seeker.|||Wähle mindestens einen Sucher.|||Elige al menos un buscador.|||Choisis au moins un chercheur.
+lobby_keep_hider|||At least one hider must remain.|||Mindestens ein Verstecker muss übrig bleiben.|||Debe quedar al menos un escondido.|||Au moins un cacheur doit rester.
+lobby_zone_prefix|||Zone |||Zone |||Zona |||Zone 
+lobby_zone_static|||Zone static|||Zone statisch|||Zona fija|||Zone fixe
+lobby_round_suffix||| min round||| min Runde||| min de ronda||| min de manche
+lobby_ping_every|||Ping every |||Ping alle |||Ping cada |||Ping toutes les 
+lobby_grace_suffix||| s grace||| s Kulanz||| s de margen||| s de tolérance
+lobby_hide_suffix||| s hiding||| s Verstecken||| s para esconderse||| s de cache
+lobby_team_live|||Team live|||Team live|||Equipo en vivo|||Équipe en direct
+lobby_shop_active|||Shop active|||Shop aktiv|||Tienda activa|||Boutique active
+lobby_need_two|||At least 2 players required · Share the join code|||Mindestens 2 Spieler nötig · Beitrittscode teilen|||Se necesitan al menos 2 jugadores · Comparte el código|||Au moins 2 joueurs requis · Partage le code d’accès
+lobby_gps_searching|||Searching for GPS signal · go outside briefly|||GPS-Signal wird gesucht · geh kurz nach draußen|||Buscando señal GPS · sal un momento al exterior|||Recherche du signal GPS · sors un instant
+lobby_ready_hide|||Ready · %1$d s hide time, then the hunt begins.|||Bereit · %1$d s Versteckzeit, dann beginnt die Jagd.|||Listo · %1$d s para esconderse y empieza la cacería.|||Prêt · %1$d s de cache, puis la chasse commence.
+lobby_code_share|||Zone Hunt code|||Zone Hunt-Code|||Código de Zone Hunt|||Code Zone Hunt
+lobby_code_copied|||Code %1$s copied|||Code %1$s kopiert|||Código %1$s copiado|||Code %1$s copié
+lobby_dialog_who_seeks|||Who seeks?|||Wer sucht?|||¿Quién busca?|||Qui cherche ?
+lobby_dialog_multi|||Multiple choice possible. At least one hider must remain.|||Mehrfachauswahl möglich. Mindestens ein Verstecker muss übrig bleiben.|||Se puede elegir varios. Debe quedar al menos un escondido.|||Choix multiple possible. Au moins un cacheur doit rester.
+lobby_dialog_apply|||Apply|||Übernehmen|||Aplicar|||Valider
+lobby_dialog_pick_or_random|||Select at least one seeker or roll randomly.|||Wähle mindestens einen Sucher oder würfle zufällig.|||Elige al menos un buscador o sortea al azar.|||Choisis au moins un chercheur ou tire au sort.
+lobby_gps_wait|||Wait briefly for the GPS signal.|||Warte kurz auf das GPS-Signal.|||Espera un momento la señal GPS.|||Attends un instant le signal GPS.
+lobby_starting|||Hunt starting …|||Jagd startet …|||La cacería empieza…|||La chasse commence…
+lobby_close_title|||Close lobby?|||Lobby schließen?|||¿Cerrar lobby?|||Fermer le salon ?
+lobby_leave_title|||Leave lobby?|||Lobby verlassen?|||¿Salir del lobby?|||Quitter le salon ?
+lobby_close_message|||All players will be removed from the lobby.|||Alle Mitspieler werden aus der Lobby geworfen.|||Todos los jugadores serán expulsados del lobby.|||Tous les joueurs seront retirés du salon.
+lobby_leave_message|||You can rejoin later with the code while the lobby is open.|||Du kannst später mit dem Code wieder beitreten, solange die Lobby offen ist.|||Puedes volver a entrar con el código mientras el lobby siga abierto.|||Tu peux revenir avec le code tant que le salon est ouvert.
+lobby_closed_title|||Lobby closed|||Lobby geschlossen|||Lobby cerrado|||Salon fermé
+lobby_closed_message|||The host ended the game or left the lobby.|||Der Host hat das Spiel beendet oder die Lobby verlassen.|||El anfitrión terminó la partida o salió del lobby.|||L’hôte a terminé la partie ou quitté le salon.
+lobby_random_prefix|||Random: |||Zufall: |||Aleatorio: |||Aléatoire : 
+lobby_seeker_prefix||| Seekers: ||| Sucher: ||| Buscadores: ||| Chercheurs : 

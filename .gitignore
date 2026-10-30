@@ -1,0 +1,14 @@
+.gradle/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
+*.apk
+app/release/
+signing/
+*.jks
+*.keystore
+key.properties
+.tools/
+ZoneHunt-1.3.8/

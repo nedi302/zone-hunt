@@ -1,0 +1,221 @@
+game_role_seeker|||SEEKER|||SUCHER|||BUSCADOR|||CHERCHEUR
+game_role_hider|||HIDER|||VERSTECKER|||ESCONDIDO|||CACHEUR
+game_live|||LIVE|||LIVE|||EN VIVO|||EN DIRECT
+game_offline|||OFFLINE|||OFFLINE|||SIN CONEXIÓN|||HORS LIGNE
+game_zone_label|||ZONE|||ZONE|||ZONA|||ZONE
+game_next_ping_label|||NEXT PING|||NÄCHSTER PING|||PRÓXIMO PING|||PROCHAIN PING
+game_until_next_ping|||until next ping|||bis zum nächsten Ping|||hasta el próximo ping|||jusqu’au prochain ping
+game_in_game|||IN GAME|||IM SPIEL|||EN JUEGO|||EN JEU
+game_zone_now|||NOW · %1$s|||JETZT · %1$s|||AHORA · %1$s|||MAINTENANT · %1$s
+game_zone_next|||NEXT · %1$s · %2$s|||NÄCHSTE · %1$s · %2$s|||SIGUIENTE · %1$s · %2$s|||SUIVANTE · %1$s · %2$s
+game_ping_banner|||PING! Positions are frozen.|||PING! Positionen sind eingefroren.|||¡PING! Posiciones congeladas.|||PING ! Les positions sont figées.
+game_hide_phase|||HIDE PHASE|||VERSTECKPHASE|||FASE DE ESCONDITE|||PHASE DE CACHE
+game_hide_phase_sub|||Seekers wait until everyone is hidden.|||Die Sucher warten, bis alle versteckt sind.|||Los buscadores esperan a que todos se escondan.|||Les chercheurs attendent que tout le monde soit caché.
+game_outside_zone|||You are outside the zone!|||Du bist außerhalb der Zone!|||¡Estás fuera de la zona!|||Tu es hors de la zone !
+game_reconnecting|||Reconnecting …|||Verbindung wird wiederhergestellt …|||Reconectando…|||Reconnexion…
+game_found_someone|||FOUND SOMEONE?|||DU HAST JEMANDEN GEFUNDEN?|||¿HAS ENCONTRADO A ALGUIEN?|||QUELQU’UN TROUVÉ ?
+game_enter_catch|||Enter the catch code from the hider’s phone.|||Gib den Fangcode vom Handy des Versteckers ein.|||Introduce el código de captura del móvil del escondido.|||Saisis le code de capture affiché sur le téléphone du cacheur.
+game_catch|||Catch|||Fangen|||Capturar|||Capturer
+game_your_catch_code|||YOUR CATCH CODE|||DEIN FANGCODE|||TU CÓDIGO DE CAPTURA|||TON CODE DE CAPTURE
+game_show|||Show|||Zeigen|||Mostrar|||Afficher
+game_code_hint|||Only show this if you have been found.|||Nur zeigen, wenn du gefunden wurdest.|||Muéstralo solo si te han encontrado.|||Ne l’affiche que si tu as été trouvé.
+game_out_title|||YOU ARE OUT|||DU BIST RAUS|||ESTÁS FUERA|||TU ES ÉLIMINÉ
+game_out_zone|||Eliminated outside the zone.|||Außerhalb der Zone ausgeschieden.|||Eliminado fuera de la zona.|||Éliminé hors de la zone.
+game_watch|||Watch|||Zuschauen|||Observar|||Regarder
+game_coins|||COINS|||MÜNZEN|||MONEDAS|||PIÈCES
+game_shop|||Shop|||Shop|||Tienda|||Boutique
+game_shop_status|||1 coin per 5 s survival · Prices scale with round time|||1 Münze pro 5 s Überleben · Preise passen zur Rundenzeit|||1 moneda por 5 s de supervivencia · Precios según la ronda|||1 pièce par 5 s de survie · Prix selon la manche
+game_overview|||Overview|||Übersicht|||Vista general|||Aperçu
+game_map|||Map|||Karte|||Mapa|||Carte
+game_countdown_ready|||READY?|||BEREIT?|||¿LISTO?|||PRÊT ?
+game_countdown_sub|||The hunt begins|||Die Jagd beginnt|||La cacería empieza|||La chasse commence
+game_intro_role|||YOUR ROLE|||DEINE ROLLE|||TU ROL|||TON RÔLE
+game_intro_seeker_title|||YOU ARE THE SEEKER|||DU BIST SUCHER|||ERES EL BUSCADOR|||TU ES LE CHERCHEUR
+game_intro_seeker_text|||Wait for the first ping. After that, all players’ positions stay frozen and visible until the next ping.|||Warte auf den ersten Ping. Danach bleiben die Positionen aller Spieler bis zum nächsten Ping eingefroren sichtbar.|||Espera el primer ping. Después, las posiciones de todos los jugadores quedan congeladas y visibles hasta el próximo ping.|||Attends le premier ping. Ensuite, les positions de tous les joueurs restent figées et visibles jusqu’au ping suivant.
+game_intro_got_it|||Got it, let’s go!|||Verstanden, los!|||¡Entendido, vamos!|||Compris, on y va !
+game_end_badge|||ROUND OVER|||RUNDE BEENDET|||RONDA TERMINADA|||MANCHE TERMINÉE
+game_end_seeker|||SEEKER WINS|||SUCHER GEWINNT|||GANA EL BUSCADOR|||LE CHERCHEUR GAGNE
+game_end_reason|||All hiders have been eliminated.|||Alle Verstecker sind ausgeschieden.|||Todos los escondidos han sido eliminados.|||Tous les cacheurs ont été éliminés.
+stat_duration|||Duration|||Dauer|||Duración|||Durée
+stat_left|||left|||übrig|||restantes|||restants
+stat_pings|||Pings|||Pings|||Pings|||Pings
+stat_distance|||Distance|||Strecke|||Distancia|||Distance
+stat_calories|||Calories|||Kalorien|||Calorías|||Calories
+game_end_replay|||Watch replay|||Replay ansehen|||Ver repetición|||Voir le replay
+game_end_back|||Back to start|||Zurück zum Start|||Volver al inicio|||Retour au départ
+game_you_marker|||YOU|||DU|||TÚ|||TOI
+game_you_marker_desc|||That’s you|||Das bist du|||Eres tú|||C’est toi
+game_live_suffix||| · Live position||| · Live-Position||| · Posición en vivo||| · Position en direct
+game_ping_suffix||| · Position from last ping||| · Position vom letzten Ping||| · Posición del último ping||| · Position du dernier ping
+game_hider_ping_suffix||| · Hider · Position from last ping||| · Verstecker · Position vom letzten Ping||| · Escondido · Posición del último ping||| · Cacheur · Position du dernier ping
+game_countdown_here|||Here we go|||Gleich geht es los|||Aquí vamos|||C’est parti
+game_countdown_eyes|||Eyes and ears open|||Augen auf, Ohren auf|||Ojos y oídos abiertos|||Ouvre l’œil et l’oreille
+game_countdown_go|||GO!|||LOS!|||¡YA!|||GO !
+game_countdown_hunt_on|||HUNT ON|||JAGD FREI|||CACERÍA LIBRE|||CHASSE OUVERTE
+game_countdown_good_luck|||Good luck!|||Viel Erfolg!|||¡Buena suerte!|||Bonne chance !
+game_intro_role_seeker|||YOUR ROLE · SEEKER|||DEINE ROLLE · SUCHER|||TU ROL · BUSCADOR|||TON RÔLE · CHERCHEUR
+game_intro_role_hider|||YOUR ROLE · HIDER|||DEINE ROLLE · VERSTECKER|||TU ROL · ESCONDIDO|||TON RÔLE · CACHEUR
+game_intro_title_seeker|||FIND.\nCATCH.|||FINDEN.\nFANGEN.|||ENCUENTRA.\nCAPTURA.|||TROUVER.\nCAPTURER.
+game_intro_title_hider|||GONE.\nHIDDEN.|||WEG.\nVERSTECKT.|||FUERA.\nESCONDIDO.|||PARTI.\nCACHÉ.
+game_intro_text_seeker|||The hiders have a %1$d second head start. On every ping you see all positions – they stay frozen on the map until the next ping. Tap Catch when you have found a hider.|||Die Verstecker haben %1$d Sekunden Vorsprung. Bei jedem Ping siehst du alle Positionen – sie bleiben bis zum nächsten Ping eingefroren auf der Karte. Tippe auf „Fangen“, wenn du einen Verstecker gefunden hast.|||Los escondidos tienen %1$d segundos de ventaja. En cada ping ves todas las posiciones y quedan congeladas en el mapa hasta el siguiente. Toca Capturar cuando encuentres a un escondido.|||Les cacheurs ont %1$d secondes d’avance. À chaque ping, tu vois toutes les positions, figées sur la carte jusqu’au ping suivant. Touche Capturer quand tu as trouvé un cacheur.
+game_intro_text_hider|||You have %1$d seconds to hide. Then the hunt begins. On every ping all positions are shown and stay frozen until the next ping. Stay in the zone – it shrinks and moves!|||Du hast %1$d Sekunden Zeit, dich zu verstecken. Danach beginnt die Jagd. Bei jedem Ping werden alle Positionen gezeigt und bleiben bis zum nächsten Ping eingefroren. Bleib in der Zone – sie wird kleiner und wandert!|||Tienes %1$d segundos para esconderte. Después empieza la cacería. En cada ping se muestran todas las posiciones y quedan congeladas hasta el siguiente. ¡Quédate en la zona, que se reduce y se mueve!|||Tu as %1$d secondes pour te cacher. Ensuite la chasse commence. À chaque ping, toutes les positions sont affichées et restent figées jusqu’au suivant. Reste dans la zone : elle rétrécit et se déplace !
+game_intro_shop_suffix|||\n\nShop: You earn coins for surviving (1 per 5 s) and can buy decoys, camouflage or radar.|||\n\nShop: Fürs Überleben sammelst du Münzen (1 pro 5 s) und kaufst damit Köder, Tarnung oder Radar.|||\n\nTienda: ganas monedas por sobrevivir (1 cada 5 s) y puedes comprar señuelos, camuflaje o radar.|||\n\nBoutique : tu gagnes des pièces en survivant (1 par 5 s) et peux acheter des leurres, un camouflage ou un radar.
+game_time|||TIME|||ZEIT|||TIEMPO|||TEMPS
+game_static|||static|||statisch|||fija|||fixe
+game_endzone_reached|||End zone reached|||Endzone erreicht|||Zona final alcanzada|||Zone finale atteinte
+game_next_label|||NEXT|||NÄCHSTE|||SIGUIENTE|||SUIVANTE
+game_endzone_label|||END ZONE|||ENDZONE|||ZONA FINAL|||ZONE FINALE
+game_stays||| · stays||| · bleibt||| · se queda||| · reste
+game_zone_endzone|||END ZONE · %1$s|||ENDZONE · %1$s|||ZONA FINAL · %1$s|||ZONE FINALE · %1$s
+game_zone_next_prefix|||NEXT · %1$s|||NÄCHSTE · %1$s|||SIGUIENTE · %1$s|||SUIVANTE · %1$s
+game_zone_now_prefix|||NOW · %1$s|||JETZT · %1$s|||AHORA · %1$s|||MAINTENANT · %1$s
+game_wait_start|||Wait %1$d s, then the hunt starts.|||Warte noch %1$d s, dann startet die Jagd.|||Espera %1$d s y empieza la cacería.|||Attends encore %1$d s, puis la chasse commence.
+game_wait_hide|||You still have %1$d s to hide.|||Du hast noch %1$d s zum Verstecken.|||Aún tienes %1$d s para esconderte.|||Tu as encore %1$d s pour te cacher.
+game_hider_count_prefix|||%1$d of %2$d|||%1$d von %2$d|||%1$d de %2$d|||%1$d sur %2$d
+game_round_over|||ROUND OVER|||RUNDE VORBEI|||RONDA TERMINADA|||MANCHE TERMINÉE
+game_map_stays|||Map stays visible|||Karte bleibt sichtbar|||El mapa sigue visible|||La carte reste visible
+game_pings_after|||Pings only after that|||Pings erst danach|||Los pings empiezan después|||Les pings seulement après
+game_ping|||PING!|||PING!|||¡PING!|||PING !
+game_positions_frozen|||Positions frozen|||Positionen eingefroren|||Posiciones congeladas|||Positions figées
+game_visible_until_next|||then visible until next ping|||dann bis zum nächsten Ping sichtbar|||luego visibles hasta el próximo ping|||puis visibles jusqu’au ping suivant
+game_back_in_zone|||Back in the zone! %1$d s left|||Zurück in die Zone! Noch %1$d s|||¡De vuelta en la zona! Quedan %1$d s|||De retour dans la zone ! %1$d s restantes
+game_eliminating|||You are outside too long – eliminating …|||Du bist zu lange außerhalb – ausscheiden …|||Estás demasiado tiempo fuera: eliminando…|||Tu restes trop longtemps dehors : élimination…
+game_gps_no_access|||No location access · Open settings|||Kein Standortzugriff · Einstellungen öffnen|||Sin acceso a la ubicación · Abrir ajustes|||Pas d’accès à la localisation · Ouvrir les réglages
+game_gps_searching|||Searching for GPS signal · go outside|||GPS-Signal wird gesucht · geh nach draußen|||Buscando señal GPS · sal al exterior|||Recherche du signal GPS · sors dehors
+game_out_short|||out|||raus|||fuera|||éliminé
+game_no_ping|||no ping|||kein Ping|||sin ping|||pas de ping
+game_hider_suffix||| · Hider||| · Verstecker||| · Escondido||| · Cacheur
+game_ping_banner_long|||PING! Positions frozen until the next ping.|||PING! Positionen eingefroren bis zum nächsten Ping.|||¡PING! Posiciones congeladas hasta el próximo ping.|||PING ! Positions figées jusqu’au prochain ping.
+game_catch_code_preparing|||Your catch code is being prepared.|||Dein Fangcode wird noch vorbereitet.|||Tu código de captura se está preparando.|||Ton code de capture est en préparation.
+game_code_visible_30|||visible for 30 s · hidden automatically afterwards.|||30 s sichtbar · danach automatisch verborgen.|||visible 30 s · después se oculta solo.|||visible 30 s · masqué automatiquement ensuite.
+game_show_code|||Show|||Zeigen|||Mostrar|||Afficher
+game_decoy_place_hint|||Place decoy: tap the map · tap here to cancel|||Köder platzieren: Tippe auf die Karte · hier antippen zum Abbrechen|||Colocar señuelo: toca el mapa · toca aquí para cancelar|||Placer le leurre : touche la carte · touche ici pour annuler
+game_shop_opens|||The shop opens when the hunt begins.|||Der Shop öffnet, sobald die Jagd beginnt.|||La tienda se abre cuando empieza la cacería.|||La boutique ouvre au début de la chasse.
+game_radar_prefix|||Radar |||Radar |||Radar |||Radar 
+game_camo_prefix|||Camouflage |||Tarnung |||Camuflaje |||Camouflage 
+game_decoy_prefix|||Decoy |||Köder |||Señuelo |||Leurre 
+game_shop_active_suffix||| active||| aktiv||| activo||| actif
+game_out_no_buy|||Eliminated players cannot buy anything.|||Ausgeschiedene Spieler können nichts mehr kaufen.|||Los jugadores eliminados no pueden comprar.|||Les joueurs éliminés ne peuvent plus rien acheter.
+game_decoy_hiders_only|||The fake marker is only available to hiders.|||Die falsche Markierung gibt es nur für Verstecker.|||El marcador falso solo está disponible para escondidos.|||Le faux marqueur est réservé aux cacheurs.
+game_too_few_coins|||Not enough coins. You need %1$d, have %2$d.|||Zu wenig Münzen. Du brauchst %1$d, hast %2$d.|||No tienes suficientes monedas. Necesitas %1$d y tienes %2$d.|||Pas assez de pièces. Il te faut %1$d, tu en as %2$d.
+game_gps_missing|||GPS signal missing. Wait a moment and try again.|||GPS-Signal fehlt. Warte kurz und versuche es erneut.|||Falta la señal GPS. Espera un momento e inténtalo de nuevo.|||Signal GPS absent. Attends un instant et réessaie.
+game_decoy_tap|||Tap the map to place the fake marker.|||Tippe auf die Karte, um die falsche Markierung zu platzieren.|||Toca el mapa para colocar el marcador falso.|||Touche la carte pour placer le faux marqueur.
+game_placement_cancelled|||Placement cancelled.|||Platzierung abgebrochen.|||Colocación cancelada.|||Placement annulé.
+out_reason_zone|||You were outside the zone for too long.|||Du warst zu lange außerhalb der Zone.|||Has estado demasiado tiempo fuera de la zona.|||Tu es resté trop longtemps hors de la zone.
+out_reason_caught|||The seeker entered your catch code.|||Der Sucher hat deinen Fangcode eingegeben.|||El buscador introdujo tu código de captura.|||Le chercheur a saisi ton code de capture.
+out_reason_left|||You left the game.|||Du hast das Spiel verlassen.|||Has salido de la partida.|||Tu as quitté la partie.
+out_reason_default|||You have been eliminated.|||Du bist ausgeschieden.|||Has sido eliminado.|||Tu as été éliminé.
+out_watch_suffix||| You can keep watching the map.||| Du kannst die Karte weiter beobachten.||| Puedes seguir observando el mapa.||| Tu peux continuer à regarder la carte.
+game_hide_time_left|||The hide time is still running. The hunt begins in %1$d s.|||Die Versteckzeit läuft noch. Die Jagd beginnt in %1$d s.|||El tiempo para esconderse sigue activo. La cacería empieza en %1$d s.|||Le temps de cache est encore en cours. La chasse commence dans %1$d s.
+game_no_hiders_left|||No hiders left in the game.|||Keine Verstecker mehr im Spiel.|||No quedan escondidos en la partida.|||Plus aucun cacheur en jeu.
+game_no_ping_yet|||no ping yet|||noch kein Ping|||aún sin ping|||pas encore de ping
+game_who_found|||Who did you find?|||Wen hast du gefunden?|||¿A quién has encontrado?|||Qui as-tu trouvé ?
+game_shows_code|||%1$s shows you the code on their phone.|||%1$s zeigt dir den Code auf dem Handy.|||%1$s te muestra el código en su móvil.|||%1$s te montre le code sur son téléphone.
+game_enter_catch_code|||Enter catch code|||Fangcode eingeben|||Introducir código de captura|||Saisir le code de capture
+game_player_overview|||Player overview|||Spielerübersicht|||Vista de jugadores|||Vue des joueurs
+game_help_rules|||Help & rules|||Hilfe & Regeln|||Ayuda y reglas|||Aide et règles
+game_end_round|||End round|||Runde beenden|||Terminar ronda|||Terminer la manche
+game_leave_game|||Leave game|||Spiel verlassen|||Salir de la partida|||Quitter la partie
+game_help_body|||• The map always shows your location.\n• Hiders have %1$d seconds at the start to hide. Only then does the hunt begin.\n• On every ping, all players’ positions are frozen on the map. They stay visible at exactly that spot until the next ping. Markers show the first two letters of the name.\n• If Team live is enabled in the lobby, you see your own team’s positions in real time. Caught players disappear immediately.\n• The zone shrinks over time. The current zone is green (red when you are outside), the next one is dashed orange.\n• Anyone outside the current zone for too long is eliminated.\n• Each seeker catches a hider by entering their 4-digit catch code.\n• There can be multiple seekers. When all seekers or all hiders are out, the round ends.\n• Chat: messages to everyone or only to your team (all hiders or all seekers).\n• The player overview shows caught and remaining players.|||• Die Karte zeigt jederzeit deinen Standort.\n• Verstecker haben am Anfang %1$d Sekunden Zeit, sich zu verstecken. Erst danach beginnt die Jagd.\n• Bei jedem Ping werden die Positionen aller Spieler auf der Karte eingefroren. Sie bleiben bis zum nächsten Ping an genau dieser Stelle sichtbar. Die Marker zeigen die ersten beiden Buchstaben des Namens.\n• Ist in der Lobby „Team live“ aktiv, siehst du die Positionen deines eigenen Teams in Echtzeit. Gefundene Spieler verschwinden sofort.\n• Die Zone schrumpft mit der Zeit. Die aktuelle Zone ist grün (rot, wenn du draußen bist), die nächste orange gestrichelt.\n• Wer zu lange außerhalb der aktuellen Zone ist, scheidet aus.\n• Jeder Sucher fängt einen Verstecker, indem er dessen 4-stelligen Fangcode eingibt.\n• Es kann mehrere Sucher geben. Sind alle Sucher oder alle Verstecker raus, endet die Runde.\n• Chat: Nachrichten an alle oder nur an das eigene Team (alle Verstecker bzw. alle Sucher).\n• Unter „Spielerübersicht“ siehst du Gefundene und verbleibende Spieler.|||• El mapa muestra tu ubicación en todo momento.\n• Al principio, los escondidos tienen %1$d segundos para esconderse. Solo entonces empieza la cacería.\n• En cada ping, las posiciones de todos los jugadores se congelan en el mapa y siguen visibles en ese punto hasta el próximo ping. Los marcadores muestran las dos primeras letras del nombre.\n• Si «Equipo en vivo» está activo en el lobby, ves las posiciones de tu equipo en tiempo real. Los jugadores capturados desaparecen al instante.\n• La zona se reduce con el tiempo. La zona actual es verde (roja si estás fuera) y la siguiente es naranja discontinua.\n• Quien esté demasiado tiempo fuera de la zona actual queda eliminado.\n• Cada buscador captura a un escondido introduciendo su código de captura de 4 dígitos.\n• Puede haber varios buscadores. Cuando no quedan buscadores o escondidos, termina la ronda.\n• Chat: mensajes para todos o solo para tu equipo (todos los escondidos o todos los buscadores).\n• En «Vista de jugadores» ves los encontrados y los que quedan.|||• La carte affiche toujours ta position.\n• Au début, les cacheurs ont %1$d secondes pour se cacher. La chasse ne commence qu’ensuite.\n• À chaque ping, les positions de tous les joueurs sont figées sur la carte. Elles restent visibles au même endroit jusqu’au ping suivant. Les marqueurs affichent les deux premières lettres du nom.\n• Si « Équipe en direct » est actif dans le salon, tu vois les positions de ton équipe en temps réel. Les joueurs trouvés disparaissent aussitôt.\n• La zone rétrécit avec le temps. La zone actuelle est verte (rouge si tu es dehors), la suivante est orange en pointillés.\n• Celui qui reste trop longtemps hors de la zone actuelle est éliminé.\n• Chaque chercheur capture un cacheur en saisissant son code de capture à 4 chiffres.\n• Il peut y avoir plusieurs chercheurs. Quand tous les chercheurs ou tous les cacheurs sont éliminés, la manche se termine.\n• Chat : messages pour tout le monde ou seulement ton équipe (tous les cacheurs ou tous les chercheurs).\n• La vue des joueurs montre les joueurs trouvés et restants.
+game_shop_help|||\n• Shop: You earn 1 coin per 5 s of survival. Prices scale with the round duration.\n   Fake marker %1$d · Ping camouflage %2$d · Seeker radar %3$d coins.|||\n• Shop: Du sammelst 1 Münze pro 5 s Überleben. Preise passen sich der Rundenzeit an.\n   Falsche Markierung %1$d · Ping-Tarnung %2$d · Sucher-Radar %3$d Münzen.|||\n• Tienda: ganas 1 moneda cada 5 s de supervivencia. Los precios se ajustan a la duración de la ronda.\n   Marcador falso %1$d · Camuflaje de ping %2$d · Radar de buscador %3$d monedas.|||\n• Boutique : tu gagnes 1 pièce par 5 s de survie. Les prix s’adaptent à la durée de la manche.\n   Faux marqueur %1$d · Camouflage de ping %2$d · Radar de chercheur %3$d pièces.
+game_how_it_works|||How the hunt works|||So funktioniert die Jagd|||Cómo funciona la cacería|||Comment marche la chasse
+game_got_it|||Got it|||Alles klar|||Entendido|||Compris
+game_end_round_title|||End round?|||Runde beenden?|||¿Terminar la ronda?|||Terminer la manche ?
+game_end_round_message|||The round will end for everyone. The result will be shown.|||Die Runde wird für alle beendet. Das Ergebnis wird angezeigt.|||La ronda terminará para todos. Se mostrará el resultado.|||La manche se terminera pour tout le monde. Le résultat sera affiché.
+game_end|||End|||Beenden|||Terminar|||Terminer
+game_leave_title|||End game and leave?|||Spiel beenden und verlassen?|||¿Terminar y salir de la partida?|||Terminer et quitter la partie ?
+game_leave_title_short|||Leave game?|||Spiel verlassen?|||¿Salir de la partida?|||Quitter la partie ?
+game_leave_message_host|||The round ends for all players.|||Die Runde endet für alle Spieler.|||La ronda termina para todos los jugadores.|||La manche se termine pour tous les joueurs.
+game_leave_message_guest|||You will be eliminated and can no longer win the round.|||Du scheidest aus und kannst die Runde nicht mehr gewinnen.|||Quedarás eliminado y ya no podrás ganar la ronda.|||Tu seras éliminé et ne pourras plus gagner la manche.
+game_no_replay|||No replay is available for this round.|||Für diese Runde ist kein Replay verfügbar.|||No hay repetición disponible para esta ronda.|||Aucun replay n’est disponible pour cette manche.
+game_winners_seekers|||SEEKERS WIN|||SUCHER GEWINNEN|||GANAN LOS BUSCADORES|||LES CHERCHEURS GAGNENT
+game_winner_seeker|||SEEKER WINS|||SUCHER GEWINNT|||GANA EL BUSCADOR|||LE CHERCHEUR GAGNE
+game_winners_hiders|||HIDERS WIN|||VERSTECKER GEWINNEN|||GANAN LOS ESCONDIDOS|||LES CACHEURS GAGNENT
+game_round_ended|||ROUND OVER|||RUNDE BEENDET|||RONDA TERMINADA|||MANCHE TERMINÉE
+game_your_team_wins|||YOUR TEAM WINS|||DEIN TEAM GEWINNT|||TU EQUIPO GANA|||TON ÉQUIPE GAGNE
+game_aborted|||ABORTED|||ABGEBROCHEN|||CANCELADA|||ANNULÉE
+game_hiders_left|||Hiders left|||Verstecker übrig|||Escondidos restantes|||Cacheurs restants
+game_catches|||Catches|||Fänge|||Capturas|||Captures
+game_kcal_suffix||| kcal||| kcal||| kcal||| kcal
+game_round_over_reason|||The round is over.|||Die Runde ist vorbei.|||La ronda ha terminado.|||La manche est terminée.
+end_all_out|||All hiders have been eliminated. The seekers win.|||Alle Verstecker sind ausgeschieden. Die Sucher gewinnen.|||Todos los escondidos han sido eliminados. Ganan los buscadores.|||Tous les cacheurs ont été éliminés. Les chercheurs gagnent.
+end_time_hiders|||Time is up. The remaining hiders win.|||Die Zeit ist abgelaufen. Die verbliebenen Verstecker gewinnen.|||Se acabó el tiempo. Ganan los escondidos restantes.|||Le temps est écoulé. Les cacheurs restants gagnent.
+end_time_seekers|||Time is up. The seekers win.|||Die Zeit ist abgelaufen. Die Sucher gewinnen.|||Se acabó el tiempo. Ganan los buscadores.|||Le temps est écoulé. Les chercheurs gagnent.
+end_seekers_out|||All seekers have been eliminated. The hiders win.|||Alle Sucher sind ausgeschieden. Die Verstecker gewinnen.|||Todos los buscadores han sido eliminados. Ganan los escondidos.|||Tous les chercheurs ont été éliminés. Les cacheurs gagnent.
+end_seekers_left|||The seekers left the game. The hiders win.|||Die Sucher haben das Spiel verlassen. Die Verstecker gewinnen.|||Los buscadores salieron de la partida. Ganan los escondidos.|||Les chercheurs ont quitté la partie. Les cacheurs gagnent.
+end_host_ended|||The host ended the round.|||Der Host hat die Runde beendet.|||El anfitrión terminó la ronda.|||L’hôte a terminé la manche.
+end_default|||The round is over.|||Die Runde ist vorbei.|||La ronda ha terminado.|||La manche est terminée.
+game_team_all_seekers|||Team = all seekers|||Team = alle Sucher|||Equipo = todos los buscadores|||Équipe = tous les chercheurs
+game_team_all_hiders|||Team = all hiders|||Team = alle Verstecker|||Equipo = todos los escondidos|||Équipe = tous les cacheurs
+game_team_scope|||TEAM|||TEAM|||EQUIPO|||ÉQUIPE
+game_all_scope|||ALL|||ALLE|||TODOS|||TOUS
+game_notif_hunt_seeker|||The hunt begins – you can catch now.|||Die Jagd beginnt – du kannst jetzt fangen.|||La cacería empieza: ya puedes capturar.|||La chasse commence : tu peux capturer.
+game_notif_hunt_hider|||The hunt begins – stay in the zone!|||Die Jagd beginnt – bleib in der Zone!|||La cacería empieza: ¡quédate en la zona!|||La chasse commence : reste dans la zone !
+game_ping_placeholder|||Ping 5 s ago|||Ping vor 5 s|||Ping hace 5 s|||Ping il y a 5 s
+game_player_name_placeholder|||Player|||Spieler|||Jugador|||Joueur
+game_role_hider_lower|||Hider|||Verstecker|||Escondido|||Cacheur
+game_role_seeker_lower|||Seeker|||Sucher|||Buscador|||Chercheur
+notif_channel_name|||Game events|||Spielereignisse|||Eventos de juego|||Événements de jeu
+notif_channel_desc|||Round start, round end and the shrinking zone|||Rundenstart, Rundenende und die schrumpfende Zone|||Inicio y fin de ronda y la zona que se reduce|||Début et fin de manche et la zone qui rétrécit
+notif_started_seeker_title|||Round started|||Runde gestartet|||Ronda iniciada|||Manche commencée
+notif_started_seeker_text|||The hiders have a %1$d second head start. Wait for the start signal.|||Die Verstecker haben %1$d Sekunden Vorsprung. Warte auf das Startsignal.|||Los escondidos tienen %1$d segundos de ventaja. Espera la señal de inicio.|||Les cacheurs ont %1$d secondes d’avance. Attends le signal de départ.
+notif_started_hider_title|||Round started|||Runde gestartet|||Ronda iniciada|||Manche commencée
+notif_started_hider_text|||You have %1$d seconds to hide. Then the hunt begins.|||Du hast %1$d Sekunden Zeit, dich zu verstecken. Danach beginnt die Jagd.|||Tienes %1$d segundos para esconderte. Después empieza la cacería.|||Tu as %1$d secondes pour te cacher. Ensuite la chasse commence.
+notif_hunt_seeker_title|||The hunt begins|||Die Jagd beginnt|||La cacería empieza|||La chasse commence
+notif_hunt_seeker_text|||The hide time is over. You can search and catch now.|||Die Versteckzeit ist vorbei. Du kannst jetzt suchen und fangen.|||El tiempo para esconderse ha terminado. Ya puedes buscar y capturar.|||Le temps de cache est terminé. Tu peux chercher et capturer.
+notif_hunt_hider_title|||The hunt begins|||Die Jagd beginnt|||La cacería empieza|||La chasse commence
+notif_hunt_hider_text|||The seeker is on the move now. Stay in the zone!|||Der Sucher ist jetzt unterwegs. Bleib in der Zone!|||El buscador ya está en marcha. ¡Quédate en la zona!|||Le chercheur est en route. Reste dans la zone !
+notif_zone_tight|||The zone has shrunk a lot: only %1$d m left.|||Die Zone ist stark geschrumpft: nur noch %1$d m.|||La zona se ha reducido mucho: solo quedan %1$d m.|||La zone a beaucoup rétréci : plus que %1$d m.
+notif_zone_size|||The game zone is now %1$d m across.|||Die Spielzone ist jetzt %1$d m groß.|||La zona de juego ahora mide %1$d m.|||La zone de jeu fait maintenant %1$d m.
+notif_zone_title|||Zone shrinking|||Zone schrumpft|||La zona se reduce|||La zone rétrécit
+shop_error_round_over|||The round is already over.|||Die Runde ist bereits beendet.|||La ronda ya ha terminado.|||La manche est déjà terminée.
+shop_error_disabled|||The shop is not enabled in this round.|||Der Shop ist in dieser Runde nicht aktiviert.|||La tienda no está activada en esta ronda.|||La boutique n’est pas activée pour cette manche.
+shop_error_not_started|||The shop opens when the hunt begins.|||Der Shop öffnet, sobald die Jagd beginnt.|||La tienda se abre cuando empieza la cacería.|||La boutique ouvre au début de la chasse.
+shop_error_unknown_item|||Unknown shop item.|||Unbekannter Shop-Artikel.|||Artículo de tienda desconocido.|||Article de boutique inconnu.
+shop_error_no_connection|||No connection. The purchase was not sent.|||Keine Verbindung. Der Kauf wurde nicht gesendet.|||Sin conexión. La compra no se envió.|||Pas de connexion. L’achat n’a pas été envoyé.
+shop_error_out|||Eliminated players cannot buy anything.|||Ausgeschiedene Spieler können nichts mehr kaufen.|||Los jugadores eliminados no pueden comprar.|||Les joueurs éliminés ne peuvent rien acheter.
+shop_error_role|||%1$s.|||%1$s.|||%1$s.|||%1$s.
+shop_error_decoy_tap|||Tap the map to place the fake marker.|||Tippe auf die Karte, um die falsche Markierung zu platzieren.|||Toca el mapa para colocar el marcador falso.|||Touche la carte pour placer le faux marqueur.
+shop_error_coins|||Not enough coins. You need %1$d, have %2$d.|||Zu wenig Münzen. Du brauchst %1$d, hast %2$d.|||No tienes suficientes monedas. Necesitas %1$d y tienes %2$d.|||Pas assez de pièces. Il te faut %1$d, tu en as %2$d.
+shop_error_ghost_active|||Your ping camouflage is already active.|||Deine Ping-Tarnung ist bereits aktiv.|||Tu camuflaje de ping ya está activo.|||Ton camouflage de ping est déjà actif.
+shop_error_radar_active|||The radar is already running.|||Das Radar läuft bereits.|||El radar ya está activo.|||Le radar est déjà actif.
+shop_decoy_placed|||Decoy placed. Seekers will see your name there for 45 s.|||Köder platziert. Die Sucher sehen dort 45 s lang deinen Namen.|||Señuelo colocado. Los buscadores verán tu nombre allí durante 45 s.|||Leurre placé. Les chercheurs verront ton nom à cet endroit pendant 45 s.
+shop_ghost_active_message|||Ping camouflage active: you will be invisible on the next ping.|||Ping-Tarnung aktiv: Beim nächsten Ping bist du unsichtbar.|||Camuflaje de ping activo: no aparecerás en el próximo ping.|||Camouflage de ping actif : tu seras invisible au prochain ping.
+shop_radar_active_message|||Radar active: you can see all hiders live for 10 s.|||Radar aktiv: Du siehst 10 s lang alle Verstecker live.|||Radar activo: ves a todos los escondidos en vivo durante 10 s.|||Radar actif : tu vois tous les cacheurs en direct pendant 10 s.
+error_connection_create|||Connection to the game server failed. Check your internet and try again.|||Verbindung zum Spielserver fehlgeschlagen. Bitte Internet prüfen und erneut versuchen.|||No se pudo conectar al servidor de juego. Comprueba tu internet e inténtalo de nuevo.|||Connexion au serveur de jeu échouée. Vérifie ton internet et réessaie.
+error_connection_join|||Connection to the game server failed. Check your internet.|||Verbindung zum Spielserver fehlgeschlagen. Bitte Internet prüfen.|||No se pudo conectar al servidor de juego. Comprueba tu internet.|||Connexion au serveur de jeu échouée. Vérifie ton internet.
+error_lobby_inactive|||This lobby is no longer active. Check the code.|||Diese Lobby ist nicht mehr aktiv. Prüfe den Code.|||Este lobby ya no está activo. Comprueba el código.|||Ce salon n’est plus actif. Vérifie le code.
+error_game_started|||This game has already started or ended.|||Dieses Spiel ist bereits gestartet oder beendet.|||Esta partida ya ha empezado o terminado.|||Cette partie a déjà commencé ou est terminée.
+error_join_failed|||Join failed. Please try again.|||Beitritt fehlgeschlagen. Bitte erneut versuchen.|||No se pudo unir. Inténtalo de nuevo.|||Impossible de rejoindre. Réessaie.
+error_started_before_join|||The game started before you could join.|||Das Spiel wurde gestartet, bevor du beitreten konntest.|||La partida empezó antes de que pudieras unirte.|||La partie a commencé avant que tu puisses rejoindre.
+error_lobby_closed|||The lobby was closed.|||Die Lobby wurde geschlossen.|||El lobby se cerró.|||Le salon a été fermé.
+error_no_connection|||No connection. Please wait a moment.|||Keine Verbindung. Bitte kurz warten.|||Sin conexión. Espera un momento.|||Pas de connexion. Attends un instant.
+error_gps_missing_join|||GPS signal missing. Go outside and wait for your location.|||GPS-Signal fehlt. Geh nach draußen und warte auf deinen Standort.|||Falta la señal GPS. Sal al exterior y espera tu ubicación.|||Signal GPS absent. Sors et attends ta position.
+error_need_second_player|||You need at least one other person for a hunt.|||Für eine Jagd brauchst du mindestens eine zweite Person.|||Necesitas al menos otra persona para una cacería.|||Il te faut au moins une autre personne pour une chasse.
+error_start_failed|||Start failed. Check the connection.|||Starten fehlgeschlagen. Prüfe die Verbindung.|||No se pudo iniciar. Comprueba la conexión.|||Le lancement a échoué. Vérifie la connexion.
+error_host_closed|||The host closed the lobby.|||Der Host hat die Lobby geschlossen.|||El anfitrión cerró el lobby.|||L’hôte a fermé le salon.
+error_replay_save|||Replay could not be saved|||Replay konnte nicht gespeichert werden|||No se pudo guardar la repetición|||Le replay n’a pas pu être enregistré
+error_round_over|||The round is already over.|||Die Runde ist bereits beendet.|||La ronda ya ha terminado.|||La manche est déjà terminée.
+error_hide_running|||The hide time is still running. The seeker only starts afterwards.|||Die Versteckzeit läuft noch. Der Sucher beginnt erst danach.|||El tiempo para esconderse sigue activo. El buscador empieza después.|||Le temps de cache est encore en cours. Le chercheur commence ensuite.
+error_only_seeker|||Only the seeker can catch someone.|||Nur der Sucher kann jemanden fangen.|||Solo el buscador puede capturar a alguien.|||Seul le chercheur peut capturer quelqu’un.
+error_you_out|||You have been eliminated.|||Du bist selbst ausgeschieden.|||Has sido eliminado.|||Tu as été éliminé.
+error_choose_hider|||Choose a hider.|||Wähle einen Verstecker aus.|||Elige un escondido.|||Choisis un cacheur.
+error_enter_catch|||Please enter the 4-digit catch code.|||Bitte den 4-stelligen Fangcode eingeben.|||Introduce el código de captura de 4 dígitos.|||Saisis le code de capture à 4 chiffres.
+error_player_not_found|||Player not found.|||Spieler nicht gefunden.|||Jugador no encontrado.|||Joueur introuvable.
+error_not_hider|||This player is not a hider.|||Dieser Spieler ist kein Verstecker.|||Este jugador no es un escondido.|||Ce joueur n’est pas un cacheur.
+error_already_out|||%1$s has already been eliminated.|||%1$s ist bereits ausgeschieden.|||%1$s ya ha sido eliminado.|||%1$s a déjà été éliminé.
+error_no_catch_code|||No catch code received yet. Wait a moment and try again.|||Noch kein Fangcode empfangen. Warte kurz und versuche es erneut.|||Aún no se ha recibido el código de captura. Espera un momento e inténtalo de nuevo.|||Aucun code de capture reçu pour l’instant. Attends un instant et réessaie.
+error_wrong_catch_code|||Wrong catch code. Ask %1$s for the code on their phone.|||Falscher Fangcode. Frage %1$s nach dem Code auf dem Handy.|||Código de captura incorrecto. Pregunta a %1$s por el código de su móvil.|||Mauvais code de capture. Demande à %1$s le code sur son téléphone.
+error_catch_no_connection|||No connection. The catch could not be reported.|||Keine Verbindung. Der Fang konnte nicht gemeldet werden.|||Sin conexión. No se pudo registrar la captura.|||Pas de connexion. La capture n’a pas pu être signalée.
+notify_caught|||%1$s was caught!|||%1$s wurde gefangen!|||¡%1$s ha sido capturado!|||%1$s a été capturé !
+replay_end_all_out|||All hiders have been eliminated.|||Alle Verstecker sind ausgeschieden.|||Todos los escondidos han sido eliminados.|||Tous les cacheurs ont été éliminés.
+replay_end_time|||Time is up.|||Die Zeit ist abgelaufen.|||Se acabó el tiempo.|||Le temps est écoulé.
+replay_end_seekers_out|||All seekers have been eliminated.|||Alle Sucher sind ausgeschieden.|||Todos los buscadores han sido eliminados.|||Tous les chercheurs ont été éliminés.
+replay_end_host|||The host ended the round.|||Der Host hat die Runde beendet.|||El anfitrión terminó la ronda.|||L’hôte a terminé la manche.
+replay_end_host_left|||The host left the game.|||Der Host hat das Spiel verlassen.|||El anfitrión salió de la partida.|||L’hôte a quitté la partie.
+time_no_ping|||no ping yet|||noch kein Ping|||aún sin ping|||pas encore de ping
+time_just_now|||just now|||gerade eben|||ahora mismo|||à l’instant
+time_seconds_ago|||%1$d s ago|||vor %1$d s|||hace %1$d s|||il y a %1$d s
+time_minutes_ago|||%1$d min ago|||vor %1$d min|||hace %1$d min|||il y a %1$d min
+unit_m|||%1$d m|||%1$d m|||%1$d m|||%1$d m
+unit_km|||%1$s km|||%1$s km|||%1$s km|||%1$s km

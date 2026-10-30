@@ -1,0 +1,216 @@
+activity_create_game.xml|@+id/txtCreateKicker|text|NEUE JAGD
+activity_create_game.xml|@+id/txtCreateTitle|text|DU BESTIMMST\nDIE REGELN.
+activity_create_game.xml|@+id/txtCreateSub|text|Zone, Tempo und Pings stellst du vor dem Start ein. Die Rolle des Suchers legst du in der Lobby fest.
+activity_create_game.xml||text|SPIELZONE
+activity_create_game.xml||text|Startgröße
+activity_create_game.xml|@+id/valueRadius|text|350 m
+activity_create_game.xml||text|Radius der Spielzone beim Start. Der Host-Standort wird zum Mittelpunkt.
+activity_create_game.xml||text|Schrumpf-Tempo
+activity_create_game.xml|@+id/valueShrink|text|5 m/min
+activity_create_game.xml||text|So viele Meter verliert die Zone pro Minute. Bei 0 bleibt sie stehen.
+activity_create_game.xml||text|TEMPO & SIGNALE
+activity_create_game.xml||text|Rundendauer
+activity_create_game.xml|@+id/valueRound|text|30 min
+activity_create_game.xml||text|Nach Ablauf gewinnen die Verstecker, die noch in der Zone sind.
+activity_create_game.xml||text|Ping-Takt
+activity_create_game.xml|@+id/valuePing|text|45 s
+activity_create_game.xml||text|Bei jedem Ping werden alle Spieler-Positionen auf der Karte eingefroren und bleiben bis zum nächsten Ping sichtbar.
+activity_create_game.xml||text|VERSTECKEN, TEAM & SHOP
+activity_create_game.xml||text|Versteckdauer
+activity_create_game.xml|@+id/valueHide|text|25 s
+activity_create_game.xml||text|So viel Vorsprung haben die Verstecker, bevor die Sucher losziehen.
+activity_create_game.xml||text|Team live sehen
+activity_create_game.xml||text|Verstecker sehen Verstecker live, Sucher sehen Sucher live – nur solange sie im Spiel sind.
+activity_create_game.xml|@+id/switchTeamLive|contentDescription|Team-Positionen live sehen
+activity_create_game.xml||text|Shop aktivieren
+activity_create_game.xml||text|Fürs Überleben gibt es Münzen. Im Spiel kaufst du damit Köder, Ping-Tarnung oder Radar. Die Preise passen sich der Rundendauer an.
+activity_create_game.xml|@+id/switchShop|contentDescription|Shop aktivieren
+activity_create_game.xml||text|ZONEN-REGEL
+activity_create_game.xml||text|Kulanz außerhalb
+activity_create_game.xml|@+id/valueGrace|text|30 s
+activity_create_game.xml||text|So lange darfst du dich außerhalb der Zone aufhalten, bevor du automatisch ausscheidest.
+activity_create_game.xml||text|Der Startpunkt wird beim Loslassen der Runde aus deinem GPS-Standort gesetzt. Die Zone kann sich nicht verschieben – nur schrumpfen.
+activity_create_game.xml|@+id/btnCreateLobby|text|Lobby erstellen
+activity_create_game.xml|@+id/txtCreateFootnote|text|Du erhältst danach einen 4-stelligen Beitrittscode.
+activity_create_game.xml||text|LOBBY WIRD GEÖFFNET
+activity_create_game.xml|@+id/txtOverlayStatus|text|Verbindung wird aufgebaut …
+activity_game.xml|@+id/txtRole|text|SUCHER
+activity_game.xml|@+id/txtConnection|text|LIVE
+activity_game.xml|@+id/txtTimer|text|30:00
+activity_game.xml|@+id/btnChat|contentDescription|Chat
+activity_game.xml|@+id/chatBadge|text|1
+activity_game.xml|@+id/btnMenu|contentDescription|Menü
+activity_game.xml||text|ZONE
+activity_game.xml|@+id/txtZone|text|350 m
+activity_game.xml|@+id/txtZoneSub|text|−5 m/min
+activity_game.xml|@+id/txtPingLabel|text|NÄCHSTER PING
+activity_game.xml|@+id/txtPingTimer|text|0:45
+activity_game.xml|@+id/txtPingSub|text|bis zum nächsten Ping
+activity_game.xml||text|IM SPIEL
+activity_game.xml|@+id/txtAlive|text|4
+activity_game.xml|@+id/txtAliveSub|text|3 Verstecker
+activity_game.xml||text|●
+activity_game.xml|@+id/txtZoneNow|text|JETZT · 350 m
+activity_game.xml||text|●
+activity_game.xml|@+id/txtZoneNext|text|NÄCHSTE · 325 m · 04:35
+activity_game.xml|@+id/pingBanner|text|PING! Positionen sind eingefroren.
+activity_game.xml||text|VERSTECKPHASE
+activity_game.xml|@+id/txtHidePhaseSub|text|Die Sucher warten, bis alle versteckt sind.
+activity_game.xml|@+id/txtHidePhaseTimer|text|0:25
+activity_game.xml|@+id/warningBanner|text|Du bist außerhalb der Zone!
+activity_game.xml|@+id/connectionBanner|text|Verbindung wird wiederhergestellt …
+activity_game.xml||text|DU HAST JEMANDEN GEFUNDEN?
+activity_game.xml||text|Gib den Fangcode vom Handy des Versteckers ein.
+activity_game.xml|@+id/btnCatch|text|Fangen
+activity_game.xml||text|DEIN FANGCODE
+activity_game.xml|@+id/btnRevealCode|text|Zeigen
+activity_game.xml|@+id/txtCatchCode|text|••••
+activity_game.xml|@+id/txtCodeHint|text|Nur zeigen, wenn du gefunden wurdest.
+activity_game.xml||text|DU BIST RAUS
+activity_game.xml|@+id/txtOutReason|text|Außerhalb der Zone ausgeschieden.
+activity_game.xml|@+id/txtOutWatch|text|Zuschauen
+activity_game.xml|@+id/txtCoins|text|0
+activity_game.xml||text|MÜNZEN
+activity_game.xml|@+id/btnShop|text|Shop
+activity_game.xml|@+id/txtShopStatus|text|1 Münze pro 5 s Überleben · Preise passen zur Rundenzeit
+activity_game.xml||text|SPIELER
+activity_game.xml|@+id/btnOverview|text|Übersicht
+activity_game.xml|@+id/btnRecenter|text|Karte
+activity_game.xml|@+id/txtAttribution|text|© OpenStreetMap
+activity_game.xml|@+id/txtCountdownLabel|text|BEREIT?
+activity_game.xml|@+id/txtCountdown|text|3
+activity_game.xml|@+id/txtCountdownSub|text|Die Jagd beginnt
+activity_game.xml|@+id/introRole|text|DEINE ROLLE
+activity_game.xml|@+id/introTitle|text|DU BIST SUCHER
+activity_game.xml|@+id/introText|text|Warte auf den ersten Ping. Danach bleiben die Positionen aller Spieler bis zum nächsten Ping eingefroren sichtbar.
+activity_game.xml|@+id/btnIntroDismiss|text|Verstanden, los!
+activity_game.xml|@+id/endBadge|text|RUNDE BEENDET
+activity_game.xml|@+id/endTitle|text|SUCHER GEWINNT
+activity_game.xml|@+id/endReason|text|Alle Verstecker sind ausgeschieden.
+activity_game.xml|@+id/endStatOneValue|text|28:14
+activity_game.xml||text|Dauer
+activity_game.xml|@+id/endStatTwoValue|text|2 / 4
+activity_game.xml|@+id/endStatTwoLabel|text|übrig
+activity_game.xml|@+id/endStatThreeValue|text|12
+activity_game.xml|@+id/endStatThreeLabel|text|Pings
+activity_game.xml|@+id/endStatFourValue|text|0 m
+activity_game.xml||text|Strecke
+activity_game.xml|@+id/endStatFiveValue|text|0 kcal
+activity_game.xml||text|Kalorien
+activity_game.xml|@+id/btnEndReplay|text|Replay ansehen
+activity_game.xml|@+id/btnEndBack|text|Zurück zum Start
+activity_join_game.xml||text|EINER VON VIELEN
+activity_join_game.xml||text|JAGD BEITRETEN
+activity_join_game.xml||text|Gib den 4-stelligen Code der Lobby ein.
+activity_join_game.xml||text|BEITRITTSCODE
+activity_join_game.xml|@+id/inputCode|hint|0000
+activity_join_game.xml|@+id/nameLayout|hint|Dein Spielername
+activity_join_game.xml|@+id/btnJoinLobby|text|Beitreten
+activity_join_game.xml|@+id/txtProgress|text|Verbinde mit der Lobby …
+activity_join_game.xml||text|Jedes Handy spielt mit. Standort, Karte und Ping laufen direkt auf deinem Gerät.
+activity_join_game.xml||text|LOBBY WIRD GEÖFFNET
+activity_join_game.xml|@+id/txtOverlayStatus|text|Verbindung wird aufgebaut …
+activity_lobby.xml||text|LOBBY
+activity_lobby.xml||text|Warte auf die Jagd.
+activity_lobby.xml|@+id/txtRole|text|HOST
+activity_lobby.xml||text|BEITRITTSCODE
+activity_lobby.xml|@+id/btnCopyCode|text|Kopieren
+activity_lobby.xml|@+id/txtCode|text|0000
+activity_lobby.xml||text|Diesen Code an deine Gruppe teilen.
+activity_lobby.xml|@+id/txtLobbyStatus|text|Warte auf Mitspieler …
+activity_lobby.xml|@+id/txtPlayerCount|text|1 / 20
+activity_lobby.xml||text|SPIELER
+activity_lobby.xml||text|DEINE REGIE
+activity_lobby.xml||text|Wer sucht? · Mehrfachauswahl
+activity_lobby.xml|@+id/txtSeekerValue|text|Noch nicht gewürfelt
+activity_lobby.xml||text|SUCHER AUSWÄHLEN · tippe auf Namen
+activity_lobby.xml|@+id/btnRandomSeeker|text|Neu würfeln
+activity_lobby.xml|@+id/txtSeekerTip|text|Tipp: Mehrere Sucher möglich – mindestens ein Verstecker bleibt übrig. Die Versteckdauer legt der Host fest.
+activity_lobby.xml||text|ECHTZEIT-EINSTELLUNGEN
+activity_lobby.xml|@+id/btnEditSettings|text|Einstellungen ändern
+activity_lobby.xml|@+id/btnStart|text|Jagd starten
+activity_lobby.xml|@+id/txtStartHint|text|Mindestens 2 Spieler · GPS wird beim Start benötigt
+activity_lobby.xml||text|DER HOST STARTET BALD
+activity_lobby.xml|@+id/txtGuestHint|text|Bleib in der Lobby. Sobald es losgeht, öffnet sich die Karte. Danach hast du Vorsprung zum Verstecken.
+activity_lobby.xml|@+id/txtLobbyInfo|text|Der Sucher bekommt keinen Ping-Vorteil: Alle Positionen werden gleichzeitig sichtbar. Verstecker haben Vorsprung. Chat: Alle oder nur das eigene Team. Fangcodes bleiben auf dem Handy der Verstecker.
+activity_main.xml||text|OUTDOOR
+activity_main.xml||text|Die Jagd ist draußen. Deine Freunde, die Karte, eine Zone, die schrumpft.
+activity_main.xml|@+id/nameLayout|hint|Dein Spielername
+activity_main.xml|@+id/btnCreate|text|Jagd erstellen
+activity_main.xml|@+id/btnJoin|text|Mit Code beitreten
+activity_main.xml||text|Kein Account. Keine Anmeldung. Nur draußen.
+activity_main.xml||text|DEINE BILANZ
+activity_main.xml|@+id/txtTotalKm|text|0,0 km
+activity_main.xml||text|Gesamtstrecke
+activity_main.xml|@+id/txtTotalKcal|text|0 kcal
+activity_main.xml||text|Kalorien verbrannt
+activity_main.xml||text|Gezählt werden die Wege, die du während der Runden zu Fuß zurücklegst.
+activity_main.xml|@+id/btnReplays|text|Wiederholungen
+activity_main.xml||text|GPS
+activity_main.xml||text|Echtzeit-Karte
+activity_main.xml||text|LIVE
+activity_main.xml||text|Pings & Zone
+activity_main.xml||text|2–20
+activity_main.xml||text|Spieler
+activity_main.xml||text|SO LÄUFT'S
+activity_main.xml||text|OpenStreetMap-Karten · MQTT-Echtzeit · Für draußen gebaut
+activity_replay.xml||text|REPLAY
+activity_replay.xml|@+id/txtReplayTitle|text|Jagd vom 01.01.2026
+activity_replay.xml|@+id/txtReplayMeta|text|Code 0000 · 4 Spieler · 12:34
+activity_replay.xml|@+id/txtReplayZone|text|Jetzt 350 m · Nächste 325 m · in 05:00
+activity_replay.xml|@+id/btnReplayFit|contentDescription|Alle Wege einpassen
+activity_replay.xml|@+id/btnReplayPlay|text|Abspielen
+activity_replay.xml|@+id/txtReplayElapsed|text|00:00
+activity_replay.xml|@+id/txtReplayTotal|text|00:00
+activity_replay.xml|@+id/btnReplaySpeed|text|1×
+activity_replay.xml|@+id/txtReplayHint|text|Tempo antippen · Regler ziehen zum Springen
+activity_replay.xml|@+id/txtReplayAttribution|text|© OpenStreetMap
+activity_replays.xml||text|WIEDERHOLUNGEN
+activity_replays.xml||text|Deine Runden.
+activity_replays.xml|@+id/txtReplayCount|text|0
+activity_replays.xml||text|NOCH KEIN REPLAY
+activity_replays.xml||text|Beende eine Runde. Danach findest du hier die Wege aller Spieler – nur auf diesem Gerät.
+activity_replays.xml||text|Replays bleiben lokal gespeichert und können jederzeit gelöscht werden.
+dialog_catch_code.xml|@+id/txtCatchPrompt|text|Der Verstecker zeigt dir seinen 4-stelligen Code.
+dialog_catch_code.xml|@+id/inputCatchCode|hint|0000
+dialog_catch_code.xml|@+id/txtCatchError|text|
+dialog_chat.xml||text|CHAT
+dialog_chat.xml|@+id/txtChatRole|text|VERSTECKER
+dialog_chat.xml|@+id/btnChatAll|text|Alle
+dialog_chat.xml|@+id/btnChatTeam|text|Team
+dialog_chat.xml|@+id/txtChatTeamHint|text|Team = alle Verstecker
+dialog_chat.xml|@+id/txtChatEmpty|text|Noch keine Nachrichten.\nSchreib die erste.
+dialog_chat.xml|@+id/inputChat|hint|Nachricht schreiben …
+dialog_chat.xml|@+id/btnChatSend|contentDescription|Senden
+dialog_chat.xml||text|Team-Nachrichten sehen nur Spieler mit derselben Rolle.
+dialog_player_overview.xml|@+id/overviewOutTitle|text|GEFUNDEN & AUSGESCHIEDEN
+dialog_player_overview.xml|@+id/overviewOutEmpty|text|Noch niemand ausgeschieden.
+dialog_player_overview.xml|@+id/overviewAliveTitle|text|NOCH IM SPIEL
+dialog_player_overview.xml||text|Fangcodes werden hier nie angezeigt.
+dialog_shop.xml||text|SHOP
+dialog_shop.xml||text|1 Münze pro 5 s Überleben
+dialog_shop.xml|@+id/shopCoins|text|0 Münzen
+dialog_shop.xml||text|Preise passen sich automatisch der Rundenzeit an. Käufe werden an alle Spieler übertragen.
+dialog_shop.xml||text|Münzen gibt es nur, solange du im Spiel bist.
+item_chat_message.xml|@+id/chatSender|text|Spieler
+item_chat_message.xml|@+id/chatScope|text|ALLE
+item_chat_message.xml|@+id/chatTime|text|20:15
+item_chat_message.xml|@+id/chatText|text|Nachricht
+item_game_player.xml|@+id/avatar|text|AB
+item_game_player.xml|@+id/name|text|Name
+item_game_player.xml|@+id/status|text|Ping vor 5 s
+item_lobby_player.xml|@+id/avatar|text|AB
+item_lobby_player.xml|@+id/txtName|text|Spieler
+item_lobby_player.xml|@+id/txtMeta|text|Bereit
+item_lobby_player.xml|@+id/txtBadge|text|HOST
+item_replay.xml|@+id/txtReplayDate|text|28.10.2026 · 14:05
+item_replay.xml|@+id/txtReplayDetails|text|Code 4821 · 8:42 · 5 Spieler
+item_replay.xml|@+id/txtReplayResult|text|Sucher: Anna · Verstecker gewinnen
+item_replay.xml|@+id/btnDeleteReplay|contentDescription|Replay löschen
+item_shop_offer.xml|@+id/shopName|text|Falsche Markierung
+item_shop_offer.xml|@+id/shopDescription|text|Platziere einen Köder mit deinem Namen.
+item_shop_offer.xml|@+id/shopPrice|text|60 Münzen
+item_shop_offer.xml|@+id/btnShopBuy|text|Kaufen
+step_row.xml|@+id/stepNumber|text|1
+step_row.xml|@+id/stepTitle|text|Lobby aufmachen
+step_row.xml|@+id/stepText|text|Der Host stellt Zone, Ping-Takt und Rundendauer ein und teilt den 4-stelligen Code.
